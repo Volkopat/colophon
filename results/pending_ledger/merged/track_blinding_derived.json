@@ -1,0 +1,22 @@
+[
+  {
+    "id": "SUB-15",
+    "section": "SUB",
+    "section_title": "Submission package",
+    "claim": "No identifier of any shape reaches the blinded copy, checked against the shipped file rather than against the mask list.",
+    "status": "MEASURED",
+    "status_note": "The corresponding email was written twice, once in fields.json and once as a literal in TOKEN_MASKS. Changing the field alone would have shipped a blinded copy carrying the new address in clear, because the mask still named the old one. The defect is not in a value, it is in keying a guard to a copy of the thing it guards.",
+    "value": "The identity masks derive from the field store. The check reads the shipped blinded copy for email-shaped and ORCID-shaped strings and for the field values verbatim: 0 found, with dicom@dicomstandard.org the one allowed address.",
+    "sop_class": "not applicable",
+    "n": "0",
+    "denominator": "3",
+    "floor": "not applicable, this row counts identifiers that leaked",
+    "dropped": "the ORCID is still a literal in the mask list because there is no ORCID field for it to derive from. The shape check covers it regardless, which is why the shape check exists",
+    "validator": "none",
+    "validator_version": "not applicable",
+    "command": "python -m colophon.submission",
+    "source_file": "results/submission/03_manuscript_blinded.md",
+    "pinned_by_test": "tests/test_submission.py::test_no_identifier_of_any_shape_reaches_the_blinded_copy",
+    "verified_on": "2026-08-03"
+  }
+]

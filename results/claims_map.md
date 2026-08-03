@@ -1,13 +1,13 @@
 # Claims map: every claim, its ledger row, and the artefact that carries it
 
-Generated 2026-08-03T13:52:01Z by `python -m colophon.claims_map`. Snapshot: **296 ledger rows**, 254 files under
+Generated 2026-08-03T15:27:42Z by `python -m colophon.claims_map`. Snapshot: **297 ledger rows**, 255 files under
 `results/`, 210 of them scanned as possible carriers.
 
 Parallel tracks write into `results/` while this runs, so the map describes the
 repository at the timestamp above. A regeneration that differs is explained by
 the timestamp before it is read as drift.
 
-Status counts in this snapshot: DERIVED 19, LITERATURE 11, MEASURED 183, PENDING 25, RETIRED 8, VERIFIED 50.
+Status counts in this snapshot: DERIVED 19, LITERATURE 11, MEASURED 184, PENDING 25, RETIRED 8, VERIFIED 50.
 
 ## How to read this
 
@@ -17,7 +17,7 @@ opens to check it. `source_file` is the artefact the row itself names.
 text, which is a different and weaker thing: a write-up can rest on a number
 without ever naming the row it came from.
 
-The third leg is `results/manuscript/`, which holds 24 file(s): `absence_claims.csv`, `absence_claims.md`, `abstract.md`, `abstract_venue.md`, `citation_check.json`, `discussion.md`, `figures.md`, `front_matter.md`, `introduction.md`, `methods.md`, `references.md`, `references_crossref.json`, `results.md`, `table1.csv`, `table1_writers.csv`, `table1_writers.md`, `table2.csv`, `table2_floor_set.csv`, `table2_floor_set.md`, `table3.csv`, `table4.csv`, `table5.csv`, `table6.csv`, `tables.md`. **65 of the 296 claim ids are
+The third leg is `results/manuscript/`, which holds 24 file(s): `absence_claims.csv`, `absence_claims.md`, `abstract.md`, `abstract_venue.md`, `citation_check.json`, `discussion.md`, `figures.md`, `front_matter.md`, `introduction.md`, `methods.md`, `references.md`, `references_crossref.json`, `results.md`, `table1.csv`, `table1_writers.csv`, `table1_writers.md`, `table2.csv`, `table2_floor_set.csv`, `table2_floor_set.md`, `table3.csv`, `table4.csv`, `table5.csv`, `table6.csv`, `tables.md`. **65 of the 297 claim ids are
 named inside it.** The rest are carried by a results write-up or by a CSV table
 and have no manuscript location yet. Files there whose name marks them as a
 numbered table or figure: `table1.csv`, `table1_writers.csv`, `table1_writers.md`, `table2.csv`, `table2_floor_set.csv`, `table2_floor_set.md`, `table3.csv`, `table4.csv`, `table5.csv`, `table6.csv`. A claim named in one of those has a table to point
@@ -333,13 +333,14 @@ prose through the file that lists it.
 | SUB-13 | SUB | MEASURED | The Word files are produced from a converter pinned in i ... | results/submission/docx.json | yes | (nothing) |
 | SUB-14 | SUB | VERIFIED | The competing-interests employment window is stated by t ... | results/submission/fields.json and results/submission/01_title_page.md | yes | (nothing) |
 | REL-04 | REL | MEASURED | Every version string in the package derives from one sou ... | colophon/__init__.py and results/submission/02_manuscript_full.md | yes | (nothing) |
+| SUB-15 | SUB | MEASURED | No identifier of any shape reaches the blinded copy, che ... | results/submission/03_manuscript_blinded.md | yes | (nothing) |
 
 ## 1. Orphan claims
 
 A claim nothing carries is a claim that will not survive review. Two failures,
 counted apart because they are not equally bad.
 
-**No artefact behind the row: 13 of 296.** The row names no source file, or names
+**No artefact behind the row: 13 of 297.** The row names no source file, or names
 one that is not on disk.
 
 | id | status | why |
@@ -358,11 +359,11 @@ one that is not on disk.
 | C-PM-08 | MEASURED | source file missing: results/phase2/adjudication_parametric_map.csv; results/phase2/net_rates_parametric_map.md; no results markdown names the id |
 | C-PM-09 | DERIVED | source file missing: results/phase2/adjudication_parametric_map.csv; results/phase2/net_rates_parametric_map.md |
 
-**No results markdown names the id: 195 of 296.** The evidence file exists, but no
+**No results markdown names the id: 196 of 297.** The evidence file exists, but no
 write-up refers to the claim by id, so the route from prose to ledger row is one
 a reader has to reconstruct.
 
-Under the union of the two conditions, **197 of 296 rows are orphans**.
+Under the union of the two conditions, **198 of 297 rows are orphans**.
 
 | id | status | source_file | why |
 |---|---|---|---|
@@ -563,6 +564,7 @@ Under the union of the two conditions, **197 of 296 rows are orphans**.
 | SUB-13 | MEASURED | results/submission/docx.json | no results markdown names the id |
 | SUB-14 | VERIFIED | results/submission/fields.json and results/submission/01_title_page.md | no results markdown names the id |
 | REL-04 | MEASURED | colophon/__init__.py and results/submission/02_manuscript_full.md | no results markdown names the id |
+| SUB-15 | MEASURED | results/submission/03_manuscript_blinded.md | no results markdown names the id |
 
 ## 2. Uncited artefacts
 
@@ -776,11 +778,11 @@ floor is not a number, so the second figure is the one that has to stay at zero.
 | F2-06 | MEASURED | Jaccard 0.8571, 6 shared of 7 in the unio ... | yes | this table is the floor; it does not quote a rate against on ... |
 | F2-07 | MEASURED | dciodvfy e4c7fa2d56f7: Grayscale Softcopy Presentation State Storage 4 ... | yes | this table is the floor; it does not quote a rate against on ... |
 | F2-08 | MEASURED | complete: Real World Value Mapping Storage 20 series; Key Object Selec ... | yes | not applicable, no validator involve ... |
-| F3-02 | MEASURED | 13 of 295 rows have no artefact on disk; 194 of 295 are named by no re ... | yes | not applicable, no validator is involved and no conformance ... |
+| F3-02 | MEASURED | 13 of 296 rows have no artefact on disk; 195 of 296 are named by no re ... | yes | not applicable, no validator is involved and no conformance ... |
 | F3-03 | MEASURED | 85 of 210 scanned files are named by no source_file in the ledge ... | yes | not applicable, no validator is involved and no conformance ... |
 | F3-05 | MEASURED | 8 RETIRED rows, 8 carry a reason, 6 name a successor, 6 of those succe ... | yes | not applicable, no validator is involved and no conformance ... |
 | F3-07 | MEASURED | 108 rows quote a rate by the ledger's own rule, 0 of them name no floo ... | yes | not applicable, no validator is involved and no conformance ... |
-| F3-08 | MEASURED | 159 of 295 rows name a test, 141 distinct tests, 0 name a test that do ... | yes | not applicable, no validator is involved and no conformance ... |
+| F3-08 | MEASURED | 160 of 296 rows name a test, 142 distinct tests, 0 name a test that do ... | yes | not applicable, no validator is involved and no conformance ... |
 | G2-02 | MEASURED | 5 of 138 query rows carry a hit count captured at search time; 133 do ... | yes | not applicable, no validator involve ... |
 | G2-03 | MEASURED | condition (a) met for 5 of 138 query rows; condition (b) met for 4 scr ... | yes | not applicable, no validator involve ... |
 | G2-04 | MEASURED | 132 of 138 query rows were issued against a general web search whose e ... | yes | not applicable, no validator involve ... |
@@ -832,7 +834,7 @@ floor is not a number, so the second figure is the one that has to stay at zero.
 ## 7. Test coverage
 
 `pinned_by_test` is what stops a claim regressing silently, so the field is
-worth only as much as the test behind it. **160 rows name a test, 142 distinct
+worth only as much as the test behind it. **161 rows name a test, 143 distinct
 tests, 0 rows name a test that does not exist, 0 rows whose test did not
 pass.**
 
@@ -998,6 +1000,7 @@ pass.**
 | SUB-11 | tests/test_addendum04.py::test_no_automatic_checklist_row_states_a_reason_instead_of_a_count | yes | PASSED |
 | SUB-14 | tests/test_submission.py::test_the_employment_disclosure_names_the_two_works_it_says_it_names | yes | PASSED |
 | REL-04 | tests/test_references.py::test_every_version_string_derives_from_one_source | yes | PASSED |
+| SUB-15 | tests/test_submission.py::test_no_identifier_of_any_shape_reaches_the_blinded_copy | yes | PASSED |
 
 Tests were not run in this pass, so 3 rows report their result as not run.
 

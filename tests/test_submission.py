@@ -294,3 +294,40 @@ def test_the_employment_disclosure_names_the_two_works_it_says_it_names():
         assert "Patil D" in entry[0], (
             "reference %s is not a prior work of the author: %s"
             % (n, entry[0][:90]))
+
+
+def test_no_identifier_of_any_shape_reaches_the_blinded_copy():
+    """Blinding is a mask list, and a mask list goes stale silently.
+
+    The corresponding email was written twice, once in `fields.json` and once as
+    a literal in `TOKEN_MASKS`. Changing the field alone would have shipped a
+    blinded copy carrying the new address in clear, because the mask still named
+    the old one. That is not a defect in a value, it is a defect in keying a
+    guard to a copy of the thing it guards.
+
+    So this does not check the mask list. It checks the shipped blinded copy for
+    anything shaped like an identifier, whatever the mask list happens to say.
+    """
+    import json
+    import re
+    from colophon.paths import RESULTS
+
+    blinded = (submission.OUT / "03_manuscript_blinded.md").read_text(
+        encoding="utf-8")
+
+    store = json.loads(
+        (RESULTS / "submission" / "fields.json").read_text(encoding="utf-8"))
+    for key in ("affiliation", "corresponding_email", "signature_block"):
+        value = str(store.get(key, {}).get("value", "")).strip()
+        if value and "{{" not in value:
+            assert value not in blinded, (
+                "the blinded copy carries the %s field verbatim: %r" % (key, value))
+
+    # Shapes, not values. An address or an ORCID that no mask names still fails.
+    allowed_emails = {"dicom@dicomstandard.org"}
+    found = set(re.findall(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}",
+                           blinded)) - allowed_emails
+    assert not found, "unmasked email in the blinded copy: %s" % sorted(found)
+
+    orcids = re.findall(r"\b\d{4}-\d{4}-\d{4}-\d{3}[\dX]\b", blinded)
+    assert not orcids, "unmasked ORCID in the blinded copy: %s" % orcids

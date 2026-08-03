@@ -105,9 +105,11 @@ DECLARATION_HEADINGS = ["Competing interests", "Funding", "Ethics",
 # `Patil` and the shorter rule never fires on the remains of the longer one.
 TOKEN_MASKS = {
     "Digvijay Patil": "[AUTHOR]",
+    # The superseded address, still masked in case it survives in an artefact
+    # written before the corresponding address changed.
     "digvijaypatil1996@gmail.com": "[AUTHOR EMAIL]",
+    # There is no ORCID field, so this one is not derived and stays a literal.
     "0009-0003-6878-1712": "[AUTHOR ORCID]",
-    "University at Buffalo School of Management, Buffalo, NY, USA": "[AFFILIATION]",
     "University at Buffalo": "[AFFILIATION]",
     "aycan Medical Systems LLC": "[COMPANY]",
     "aycan": "[COMPANY]",
@@ -130,6 +132,27 @@ TOKEN_MASKS = {
     "spine-gsps": "[PRIOR HARNESS]",
     "palimpsest": "[PRIOR HARNESS]",
 }
+# The identity values are masked from the field store rather than from a literal
+# typed here as well. The corresponding email was written in both places, so
+# changing the field alone would have shipped a blinded copy carrying the new
+# address in clear: the exact defect this dict exists to prevent, introduced by
+# the dict itself. Anything the author fills in is masked from its current value.
+def _register_identity_masks() -> None:
+    path = RESULTS / "submission" / "fields.json"
+    if not path.exists():
+        return
+    store = json.loads(path.read_text(encoding="utf-8"))
+    for key, label in (("corresponding_email", "[AUTHOR EMAIL]"),
+                       ("affiliation", "[AFFILIATION]"),
+                       ("orcid", "[AUTHOR ORCID]")):
+        value = str(store.get(key, {}).get("value", "")).strip()
+        if value:
+            TOKEN_MASKS.setdefault(value, label)
+
+
+_register_identity_masks()
+
+
 # Phrases that identify the author without naming them. A blinded manuscript
 # that says "the two prior harnesses by this author" is not blinded.
 PHRASE_MASKS = {

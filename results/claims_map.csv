@@ -295,3 +295,4 @@ SUB-12,SUB,MEASURED,The six figures are renumbered so that first citation in ...
 SUB-13,SUB,MEASURED,The Word files are produced from a converter pinned in i ...,results/submission/docx.json,yes,,,,,,,,yes
 SUB-14,SUB,VERIFIED,The competing-interests employment window is stated by t ...,results/submission/fields.json and results/submission/01_title_page.md,yes,,,,,,tests/test_submission.py::test_the_employment_disclosure_names_the_two_works_it_says_it_names,yes,yes
 REL-04,REL,MEASURED,Every version string in the package derives from one sou ...,colophon/__init__.py and results/submission/02_manuscript_full.md,yes,,,,,,tests/test_references.py::test_every_version_string_derives_from_one_source,yes,yes
+SUB-15,SUB,MEASURED,"No identifier of any shape reaches the blinded copy, che ...",results/submission/03_manuscript_blinded.md,yes,,,,,,tests/test_submission.py::test_no_identifier_of_any_shape_reaches_the_blinded_copy,yes,yes
