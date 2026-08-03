@@ -1,0 +1,5 @@
+bucket,series,distinct_pairs,pct,label
+encoder_only,416427,11,86.44,encoding library only
+producer_and_converter,21721,3,4.51,producing entity and converter both named
+other,37454,42,7.77,"other: named model, scanner, planning system or viewer"
+absent,6148,1,1.28,absent or NA

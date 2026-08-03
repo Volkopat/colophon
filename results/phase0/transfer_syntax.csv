@@ -1,0 +1,18 @@
+sop_class_name,transfer_syntax_name,TransferSyntaxUID,series,instances,pct_of_sop_class,class
+Acquisition Context SR Storage,Explicit VR Little Endian,1.2.840.10008.1.2.1,277,277,100.0,adjacent
+Advanced Blending Presentation State Storage,Explicit VR Little Endian,1.2.840.10008.1.2.1,107,324,100.0,adjacent
+Comprehensive 3D SR Storage,Explicit VR Little Endian,1.2.840.10008.1.2.1,5408,5408,100.0,derived
+Comprehensive SR Storage,Explicit VR Little Endian,1.2.840.10008.1.2.1,2118,2118,100.0,derived
+Encapsulated STL Storage,Explicit VR Little Endian,1.2.840.10008.1.2.1,2328,2328,100.0,adjacent
+Enhanced SR Storage,Explicit VR Little Endian,1.2.840.10008.1.2.1,262883,262883,100.0,derived
+Grayscale Softcopy Presentation State Storage,Explicit VR Little Endian,1.2.840.10008.1.2.1,1086,1086,100.0,derived
+Key Object Selection Document Storage,Explicit VR Little Endian,1.2.840.10008.1.2.1,40,40,100.0,derived
+Microscopy Bulk Simple Annotations Storage,Explicit VR Little Endian,1.2.840.10008.1.2.1,7102,7102,100.0,adjacent
+Parametric Map Storage,Explicit VR Little Endian,1.2.840.10008.1.2.1,691,691,100.0,derived
+RT Structure Set Storage,Explicit VR Little Endian,1.2.840.10008.1.2.1,16184,16184,83.6,derived
+RT Structure Set Storage,Implicit VR Little Endian,1.2.840.10008.1.2,3174,3174,16.4,derived
+Real World Value Mapping Storage,Explicit VR Little Endian,1.2.840.10008.1.2.1,20,20,100.0,derived
+Segmentation Storage,Explicit VR Little Endian,1.2.840.10008.1.2.1,190049,212862,99.95,derived
+Segmentation Storage,JPEG-LS Lossless,1.2.840.10008.1.2.4.80,97,261,0.05,derived
+Spatial Registration Storage,Implicit VR Little Endian,1.2.840.10008.1.2,97,97,100.0,adjacent
+X-Ray Radiation Dose SR Storage,Explicit VR Little Endian,1.2.840.10008.1.2.1,1,1,100.0,adjacent

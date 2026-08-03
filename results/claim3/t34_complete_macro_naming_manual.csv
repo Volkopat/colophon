@@ -1,0 +1,2 @@
+writing_toolkit,analysis_result_id,SegmentAlgorithmType,AlgorithmName,segments,state_of_0062_0007,grade,basis
+highdicom,eay131_tumor_annotations,AUTOMATIC,Manual Segmentation,384,present_complete,conformant but uninformative,"PS3.3 states no relation between (0062,0008) and (0066,0036), so the object is conformant and the contradiction is reported, not resolved"

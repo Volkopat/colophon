@@ -1,0 +1,22 @@
+stratum,writer_from_index,writer_from_object,deciding_carrier,objects
+not identifiable from index / qiba_volct_1b,not identifiable from index,not identifiable from index,none of the three carriers,384
+dcmqi / (null),dcmqi,dcmqi,Manufacturer and ManufacturerModelName,384
+not identifiable from index / (null),not identifiable from index,not identifiable from index,none of the three carriers,384
+not identifiable from index / tcga_sbu_til_maps,not identifiable from index,highdicom,ContributingEquipmentSequence,384
+dcmqi / dicom_lidc_idri_nodules,dcmqi,dcmqi,Manufacturer and ManufacturerModelName,384
+pydicom-seg / (null),pydicom-seg,pydicom-seg,Manufacturer and ManufacturerModelName,384
+highdicom / eay131_tumor_annotations,highdicom,highdicom,Manufacturer and ManufacturerModelName,384
+highdicom / (null),highdicom,highdicom,Manufacturer and ManufacturerModelName,384
+dcmqi / nlstseg,dcmqi,dcmqi,Manufacturer and ManufacturerModelName,384
+dcmqi / bamf_aimi_annotations,dcmqi,dcmqi,Manufacturer and ManufacturerModelName,384
+dcmqi / prostate_mri_us_biopsy_dicom_annotations,dcmqi,dcmqi,Manufacturer and ManufacturerModelName,384
+dcmqi / nnu_net_bpr_annotations,dcmqi,dcmqi,Manufacturer and ManufacturerModelName,384
+dcmqi / totalsegmentator_ct_segmentations,dcmqi,dcmqi,Manufacturer and ManufacturerModelName,384
+QIICR Reporting via 3D Slicer / qin_lungct_seg,QIICR Reporting via 3D Slicer,QIICR Reporting via 3D Slicer,Manufacturer and ManufacturerModelName,378
+not identifiable from index / pan_cancer_nuclei_seg_dicom,not identifiable from index,highdicom,ImplementationVersionName,356
+not identifiable from index / rms_mutation_prediction_expert_annotations,not identifiable from index,highdicom,ImplementationVersionName,261
+dcmqi / prostatex_seg_zones,dcmqi,dcmqi,Manufacturer and ManufacturerModelName,98
+QIICR Reporting via 3D Slicer / (null),QIICR Reporting via 3D Slicer,QIICR Reporting via 3D Slicer,Manufacturer and ManufacturerModelName,96
+dcmqi / pancreas_ct_seg,dcmqi,dcmqi,Manufacturer and ManufacturerModelName,80
+dcmqi / prostatex_seg_hires,dcmqi,dcmqi,Manufacturer and ManufacturerModelName,66
+dcmqi / rider_lungct_seg,dcmqi,dcmqi,Manufacturer and ManufacturerModelName,59

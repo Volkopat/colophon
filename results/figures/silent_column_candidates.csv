@@ -1,0 +1,12 @@
+analysis_result_id,objects,segments,segments_non_manual,distinct_algorithm_names,algorithm_names,identification_states,Manufacturer,ManufacturerModelName,SoftwareVersions,ContentCreatorName,ContributingEquipmentSequence
+bamf_aimi_annotations,384,859,859,11,BAMF-Brain-MR (362); BAMF-Breast-Tumor-MRI (143); BAMF-Lung-CT-v2 (110); BAMF-Prostate-MR (58),absent (859),QIICR [384],git@github.com:QIICR/dcmqi.git [384],451bf84 [346] (+1 more),BAMFHealth^AI [340] (+12 more),absent [384]
+prostate_mri_us_biopsy_dicom_annotations,384,384,189,1,PROFUSE (189),absent (189),QIICR [384],https://github.com/QIICR/dcmqi.git [384],ef9e227 [384],Imaging Data Commons [384],absent [384]
+qin_lungct_seg,378,378,378,122,alg03_run1 (31); alg03_run2 (30); alg03_run3 (30); alg01_run1 (29),absent (378),3D Slicer Community [378],https://github.com/fedorov/Reporting [378],Slicer 4.3.1-2014-09-09 r23663 Reporting 56c71a2 [276] (+1 more),3DSlicer [378],absent [378]
+rider_lungct_seg,59,117,58,1,0 (58),absent (58),QIICR [59],git@github.com:QIICR/dcmqi.git [59],55dc95e [59],RiderCollectionOwner [59],absent [59]
+eay131_tumor_annotations,384,384,384,1,Manual Segmentation (384),present_complete (384),highdicom [384],https://github.com/ImagingDataCommons/highdicom.git [384],0.22.0 [384],(empty) [384],absent [384]
+tcga_sbu_til_maps,384,470,470,2,Stony Brook TIL Segmentation Inception-V4 2022 (298); Stony Brook TIL Segmentation CNN 2018 (172),present_complete (470),Stony Brook University converted by Imaging Data Commons [384],TIL Inception-V4 2022 converted by Imaging Data Commons [298] (+1 more),github.com/ImagingDataCommons/idc-sm-annotations-conversion [384],(empty) [384],non_empty [384]
+dicom_lidc_idri_nodules,384,384,0,0,,,QIICR [384],https://github.com/QIICR/dcmqi.git [384],f86b34f [384],Reader1 [384],absent [384]
+nlstseg,384,439,0,0,,,QIICR [384],https://github.com/QIICR/dcmqi [384],4e5b700 [384],IDC [384],absent [384]
+pancreas_ct_seg,80,80,0,0,,,QIICR [80],https://github.com/QIICR/dcmqi [80],81e9073 [80],Anonymous [80],absent [80]
+prostatex_seg_hires,66,66,0,0,,,QIICR [66],https://github.com/qiicr/dcmqi.git [66],1e82977 [66],Reader1 [66],absent [66]
+prostatex_seg_zones,98,392,0,0,,,QIICR [98],https://github.com/qiicr/dcmqi.git [98],1e82977 [98],Reader1 [98],absent [98]

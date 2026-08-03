@@ -1,0 +1,38 @@
+sop_class_name,SOPClassUID,series,instances,size_MB,collections,patients,size_GB,mean_MB_per_series,class
+CT Image Storage,1.2.840.10008.5.1.4.1.1.2,266230,31347764,16714743.12508,98,38502,16322.991,62.783,acquired
+Enhanced SR Storage,1.2.840.10008.5.1.4.1.1.88.22,262883,262883,142822.554416,4,27507,139.475,0.543,derived
+Segmentation Storage,1.2.840.10008.5.1.4.1.1.66.4,190146,213123,19479650.951322,69,42900,19023.097,102.446,derived
+MR Image Storage,1.2.840.10008.5.1.4.1.1.4,123480,15161070,4832229.279604,70,8166,4718.974,39.134,acquired
+VL Whole Slide Microscopy Image Storage,1.2.840.10008.5.1.4.1.1.77.1.6,76299,391932,49019834.873274,73,22645,47870.932,642.47,acquired
+Breast Tomosynthesis Image Storage,1.2.840.10008.5.1.4.1.1.13.1.3,26292,26647,3913812.36373,2,5556,3822.082,148.859,acquired
+RT Structure Set Storage,1.2.840.10008.5.1.4.1.1.481.3,19358,19358,10330.00075,18,4248,10.088,0.534,derived
+Computed Radiography Image Storage,1.2.840.10008.5.1.4.1.1.1,12413,12421,186360.015424,12,1703,181.992,15.013,acquired
+Secondary Capture Image Storage,1.2.840.10008.5.1.4.1.1.7,10908,321296,986440.977086,39,10422,963.321,90.433,acquired
+Digital Mammography X-Ray Image Storage - For Processing,1.2.840.10008.5.1.4.1.1.1.2.1,7979,83185,786260.162944,3,3284,767.832,98.541,acquired
+Microscopy Bulk Simple Annotations Storage,1.2.840.10008.5.1.4.1.1.91.1,7102,7102,1824349.11792,15,5430,1781.591,256.878,adjacent
+Comprehensive 3D SR Storage,1.2.840.10008.5.1.4.1.1.88.34,5408,5408,363.144628,5,1861,0.355,0.067,derived
+Positron Emission Tomography Image Storage,1.2.840.10008.5.1.4.1.1.128,4865,1559165,91874.118314,41,1675,89.721,18.885,acquired
+Digital Mammography X-Ray Image Storage - For Presentation,1.2.840.10008.5.1.4.1.1.1.2,3903,7698,71146.536422,6,2111,69.479,18.229,acquired
+Digital X-Ray Image Storage - For Presentation,1.2.840.10008.5.1.4.1.1.1.1,3703,4109,53071.96766,11,670,51.828,14.332,acquired
+Encapsulated STL Storage,1.2.840.10008.5.1.4.1.1.104.3,2328,2328,348.930602,1,842,0.341,0.15,adjacent
+Comprehensive SR Storage,1.2.840.10008.5.1.4.1.1.88.33,2118,2118,33.92816,7,515,0.033,0.016,derived
+Ultrasound Multi-frame Image Storage,1.2.840.10008.5.1.4.1.1.3.1,1841,2865,236384.789176,4,1229,230.845,128.4,acquired
+Raw Data Storage,1.2.840.10008.5.1.4.1.1.66,1398,7973348,824725.972924,8,467,805.396,589.933,acquired
+Grayscale Softcopy Presentation State Storage,1.2.840.10008.5.1.4.1.1.11.1,1086,1086,1.548828,3,41,0.002,0.001,derived
+Parametric Map Storage,1.2.840.10008.5.1.4.1.1.30,691,691,363.39053,1,336,0.355,0.526,derived
+RT Dose Storage,1.2.840.10008.5.1.4.1.1.481.2,524,524,6629.159186,2,282,6.474,12.651,acquired
+RT Plan Storage,1.2.840.10008.5.1.4.1.1.481.5,484,484,6.280686,1,242,0.006,0.013,acquired
+Multi-frame Grayscale Byte Secondary Capture Image Storage,1.2.840.10008.5.1.4.1.1.7.2,320,320,23101.883282,1,114,22.56,72.193,acquired
+Acquisition Context SR Storage,1.2.840.10008.5.1.4.1.1.88.71,277,277,1.22862,6,246,0.001,0.004,adjacent
+Breast Projection X-Ray Image Storage - For Processing,1.2.840.10008.5.1.4.1.1.13.1.5,209,209,21464.29657,1,46,20.961,102.7,acquired
+Breast Projection X-Ray Image Storage - For Presentation,1.2.840.10008.5.1.4.1.1.13.1.4,204,204,21118.33241,1,46,20.623,103.521,acquired
+Advanced Blending Presentation State Storage,1.2.840.10008.5.1.4.1.1.11.8,107,324,22.418732,4,26,0.022,0.21,adjacent
+Spatial Registration Storage,1.2.840.10008.5.1.4.1.1.66.1,97,97,8.195562,1,23,0.008,0.084,adjacent
+Nuclear Medicine Image Storage,1.2.840.10008.5.1.4.1.1.20,95,115,218.149786,9,27,0.213,2.296,acquired
+Ultrasound Image Storage,1.2.840.10008.5.1.4.1.1.6.1,45,1157,18791.061192,10,36,18.351,417.579,acquired
+Key Object Selection Document Storage,1.2.840.10008.5.1.4.1.1.88.59,40,40,47.489504,1,10,0.046,1.187,derived
+X-Ray Angiographic Image Storage,1.2.840.10008.5.1.4.1.1.12.1,34,43,100.148258,4,16,0.098,2.946,acquired
+Real World Value Mapping Storage,1.2.840.10008.5.1.4.1.1.67,20,20,0.851532,1,20,0.001,0.043,derived
+X-Ray Radiofluoroscopic Image Storage,1.2.840.10008.5.1.4.1.1.12.2,12,22,126.80054200000001,2,2,0.124,10.567,acquired
+Digital X-Ray Image Storage - For Processing,1.2.840.10008.5.1.4.1.1.1.1.1,11,11,153.472904,3,5,0.15,13.952,acquired
+X-Ray Radiation Dose SR Storage,1.2.840.10008.5.1.4.1.1.88.67,1,1,0.016792,1,1,0.0,0.017,adjacent

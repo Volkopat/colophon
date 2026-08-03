@@ -1,0 +1,22 @@
+[
+  {
+    "id": "REL-04",
+    "section": "REL",
+    "section_title": "Release",
+    "claim": "Every version string in the package derives from one source value and they agree.",
+    "status": "MEASURED",
+    "status_note": "The self-citation read `version 0.1.0` while release_tag, CITATION.cff and .zenodo.json all read v1.0.0. The reference would have pointed at a Zenodo version that is never minted, and the tag is the one thing in this release that cannot be corrected after the fact.",
+    "value": "4 files name a version. `colophon.__version__` is 1.0.0 and the reference entry, CITATION.cff, .zenodo.json and `release_tag` all derive from or agree with it.",
+    "sop_class": "not applicable",
+    "n": "4",
+    "denominator": "4",
+    "floor": "not applicable, this row counts version strings",
+    "dropped": "nothing. The check reads the shipped reference list rather than the reference module, so a citation that is correct in the generator and wrong in the file still fails",
+    "validator": "none",
+    "validator_version": "not applicable",
+    "command": "python -m colophon.references",
+    "source_file": "colophon/__init__.py and results/submission/02_manuscript_full.md",
+    "pinned_by_test": "tests/test_references.py::test_every_version_string_derives_from_one_source",
+    "verified_on": "2026-08-03"
+  }
+]

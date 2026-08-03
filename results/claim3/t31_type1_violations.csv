@@ -1,0 +1,3 @@
+sop_class_name,analysis_result_id,carrier,objects,absent,zero_length,binding,grade
+Segmentation Storage,(null),DeviceSerialNumber,1632,876,397,"Type 1, Enhanced General Equipment Usage M",non-conformant
+Segmentation Storage,qin_lungct_seg,DeviceSerialNumber,378,90,0,"Type 1, Enhanced General Equipment Usage M",non-conformant

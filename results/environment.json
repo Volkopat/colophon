@@ -1,0 +1,82 @@
+{
+  "idc_index_version": "v24",
+  "python_packages": {
+    "idc-index": "0.12.5",
+    "idc-index-data": "24.2.2",
+    "pandas": "3.0.5",
+    "duckdb": "1.5.5",
+    "pyarrow": "25.0.0",
+    "numpy": "2.5.1",
+    "s5cmd": "0.3.3",
+    "pydicom": "3.0.2",
+    "highdicom": "0.28.1",
+    "dicom-validator": "0.8.2",
+    "requests": "2.34.2"
+  },
+  "binaries": [
+    {
+      "name": "dciodvfy",
+      "path": "D:\\Radiology\\Spine Labeling\\tools\\dicom3tools\\dciodvfy.exe",
+      "status": "present",
+      "version_string": "no version flag, pinned by sha256 and mtime",
+      "size_bytes": 10298894,
+      "mtime_utc": "2026-07-01T11:24:36Z",
+      "sha256_first_64MiB": "d931cded1048a2fdf6823bb534c722bb31513a8466107f0cf5d7037a9061f69a"
+    },
+    {
+      "name": "dcmpschk",
+      "path": "D:\\Radiology\\Spine Labeling\\tools\\dcmtk\\dcmtk-3.7.0-win64-dynamic\\bin\\dcmpschk.exe",
+      "status": "present",
+      "version_string": "$dcmtk: dcmpschk v3.7.0 2025-12-15 $",
+      "size_bytes": 78848,
+      "mtime_utc": "2025-12-15T08:12:14Z",
+      "sha256_first_64MiB": "c5822ddc063b8a7ab80e28998e9c94efb03d0bfee13dc1ed35184e8411b0e11b"
+    },
+    {
+      "name": "dcmdump",
+      "path": "D:\\Radiology\\Spine Labeling\\tools\\dcmtk\\dcmtk-3.7.0-win64-dynamic\\bin\\dcmdump.exe",
+      "status": "present",
+      "version_string": "$dcmtk: dcmdump v3.7.0 2025-12-15 $",
+      "size_bytes": 54272,
+      "mtime_utc": "2025-12-15T08:10:27Z",
+      "sha256_first_64MiB": "edd9155604f41e5fbfb395e2abd62a82643336f917dc35dd82f3578bc36d802e"
+    },
+    {
+      "name": "dcmp2pgm",
+      "path": "D:\\Radiology\\Spine Labeling\\tools\\dcmtk\\dcmtk-3.7.0-win64-dynamic\\bin\\dcmp2pgm.exe",
+      "status": "present",
+      "version_string": "$dcmtk: dcmp2pgm v3.7.0 2025-12-15 $",
+      "size_bytes": 54272,
+      "mtime_utc": "2025-12-15T08:12:09Z",
+      "sha256_first_64MiB": "c81e3a2333851fdfa1f16a2b0404c0ad83c7ebcff0288eae72eafa6bc223cb4a"
+    }
+  ],
+  "dicom3tools_snapshot": {
+    "snapshot": "20260701065818",
+    "package": "dicom3tools 1.00",
+    "path": "D:\\Radiology\\Spine Labeling\\tools\\dicom3tools\\dciodvfy.exe",
+    "note": "dciodvfy exposes no version flag, so the snapshot is carried forward from the spine-gsps environment record and the binary itself is pinned by sha256 and mtime above. The snapshot datestamp and the binary mtime agree to the day."
+  },
+  "dicom_standard_edition": "PS3 2026c, dicom.nema.org. This is the edition dicom-validator downloaded and validated against, and the edition every PS3 citation in results/standards.json and the adjudications was checked against. An earlier value of 2025e here was stale and disagreed with both.",
+  "hardware": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "machine": "AMD64",
+    "processor": "Intel64 Family 6 Model 198 Stepping 2, GenuineIntel",
+    "python": "3.12.13 | packaged by Anaconda, Inc. | (main, Jul  9 2026, 14:26:47) [MSC v.1942 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\dekay\\miniconda3\\envs\\colophon\\python.exe",
+    "ram_GB": 63.5,
+    "logical_cores": 24,
+    "physical_cores": 24
+  },
+  "free_disk_GB_cache_volume": 1025.9,
+  "typesetting": {
+    "lockfile": "env/typesetting.lock",
+    "virtualenv": "env/typesetting/",
+    "tool": "pypandoc-binary",
+    "pinned": "1.15",
+    "pandoc_version": "3.6.1",
+    "installed_on_this_machine": true,
+    "command": "python -m colophon.docx",
+    "note": "Typesetting only. It converts the assembled Markdown to .docx for the venue and touches no measurement: no module producing a number imports it, no number in this repository depends on it, and it is installed into its own virtual environment so that env/requirements.lock is unchanged."
+  }
+}

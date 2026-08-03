@@ -1,0 +1,22 @@
+{
+  "(0062,0007)": {
+    "nearest_preceding_caption": "Segmentation Image Module Attributes",
+    "row_text": "ed to generate the Segment. Required if Segment Algorithm Type (0062,0008) is not MANUAL. &gt;Segmentation Algorithm Identification Sequence (0062,0007) 3 A description of how this Segment was derived. Algorithm Name (0066,0036) within this Sequence may be identical to Segment Algorithm Name (0062,0009). One or more Items are permitted in this Sequence. Previously, the Segment Surface Generation Algorithm Identification Code Sequence (0066,002D) was used, but it has been replaced in this Module, since not all segmentation algorithms involve surface generation. See PS3.3-2016d . &gt;&gt;Include"
+  },
+  "(0062,0009)": {
+    "nearest_preceding_caption": "Segmentation Image Module Attributes",
+    "row_text": "in this Sequence. The Items of this Sequence are not required to be in any particular order, i.e., are not required to be ordered by Segment Number (0062,0004). &gt;Include &gt;Segment Algorithm Name (0062,0009) 1C The name(s) of algorithm(s) used to generate the Segment. Required if Segment Algorithm Type (0062,0008) is not MANUAL. &gt;Segmentation Algorithm Identification Sequence (0062,0007) 3 A description of how this Segment was derived. Algorithm Name (0066,0036) within this Sequence may be identical to Segment Algorithm Name (0062,0009). One or more Items are permitted in this Sequence."
+  },
+  "(0008,0070)": {
+    "nearest_preceding_caption": "General Contributing Sources Macro Attributes",
+    "row_text": "0E) in the enclosing Item. One or more Items shall be included in this Sequence. &gt;&gt;&gt;Include &gt;&gt;&gt;Instance Number (0020,0013) 2 A number that identifies this Instance. Manufacturer (0008,0070) 2 Manufacturer of the equipment that produced the sources. Manufacturer's Model Name (0008,1090) 1C Manufacturer's model name of the equipment that produced the sources. Required if present and consistent in the contributing SOP Instances. Device Serial Number <para xml:id=\"para_c3d5c279-16df-499f-8bd6-b633f6a90"
+  },
+  "(0018,1020)": {
+    "nearest_preceding_caption": "General Contributing Sources Macro Attributes",
+    "row_text": "istent in the contributing SOP Instances. Device Serial Number (0018,1000) 1C Manufacturer's serial number of the equipment that produced the sources. Required if present and consistent in the contributing SOP Instances. Software Versions (0018,1020) 1C Manufacturer's designation of software version of the equipment that produced the sources. See . Required if present and consistent in the contributing SOP Instances. Date of Manufacture (0018,1204) 3 The date the equipment that produced the sources was originally manufactured or re-manufactured (as opposed to refurbished). Date of Installation"
+  },
+  "(0066,0036)": {
+    "nearest_preceding_caption": "Algorithm Identification Macro Attributes",
+    "row_text": "(0066,0030) 3 The code assigned by a manufacturer to a specific software algorithm. Only a single Item is permitted in this Sequence. &gt;Include No Baseline CID is defined. Algorithm Name (0066,0036) 1 The name assigned by a manufacturer to a specific software algorithm. Algorithm Version (0066,0031) 1 The software version identifier assigned by a manufacturer to a specific software algorithm. Algorithm Parameters (0066,0032)"
+  }
+}

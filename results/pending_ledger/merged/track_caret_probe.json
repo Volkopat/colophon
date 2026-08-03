@@ -1,0 +1,24 @@
+[
+  {
+    "id": "V-11",
+    "section": "V",
+    "section_title": "Panel design, fixed before Phase 1",
+    "claim": "The dciodvfy person-name check is purely syntactic and carries no information about whether a value names a person, an organisation or a tool, so no third-party validator in the panel can adjudicate the sentinel classification.",
+    "status": "VERIFIED",
+    "value": "probed on eight values: TotalSegmentator, SIEMENS, MyName and 12345 are all flagged; ACME Corp^, ^TotalSegmentator, Total^Segmentator and Doe^Jane^^Dr^PhD are all clean. The flag separates strings containing a caret from strings that do not.",
+    "n": "8",
+    "denominator": "8",
+    "floor": "not applicable, this row describes a validator behaviour rather than quoting a rate",
+    "dropped": "nothing; all eight probe values are reported",
+    "sop_class": "all",
+    "validator": "dciodvfy",
+    "validator_version": "dicom3tools 1.00~20240118131615, the registered build, not the 20260701065818 build this study ran",
+    "command": "reported in COLOPHON_ADDENDUM_03.md section 1; not re-run here",
+    "source_file": "COLOPHON_ADDENDUM_03.md and results/manuscript/methods.md",
+    "external_source": "COLOPHON_ADDENDUM_03.md section 1, probe against dicom3tools 1.00~20240118131615",
+    "derived_from": "W-04,C3T-09",
+    "verified_on": "2026-08-02",
+    "status_note": "A retraction, recorded as one. An earlier instruction was to cross the sentinel classification against this flag as an external validity check. The probe shows the check is syntactic, so the cross-check was never built and the table goes into Methods as a mechanistic account of why a validator cannot answer this question, never as corroboration that one does.",
+    "notes": "The probe was run against the registered dicom3tools build rather than the build this study ran. The behaviour is a property of the VR check and not of the message classes counted in Results, so the DEV-01 exposure analysis does not bear on it."
+  }
+]

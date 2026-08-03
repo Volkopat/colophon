@@ -1,0 +1,33 @@
+{
+  "title": "colophon: a conformance and provenance census of AI-derived DICOM objects in the NCI Imaging Data Commons",
+  "version": "v1.0.0",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Patil, Digvijay",
+      "orcid": "0009-0003-6878-1712",
+      "affiliation": "University at Buffalo School of Management, Buffalo, NY, USA"
+    }
+  ],
+  "description": "Measurement code, claims ledger, generated tables and figure builders for a conformance and provenance census of the derived, non-image SOP classes of NCI Imaging Data Commons release v24. The archive itself is not redistributed here: every fetched object was deleted after validation, and the per-object records the census derives are excluded because part of the source archive is CC BY-NC. See RELEASE_NOTES for what the snapshot contains and why.",
+  "keywords": [
+    "DICOM",
+    "conformance",
+    "provenance",
+    "Imaging Data Commons",
+    "medical imaging informatics",
+    "measurement study",
+    "metadata completeness"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.21728405",
+      "relation": "isSupplementedBy",
+      "scheme": "doi",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "The version DOI, not the concept DOI, is the one cited in the accompanying manuscript."
+}

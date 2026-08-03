@@ -1,0 +1,18 @@
+sop_class_name,writer,series
+Comprehensive 3D SR Storage,not identifiable from index,5312
+Comprehensive 3D SR Storage,highdicom,96
+Comprehensive SR Storage,PixelMed,1292
+Comprehensive SR Storage,not identifiable from index,826
+Enhanced SR Storage,dcmqi,262883
+Grayscale Softcopy Presentation State Storage,not identifiable from index,1086
+Key Object Selection Document Storage,not identifiable from index,40
+Parametric Map Storage,not identifiable from index,691
+RT Structure Set Storage,OHIF-XNAT Viewer,16184
+RT Structure Set Storage,not identifiable from index,3173
+RT Structure Set Storage,Plastimatch,1
+Real World Value Mapping Storage,QIICR Reporting via 3D Slicer,20
+Segmentation Storage,dcmqi,148982
+Segmentation Storage,not identifiable from index,36698
+Segmentation Storage,highdicom,2001
+Segmentation Storage,pydicom-seg,1991
+Segmentation Storage,QIICR Reporting via 3D Slicer,474

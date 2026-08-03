@@ -1,0 +1,9 @@
+sop_class_name,analysis_result_id,objects,non-conformant,pct_non-conformant,conformant but uninformative,pct_conformant,informative,pct_informative,sum_pct,binds_provenance_type1,pct_uninformative_without_this_class,pct_of_denominator
+RT Structure Set Storage,(all),19358,0,0.0,19358,100.0,0,0.0,100.0,**no**,60.62,55.14
+Segmentation Storage,(all),6386,1363,21.34,3231,50.6,1792,28.06,100.0,yes,89.39,18.19
+Comprehensive 3D SR Storage,(all),5408,0,0.0,4438,82.06,970,17.94,100.0,**no**,82.38,15.4
+Comprehensive SR Storage,(all),2118,0,0.0,1292,61.0,826,39.0,100.0,**no**,83.7,6.03
+Grayscale Softcopy Presentation State Storage,(all),1086,0,0.0,566,52.12,520,47.88,100.0,**no**,83.3,3.09
+Parametric Map Storage,(all),691,0,0.0,0,0.0,691,100.0,100.0,yes,83.99,1.97
+Key Object Selection Document Storage,(all),40,40,100.0,0,0.0,0,0.0,100.0,**no**,82.43,0.11
+Real World Value Mapping Storage,(all),20,0,0.0,20,100.0,0,0.0,100.0,**no**,82.32,0.06

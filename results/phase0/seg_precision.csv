@@ -1,0 +1,22 @@
+stratum,series,n,collections_in_stratum,expected_collections_sampled,mean_series_per_sampled_collection,design_effect,n_effective,half_width_pts_design_based,half_width_pts_clustered,post_floor_quotable
+dcmqi / totalsegmentator_ct_segmentations,126051,384,1,1.0,384.0,353.0,1.09,2.21,40.0,True
+not identifiable from index / tcga_sbu_til_maps,21030,384,23,22.94,16.74,15.5,24.84,2.19,10.0,False
+not identifiable from index / (null),8977,384,8,7.63,50.32,46.3,8.29,2.17,18.8,False
+dcmqi / bamf_aimi_annotations,8202,384,22,20.41,18.81,17.4,22.11,2.16,10.71,True
+dcmqi / dicom_lidc_idri_nodules,6859,384,1,1.0,384.0,353.0,1.09,2.15,40.0,True
+not identifiable from index / pan_cancer_nuclei_seg_dicom,6074,75,14,13.25,5.66,5.3,14.19,5.25,13.89,False
+dcmqi / (null),2357,384,13,12.98,29.59,27.3,14.08,2.03,13.96,True
+dcmqi / prostate_mri_us_biopsy_dicom_annotations,2328,384,1,1.0,384.0,353.0,1.09,2.02,40.0,True
+dcmqi / nnu_net_bpr_annotations,2281,384,2,2.0,192.0,176.5,2.18,2.02,33.6,True
+pydicom-seg / (null),1991,384,3,3.0,128.0,117.7,3.26,1.99,29.14,False
+highdicom / eay131_tumor_annotations,1404,384,1,1.0,384.0,353.0,1.09,1.89,40.0,True
+dcmqi / nlstseg,601,384,1,1.0,384.0,353.0,1.09,1.33,40.0,True
+highdicom / (null),597,384,1,1.0,384.0,353.0,1.09,1.32,40.0,True
+not identifiable from index / qiba_volct_1b,520,384,2,2.0,192.0,176.5,2.18,1.13,33.6,False
+QIICR Reporting via 3D Slicer / qin_lungct_seg,378,378,4,4.0,94.5,86.9,4.35,0.0,25.85,False
+dcmqi / prostatex_seg_zones,98,98,1,1.0,98.0,90.1,1.09,0.0,40.0,True
+not identifiable from index / rms_mutation_prediction_expert_annotations,97,97,1,1.0,97.0,89.2,1.09,0.0,40.01,False
+QIICR Reporting via 3D Slicer / (null),96,96,1,1.0,96.0,88.3,1.09,0.0,40.01,False
+dcmqi / pancreas_ct_seg,80,80,1,1.0,80.0,73.6,1.09,0.0,40.01,True
+dcmqi / prostatex_seg_hires,66,66,1,1.0,66.0,60.7,1.09,0.0,40.01,True
+dcmqi / rider_lungct_seg,59,59,1,1.0,59.0,54.3,1.09,0.0,40.01,True

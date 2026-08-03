@@ -1,0 +1,5 @@
+carrier,state_we_recorded,validator,validator_raised_a_matching_message,objects
+DeviceSerialNumber,absent,dciodvfy,True,966
+DeviceSerialNumber,absent,dicom-validator,True,966
+DeviceSerialNumber,empty,dciodvfy,True,397
+DeviceSerialNumber,empty,dicom-validator,True,397

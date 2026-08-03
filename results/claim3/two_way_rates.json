@@ -1,0 +1,200 @@
+{
+  "encoder_only": {
+    "objects": 35107,
+    "objects_flagged": 4713,
+    "pct_object_weighted": 13.42,
+    "by_collection": {
+      "units": 83,
+      "at_zero": 44,
+      "at_hundred": 25,
+      "between": 14,
+      "between_units": [
+        {
+          "unit": "nsclc_radiogenomics",
+          "pct": 97.41,
+          "objects": 116
+        },
+        {
+          "unit": "tcga_lihc",
+          "pct": 42.31,
+          "objects": 26
+        },
+        {
+          "unit": "prostatex",
+          "pct": 34.16,
+          "objects": 524
+        },
+        {
+          "unit": "rms_mutation_prediction",
+          "pct": 26.89,
+          "objects": 357
+        },
+        {
+          "unit": "tcga_kirc",
+          "pct": 25.81,
+          "objects": 31
+        },
+        {
+          "unit": "nlst",
+          "pct": 24.94,
+          "objects": 4061
+        },
+        {
+          "unit": "rider_lung_ct",
+          "pct": 20.37,
+          "objects": 1139
+        },
+        {
+          "unit": "nsclc_radiomics",
+          "pct": 17.38,
+          "objects": 1513
+        },
+        {
+          "unit": "nsclc_radiomics_interobserver1",
+          "pct": 16.0,
+          "objects": 25
+        },
+        {
+          "unit": "eay131",
+          "pct": 2.6,
+          "objects": 14779
+        },
+        {
+          "unit": "tcga_lusc",
+          "pct": 1.72,
+          "objects": 58
+        },
+        {
+          "unit": "tcga_luad",
+          "pct": 1.64,
+          "objects": 61
+        },
+        {
+          "unit": "lung_pet_ct_dx",
+          "pct": 0.64,
+          "objects": 1098
+        },
+        {
+          "unit": "cptac_ccrcc",
+          "pct": 0.31,
+          "objects": 638
+        }
+      ]
+    },
+    "by_analysis_result": {
+      "units": 25,
+      "at_zero": 11,
+      "at_hundred": 9,
+      "between": 5,
+      "between_units": [
+        {
+          "unit": "rider_lungct_seg",
+          "pct": 50.0,
+          "objects": 118
+        },
+        {
+          "unit": "rms_mutation_prediction_expert_annotations",
+          "pct": 26.89,
+          "objects": 357
+        },
+        {
+          "unit": "(null)",
+          "pct": 21.78,
+          "objects": 5731
+        },
+        {
+          "unit": "nnu_net_bpr_annotations",
+          "pct": 11.67,
+          "objects": 3290
+        },
+        {
+          "unit": "eay131_tumor_annotations",
+          "pct": 2.6,
+          "objects": 14779
+        }
+      ]
+    }
+  },
+  "writer_relabelled": {
+    "objects": 35107,
+    "objects_flagged": 7004,
+    "pct_object_weighted": 19.95,
+    "by_collection": {
+      "units": 83,
+      "at_zero": 54,
+      "at_hundred": 19,
+      "between": 10,
+      "between_units": [
+        {
+          "unit": "lung_pet_ct_dx",
+          "pct": 99.36,
+          "objects": 1098
+        },
+        {
+          "unit": "tcga_luad",
+          "pct": 98.36,
+          "objects": 61
+        },
+        {
+          "unit": "tcga_lusc",
+          "pct": 98.28,
+          "objects": 58
+        },
+        {
+          "unit": "nlst",
+          "pct": 75.06,
+          "objects": 4061
+        },
+        {
+          "unit": "tcga_kirc",
+          "pct": 74.19,
+          "objects": 31
+        },
+        {
+          "unit": "rms_mutation_prediction",
+          "pct": 73.11,
+          "objects": 357
+        },
+        {
+          "unit": "prostatex",
+          "pct": 65.84,
+          "objects": 524
+        },
+        {
+          "unit": "tcga_lihc",
+          "pct": 57.69,
+          "objects": 26
+        },
+        {
+          "unit": "nsclc_radiomics",
+          "pct": 54.73,
+          "objects": 1513
+        },
+        {
+          "unit": "tcga_brca",
+          "pct": 43.45,
+          "objects": 290
+        }
+      ]
+    },
+    "by_analysis_result": {
+      "units": 25,
+      "at_zero": 17,
+      "at_hundred": 6,
+      "between": 2,
+      "between_units": [
+        {
+          "unit": "nnu_net_bpr_annotations",
+          "pct": 88.33,
+          "objects": 3290
+        },
+        {
+          "unit": "rms_mutation_prediction_expert_annotations",
+          "pct": 73.11,
+          "objects": 357
+        }
+      ]
+    }
+  },
+  "note": "Median and IQR are deliberately absent. These distributions are two point masses at 0 and 100 and a median reports one camp as a centre. The boundary counts are the finding."
+}

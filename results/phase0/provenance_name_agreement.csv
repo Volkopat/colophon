@@ -1,0 +1,26 @@
+analysis_result_id,series,distinctive_tokens,series_with_token_match,pct_match,top_Manufacturer,top_ManufacturerModelName,sop_classes
+totalsegmentator_ct_segmentations,378153,totalsegmentator,0,0.0,"QIICR [378,153]","https://github.com/QIICR/dcmqi [378,153]",Enhanced SR Storage | Segmentation Storage
+tcga_sbu_til_maps,21030,sbu tcga til,21030,100.0,"Stony Brook University converted by Imaging Data Commons [21,030]","TIL Inception-V4 2022 converted by Imaging Data Commons [15,868]; TIL Custom CNN 2018 converted by Imaging Data Commons [5,162]",Segmentation Storage
+(null),18207,null,0,0.0,"GE MEDICAL SYSTEMS [5,853]; QIICR [2,657]","Signa HDxt [2,858]; GENESIS_SIGNA [2,308]",Comprehensive SR Storage | Enhanced SR Storage | Grayscale Softcopy Presentation State Storage | Key Object Selection Document Storage | RT Structure Set Storage | Real World Value Mapping Storage | Segmentation Storage
+eay131_tumor_annotations,15799,eay131,0,0.0,"Open Health Imaging Foundation [14,395]; highdicom [1,404]","OHIF-XNAT Viewer 3.2.0 [14,395]; https://github.com/ImagingDataCommons/highdicom.git [1,404]",RT Structure Set Storage | Segmentation Storage
+dicom_lidc_idri_nodules,13718,idri lidc,0,0.0,"QIICR [13,718]","https://github.com/QIICR/dcmqi.git [13,718]",Enhanced SR Storage | Segmentation Storage
+bamf_aimi_annotations,8202,aimi bamf,0,0.0,"QIICR [8,202]","git@github.com:QIICR/dcmqi.git [8,202]",Segmentation Storage
+nnu_net_bpr_annotations,7817,bpr net nnu,0,0.0,"QIICR [4,911]; IDC [2,906]","git@github.com:QIICR/dcmqi.git [4,911]; (null) [2,906]",Comprehensive 3D SR Storage | Enhanced SR Storage | Segmentation Storage
+pan_cancer_nuclei_seg_dicom,6074,cancer nuclei pan,6074,100.0,"Stony Brook University [6,074]","Pan-Cancer-Nuclei-Seg [6,074]",Segmentation Storage
+prostate_mri_us_biopsy_dicom_annotations,2328,prostate,0,0.0,"QIICR [2,328]","https://github.com/QIICR/dcmqi.git [2,328]",Segmentation Storage
+nlstseg,1803,nlstseg,0,0.0,"QIICR [1,803]","https://github.com/QIICR/dcmqi [1,803]",Enhanced SR Storage | Segmentation Storage
+qiba_volct_1b,1508,qiba volct,0,0.0,"Siemens Corporate Research [1,300]; (null) [104]","DIRS2 [1,300]; (null) [104]",Comprehensive SR Storage | Grayscale Softcopy Presentation State Storage | Segmentation Storage
+dicom_sr_breast_clinical,1292,breast,0,0.0,"PixelMed [1,292]","XSLT from di3data csv extract [1,292]",Comprehensive SR Storage
+lung_pet_ct_dx_annotations,1091,lung,0,0.0,"Expert annotation from TCIA [1,091]","(null) [1,091]",Comprehensive 3D SR Storage
+nlst_sybil,970,nlst sybil,970,100.0,Sybil [970],(null) [970],Comprehensive 3D SR Storage
+tcga_gbm360,691,gbm360 tcga,691,100.0,Gevaert Lab Converted By Imaging Data Commons [691],GBM360 [691],Parametric Map Storage
+cptac_ccrcc_tumor_annotations,636,ccrcc cptac,0,0.0,Open Health Imaging Foundation [636],OHIF-XNAT Viewer 3.2.0 [636],RT Structure Set Storage
+cptac_ucec_tumor_annotations,617,cptac ucec,0,0.0,Open Health Imaging Foundation [617],OHIF-XNAT Viewer 3.2.0 [617],RT Structure Set Storage
+cptac_pda_tumor_annotations,536,cptac pda,0,0.0,Open Health Imaging Foundation [536],OHIF-XNAT Viewer 3.2.0 [536],RT Structure Set Storage
+qin_lungct_seg,378,lungct qin,0,0.0,3D Slicer Community [378],https://github.com/fedorov/Reporting [378],Segmentation Storage
+prostatex_targets,345,prostatex,0,0.0,IDC [345],(null) [345],Comprehensive 3D SR Storage
+rms_mutation_prediction_expert_annotations,193,rms,97,50.26,NCI/FNLCR [97]; Leica Biosystems [96],FNLCR_IVG_RMS_iou_0.7343_0.7175_epoch_60 [97]; Aperio ImageScope converted with highdicom [96],Comprehensive 3D SR Storage | Segmentation Storage
+rider_lungct_seg,118,lungct rider,0,0.0,Varian Medical Systems [59]; QIICR [59],ARIA RadOnc [59]; git@github.com:QIICR/dcmqi.git [59],RT Structure Set Storage | Segmentation Storage
+prostatex_seg_zones,98,prostatex,0,0.0,QIICR [98],https://github.com/qiicr/dcmqi.git [98],Segmentation Storage
+pancreas_ct_seg,80,pancreas,0,0.0,QIICR [80],https://github.com/QIICR/dcmqi [80],Segmentation Storage
+prostatex_seg_hires,66,prostatex,0,0.0,QIICR [66],https://github.com/qiicr/dcmqi.git [66],Segmentation Storage

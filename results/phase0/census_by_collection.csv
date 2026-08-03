@@ -1,0 +1,110 @@
+collection_id,sop_class_name,series,instances,size_MB,collections,patients,size_GB,mean_MB_per_series
+nlst,Enhanced SR Storage,254343,254343,141430.478362,1,26203,138.116,0.556
+nlst,Segmentation Storage,128835,128835,14207468.869778,1,26203,13874.481,110.276
+eay131,RT Structure Set Storage,14395,14395,424.78375,1,2487,0.415,0.03
+lidc_idri,Segmentation Storage,6949,6949,2246.911064,1,875,2.194,0.323
+lidc_idri,Enhanced SR Storage,6859,6859,1154.69743,1,875,1.128,0.168
+tcga_brca,Segmentation Storage,4224,8449,1036465.887094,1,1062,1012.174,245.375
+prostate_mri_us_biopsy,Segmentation Storage,3226,3226,1673.38893,1,842,1.634,0.519
+nlst,Comprehensive 3D SR Storage,3048,3048,234.92393,1,653,0.229,0.077
+ispy2,Segmentation Storage,2688,2688,25662.088394,1,719,25.061,9.547
+ispy1,Segmentation Storage,2568,2568,8335.84844,1,207,8.14,3.246
+upenn_gbm,Segmentation Storage,2384,2384,1913.475046,1,541,1.869,0.803
+acrin_6698,Segmentation Storage,2213,2213,8396.00962,1,385,8.199,3.794
+tcga_luad,Segmentation Storage,2085,4159,455235.88029,1,489,444.566,218.339
+tcga_ucec,Segmentation Storage,2069,4164,588323.497942,1,505,574.535,284.352
+tcga_lusc,Segmentation Storage,1849,3463,318346.465196,1,482,310.885,172.172
+tcga_coad,Segmentation Storage,1784,3494,377658.002878,1,451,368.807,211.692
+tcga_skcm,Segmentation Storage,1763,3461,432893.689352,1,433,422.748,245.544
+nsclc_radiomics,Segmentation Storage,1663,1663,17462.2793,1,422,17.053,10.5
+nsclc_radiomics,Enhanced SR Storage,1591,1591,233.312206,1,414,0.228,0.147
+tcga_stad,Segmentation Storage,1576,2990,309872.166154,1,416,302.61,196.619
+tcga_prad,Segmentation Storage,1570,3056,343256.609148,1,403,335.212,218.635
+tcga_blca,Segmentation Storage,1520,3023,461699.573034,1,386,450.878,303.75
+eay131,Segmentation Storage,1404,1404,692.245668,1,438,0.676,0.493
+ct4harmonization_multicentric,Segmentation Storage,1378,1378,6858.68214,1,1,6.698,4.977
+tcga_kirc,Segmentation Storage,1211,1211,824.94375,1,515,0.806,0.681
+lung_pet_ct_dx,Comprehensive 3D SR Storage,1091,1091,53.127838,1,354,0.052,0.049
+tcga_cesc,Segmentation Storage,1029,1971,203578.487086,1,268,198.807,197.841
+duke_breast_cancer_mri,Segmentation Storage,1024,1024,8979.655368,1,827,8.769,8.769
+tcga_hnsc,Segmentation Storage,900,900,96.581588,1,450,0.094,0.107
+tcga_lihc,Segmentation Storage,899,899,393.605508,1,365,0.384,0.438
+ispy1,Comprehensive SR Storage,845,845,6.702094,1,221,0.007,0.008
+rider_lung_ct,Segmentation Storage,844,844,2194.95527,1,32,2.144,2.601
+nsclc_radiomics,Comprehensive 3D SR Storage,828,828,68.065384,1,414,0.066,0.082
+4d_lung,RT Structure Set Storage,800,800,191.975096,1,20,0.187,0.24
+tcga_gbm,Segmentation Storage,771,3226,252325.211192,1,334,246.411,327.27
+tcga_paad,Segmentation Storage,758,1487,182928.015486,1,183,178.641,241.33
+breast_mri_nact_pilot,Segmentation Storage,756,756,2100.369566,1,64,2.051,2.778
+tcga_gbm,Parametric Map Storage,691,691,363.39053,1,336,0.355,0.526
+tcga_read,Segmentation Storage,651,1280,120796.35730799999,1,165,117.965,185.555
+tcga_acc,Segmentation Storage,646,646,69.328078,1,92,0.068,0.107
+cptac_ccrcc,RT Structure Set Storage,636,636,28.613576000000002,1,60,0.028,0.045
+cptac_ucec,RT Structure Set Storage,617,617,34.779317999999996,1,72,0.034,0.056
+psma_pet_ct_lesions,Segmentation Storage,597,597,502.609332,1,378,0.491,0.842
+cptac_pda,RT Structure Set Storage,536,536,14.553938,1,103,0.014,0.027
+nsclc_radiogenomics,Segmentation Storage,515,515,2598.0977,1,198,2.537,5.045
+mediastinal_lymph_node_seg,Segmentation Storage,513,513,313.991198,1,513,0.307,0.612
+prostatex,Segmentation Storage,511,511,380.192606,1,346,0.371,0.744
+tcga_sarc,Segmentation Storage,508,508,64.768216,1,254,0.063,0.127
+vestibular_schwannoma_seg,RT Structure Set Storage,484,484,263.86773,1,242,0.258,0.545
+qiba_ct_1c,Comprehensive SR Storage,462,462,10.961032,1,1,0.011,0.024
+qiba_ct_1c,Grayscale Softcopy Presentation State Storage,462,462,0.60043,1,1,0.001,0.001
+qiba_ct_1c,Segmentation Storage,462,462,35.28496,1,1,0.034,0.076
+hcc_tace_seg,Segmentation Storage,448,448,2435.669784,1,105,2.379,5.437
+nsclc_radiomics,RT Structure Set Storage,422,422,585.876108,1,422,0.572,1.388
+colorectal_liver_metastases,Segmentation Storage,421,421,2346.983994,1,197,2.292,5.575
+acrin_nsclc_fdg_pet,Segmentation Storage,385,385,136.740568,1,197,0.134,0.355
+rider_lung_ct,Grayscale Softcopy Presentation State Storage,384,384,0.606278,1,32,0.001,0.002
+pediatric_ct_seg,RT Structure Set Storage,359,359,7700.85459,1,359,7.52,21.451
+remind,Segmentation Storage,356,356,673.59271,1,114,0.658,1.892
+tcga_meso,Segmentation Storage,350,350,27.939036,1,87,0.027,0.08
+prostatex,Comprehensive 3D SR Storage,345,345,2.180374,1,345,0.002,0.006
+tcga_esca,Segmentation Storage,312,312,34.157056,1,156,0.033,0.109
+tcga_tgct,Segmentation Storage,308,308,38.555692,1,149,0.038,0.125
+soft_tissue_sarcoma,RT Structure Set Storage,306,306,312.653854,1,51,0.305,1.022
+tcga_uvm,Segmentation Storage,285,524,64471.308984,1,80,62.96,226.215
+cc_radiomics_phantom_3,RT Structure Set Storage,275,275,92.75131,1,95,0.091,0.337
+tcga_thym,Segmentation Storage,242,242,31.78585,1,121,0.031,0.131
+rider_pilot,Grayscale Softcopy Presentation State Storage,240,240,0.34212000000000004,1,8,0.0,0.001
+ct_phantom4radiomics,Segmentation Storage,238,238,1175.232158,1,1,1.148,4.938
+rider_lung_ct,Comprehensive SR Storage,224,224,8.04405,1,32,0.008,0.036
+lung_pet_ct_dx,Segmentation Storage,220,220,403.350188,1,151,0.394,1.833
+tcga_ov,Segmentation Storage,212,212,28.547204,1,106,0.028,0.135
+c4kc_kits,Segmentation Storage,210,210,3040.920688,1,210,2.97,14.481
+rider_pilot,Segmentation Storage,200,200,29.183624000000002,1,8,0.028,0.146
+breast_mri_nact_pilot,Comprehensive SR Storage,189,189,1.47391,1,64,0.001,0.008
+ct_lymph_nodes,Segmentation Storage,176,176,620.151282,1,176,0.606,3.524
+tcga_brca,Comprehensive SR Storage,164,164,1.1328259999999999,1,139,0.001,0.007
+spinal_multiple_myeloma_seg,Segmentation Storage,144,144,6573.4279639999995,1,67,6.419,45.649
+qin_lung_ct,Segmentation Storage,143,143,525.190028,1,46,0.513,3.673
+anti_pd_1_lung,Segmentation Storage,142,142,511.214668,1,43,0.499,3.6
+rider_pilot,Comprehensive SR Storage,140,140,4.999292,1,8,0.005,0.036
+prostate_anatomical_edge_cases,RT Structure Set Storage,131,131,62.765514,1,131,0.061,0.479
+pancreatic_ct_cbct_seg,RT Structure Set Storage,130,130,422.956282,1,40,0.413,3.254
+qin_breast,Segmentation Storage,123,123,52.864662,1,43,0.052,0.43
+lung_phantom,Segmentation Storage,108,108,854.982648,1,1,0.835,7.917
+rider_lung_pet_ct,Segmentation Storage,106,106,206.91995,1,46,0.202,1.952
+advanced_mri_breast_lesions,Segmentation Storage,99,99,655.59061,1,99,0.64,6.622
+rms_mutation_prediction,Segmentation Storage,97,261,6973.395996,1,96,6.81,71.891
+rms_mutation_prediction,Comprehensive 3D SR Storage,96,96,4.8471020000000005,1,95,0.005,0.05
+breast_diagnosis,Comprehensive SR Storage,94,94,0.6149560000000001,1,50,0.001,0.007
+qin_prostate_repeatability,Enhanced SR Storage,90,90,4.066418,1,15,0.004,0.045
+qin_prostate_repeatability,Segmentation Storage,90,90,200.157368,1,15,0.195,2.224
+pancreas_ct,Segmentation Storage,80,80,229.507418,1,80,0.224,2.869
+spie_aapm_lung_ct_challenge,Segmentation Storage,76,76,945.441172,1,70,0.923,12.44
+cc_tumor_heterogeneity,RT Structure Set Storage,68,68,11.035486,1,23,0.011,0.162
+lctsc,RT Structure Set Storage,60,60,124.329696,1,60,0.121,2.072
+rider_lung_ct,RT Structure Set Storage,59,59,10.735486,1,31,0.01,0.182
+spine_mets_ct_seg,Segmentation Storage,55,55,1633.552262,1,55,1.595,29.701
+adrenal_acc_ki67_seg,Segmentation Storage,53,53,274.09696,1,53,0.268,5.172
+qin_breast_dce_mri,Key Object Selection Document Storage,40,40,47.489504,1,10,0.046,1.187
+cptac_ccrcc,Segmentation Storage,37,37,214.756316,1,14,0.21,5.804
+cc_radiomics_phantom,RT Structure Set Storage,34,34,39.311518,1,17,0.038,1.156
+dro_toolkit,Segmentation Storage,32,32,320.847328,1,32,0.313,10.026
+uw_cirp_mouse_pet_ct_nsclc,RT Structure Set Storage,25,25,2.017328,1,14,0.002,0.081
+nsclc_radiomics_interobserver1,Segmentation Storage,21,21,1193.186992,1,21,1.165,56.818
+nsclc_radiomics_interobserver1,RT Structure Set Storage,21,21,6.14017,1,21,0.006,0.292
+ct_vs_pet_ventilation_imaging,Real World Value Mapping Storage,20,20,0.851532,1,20,0.001,0.043
+tcga_kirp,Segmentation Storage,19,19,78.000266,1,11,0.076,4.105
+tcga_kich,Segmentation Storage,15,15,69.676216,1,5,0.068,4.645

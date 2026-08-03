@@ -1,0 +1,134 @@
+{
+  "purpose": "Producer-identity strings written unconditionally by an encoding toolkit. Excluded from the numerator of any informativeness rate, because their presence identifies the encoder and cannot identify the producing algorithm.",
+  "rule": "A presence check over Type 1 attributes reports 100 percent and measures nothing. Scoring is semantic: a value is informative only if it is not a sentinel.",
+  "sentinels": [
+    {
+      "value": "QIICR",
+      "attribute": "Manufacturer",
+      "toolkit": "dcmqi",
+      "basis": "hardcoded constant. QIICRConstants.h, #define QIICR_MANUFACTURER \"QIICR\", applied by ConverterBase.cpp getEquipmentInfo(). No command-line flag, environment variable or JSON key overrides it.",
+      "status": "CONFIRMED from source 2026-08-02"
+    },
+    {
+      "value": "https://github.com/QIICR/dcmqi",
+      "attribute": "ManufacturerModelName",
+      "toolkit": "dcmqi",
+      "basis": "build working-copy URL",
+      "status": "CONFIRMED from source 2026-08-02"
+    },
+    {
+      "value": "https://github.com/QIICR/dcmqi.git",
+      "attribute": "ManufacturerModelName",
+      "toolkit": "dcmqi",
+      "basis": "build working-copy URL",
+      "status": "CONFIRMED from source 2026-08-02"
+    },
+    {
+      "value": "git@github.com:QIICR/dcmqi.git",
+      "attribute": "ManufacturerModelName",
+      "toolkit": "dcmqi",
+      "basis": "build working-copy URL, SSH form",
+      "status": "CONFIRMED from source 2026-08-02"
+    },
+    {
+      "value": "git://github.com/QIICR/dcmqi.git",
+      "attribute": "ManufacturerModelName",
+      "toolkit": "dcmqi",
+      "basis": "build working-copy URL, git protocol form",
+      "status": "CONFIRMED from source 2026-08-02"
+    },
+    {
+      "value": "https://github.com/qiicr/dcmqi.git",
+      "attribute": "ManufacturerModelName",
+      "toolkit": "dcmqi",
+      "basis": "build working-copy URL, lowercased host path",
+      "status": "CONFIRMED from source 2026-08-02"
+    },
+    {
+      "value": "https://github.com/fedorov/dcmqi.git",
+      "attribute": "ManufacturerModelName",
+      "toolkit": "dcmqi",
+      "basis": "build working-copy URL of a personal fork",
+      "status": "CONFIRMED from source 2026-08-02"
+    },
+    {
+      "value": "https://github.com/ImagingDataCommons/highdicom.git",
+      "attribute": "ManufacturerModelName",
+      "toolkit": "highdicom",
+      "basis": "library self-identification",
+      "status": "CONFIRMED from source 2026-08-02"
+    },
+    {
+      "value": "https://github.com/imagingdatacommons/highdicom",
+      "attribute": "ManufacturerModelName",
+      "toolkit": "highdicom",
+      "basis": "library self-identification",
+      "status": "CONFIRMED from source 2026-08-02"
+    },
+    {
+      "value": "highdicom",
+      "attribute": "Manufacturer",
+      "toolkit": "highdicom",
+      "basis": "library self-identification",
+      "status": "CONFIRMED from source 2026-08-02"
+    },
+    {
+      "value": "https://github.com/razorx89/pydicom-seg",
+      "attribute": "ManufacturerModelName",
+      "toolkit": "pydicom-seg",
+      "basis": "library self-identification",
+      "status": "asserted from observed values, NOT source confirmed. Only dcmqi and highdicom were read from source."
+    },
+    {
+      "value": "pydicom-seg",
+      "attribute": "Manufacturer",
+      "toolkit": "pydicom-seg",
+      "basis": "library self-identification",
+      "status": "asserted from observed values, NOT source confirmed. Only dcmqi and highdicom were read from source."
+    },
+    {
+      "value": "https://github.com/fedorov/Reporting",
+      "attribute": "ManufacturerModelName",
+      "toolkit": "QIICR Reporting",
+      "basis": "build working-copy URL",
+      "status": "asserted from observed values, NOT source confirmed. Only dcmqi and highdicom were read from source."
+    },
+    {
+      "value": "com.pixelmed.convert.EncapsulateData",
+      "attribute": "ManufacturerModelName",
+      "toolkit": "PixelMed",
+      "basis": "converter class name",
+      "status": "asserted from observed values, NOT source confirmed. Only dcmqi and highdicom were read from source."
+    }
+  ],
+  "phase2_rules": [
+    {
+      "attribute": "DeviceSerialNumber (0018,1000)",
+      "toolkit": "dcmqi",
+      "rule": "exact string 0",
+      "basis": "QIICRConstants.h, #define QIICR_DEVICE_SERIAL_NUMBER \"0\"",
+      "status": "CONFIRMED from source 2026-08-02"
+    },
+    {
+      "attribute": "SoftwareVersions (0018,1020)",
+      "toolkit": "dcmqi",
+      "rule": "matches ^[0-9a-f]{7}$",
+      "basis": "dcmqi_WC_REVISION: git rev-parse --verify -q --short=7 HEAD in the build working copy. A 7 character hex string identifies a commit of the encoder, not a version of any algorithm.",
+      "status": "CONFIRMED from source 2026-08-02"
+    },
+    {
+      "attribute": "ImplementationVersionName (0002,0013)",
+      "toolkit": "highdicom",
+      "rule": "matches ^highdicom",
+      "basis": "highdicom/base.py, f'highdicom{__version__}'",
+      "status": "CONFIRMED from source 2026-08-02"
+    },
+    {
+      "attribute": "ContributingEquipmentSequence (0018,A001) item Manufacturer",
+      "toolkit": "highdicom",
+      "rule": "exact string Highdicom open-source contributors",
+      "basis": "highdicom/base_content.py, ContributingEquipment.for_highdicom. The sequence is appended unconditionally by every concrete constructor with no opt-out, so a presence check on (0018,A001) over highdicom objects reports 100 percent and measures nothing.",
+      "status": "CONFIRMED from source 2026-08-02"
+    }
+  ]
+}

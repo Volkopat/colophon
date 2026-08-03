@@ -1,0 +1,21 @@
+# Fetched DICOM. Never committed, and deleted after validation rather than kept.
+_cache/
+*.dcm
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.venv/
+
+# Editor and OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+_cache/dcmqi.git/
+env/typesetting/
+
+# Word lock files. They appear whenever a generated .docx is opened.
+~$*

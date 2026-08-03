@@ -1,0 +1,23 @@
+[
+  {
+    "id": "C3T-09",
+    "section": "C3T",
+    "section_title": "Claim 3, complete tabulation",
+    "claim": "The informativeness grade is sensitive to the rule that decides what counts as producer identity, and both readings are published as a declared sensitivity rather than one being discarded.",
+    "status": "MEASURED",
+    "value": "permissive reading, any token that is neither a published sentinel nor a generic word: 33,671 of 35,107 objects informative, 95.91 percent. Rule-table reading, only a value the published ordered rule table classifies as a named analysis: 4,799 of 35,107, 13.67 percent. The rule-table reading is the one reported.",
+    "n": "4,799",
+    "denominator": "35,107",
+    "floor": "not applicable, no validator is involved: this is an attribute-content measurement read from the object",
+    "dropped": "the permissive reading counted a viewer string, an acquisition vendor, an encoder sentinel and a device serial as producer identity; the values that decided it are named in results/ai_use.md",
+    "sop_class": "seven complete census classes plus Segmentation Storage from the PRE-06 sample",
+    "validator": "none",
+    "validator_version": "not applicable",
+    "command": "python -m colophon.claim3",
+    "source_file": "results/claim3/grades_by_sop_class.csv and results/ai_use.md",
+    "derived_from": "C3T-00",
+    "external_source": "PS3.3 2026c Table C.7-8b",
+    "status_note": "The permissive rule is superseded and its code is not retained, so this row records the figure rather than a command that reproduces it. It is kept because the two readings differ by a factor of seven on the same objects, which is the largest single sensitivity in this paper and would be invisible if only the reported figure were published. The rule-table reading is reproducible and its residual, every value no rule matches, is published verbatim.",
+    "notes": "Reported in Methods as a declared sensitivity, never as a range."
+  }
+]

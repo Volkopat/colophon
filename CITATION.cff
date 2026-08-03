@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this harness or its measurements, please cite it."
+title: "colophon: a conformance and provenance census of AI-derived DICOM objects in the NCI Imaging Data Commons"
+abstract: >-
+  A measurement study of the 481,750 derived-object series in NCI Imaging Data
+  Commons release v24. Measures DICOM conformance with independent third-party
+  validators against a stated validator floor, measures disagreement between
+  those validators, and measures whether the objects identify the analysis that
+  produced them. Develops no model and repairs no object.
+type: software
+authors:
+  - family-names: Patil
+    given-names: Digvijay
+license: MIT
+keywords:
+  - DICOM
+  - conformance
+  - provenance
+  - Imaging Data Commons
+  - medical imaging informatics
+  - measurement study
+repository-code: "https://github.com/Volkopat/colophon"
+version: "1.0.0"
+date-released: "2026-08-03"
+references:
+  - type: software
+    title: "spine-gsps"
+    authors:
+      - family-names: Patil
+        given-names: Digvijay
+    doi: "10.5281/zenodo.21728405"
+    notes: "Supplies the validator invocation patterns, the claims-ledger discipline and the version-pinning appendix this project copies."
+  - type: software
+    title: "idc-index"
+    notes: "IDC release v24, idc-index 0.12.5, idc-index-data 24.2.2. The index this census reads."
+  - type: software
+    title: "dicom3tools"
+    authors:
+      - family-names: Clunie
+        given-names: David
+    notes: "dciodvfy, snapshot 20260701065818. Third-party IOD validator."
+  - type: software
+    title: "DCMTK"
+    notes: "dcmpschk 3.7.0, 2025-12-15. Third-party presentation state validator."

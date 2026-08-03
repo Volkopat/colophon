@@ -1,0 +1,2719 @@
+sop_class_name,value,objects
+Comprehensive 3D SR Storage,BPR landmark annotations,1453
+Comprehensive 3D SR Storage,BPR region annotations,1453
+Comprehensive SR Storage,Standard Breast Imaging Report,1292
+RT Structure Set Storage,"Pre-dose, LIVER - 1 - SEED POINT",1188
+Comprehensive 3D SR Storage,Tumor bounding box,1091
+RT Structure Set Storage,"Pre-dose, LIVER - 1",987
+Comprehensive 3D SR Storage,Sybil lesion bounding box,970
+RT Structure Set Storage,"Pre-dose, LIVER - 2 - SEED POINT",801
+Segmentation Storage,Manual Segmentation,768
+Parametric Map Storage,Aggressiveness Score Map,691
+RT Structure Set Storage,"Pre-dose, LIVER - 2",672
+RT Structure Set Storage,"Pre-dose, RIGHT LUNG - 1 - SEED POINT",648
+Segmentation Storage,Reader1,602
+RT Structure Set Storage,"Pre-dose, RIGHT LUNG - 1",533
+Comprehensive 3D SR Storage,Biograph 64,457
+Comprehensive SR Storage,Completed,453
+Segmentation Storage,Imaging Data Commons,410
+Segmentation Storage,Random Walker Algorithm,409
+RT Structure Set Storage,"Pre-dose, LEFT LUNG - 1 - SEED POINT",393
+RT Structure Set Storage,"Pre-dose, LEFT LUNG - 2 - SEED POINT",379
+Segmentation Storage,3DSlicer,378
+RT Structure Set Storage,"Pre-dose, MEDIASTINAL LYMPH NODE - 1 - SEED POINT",366
+Segmentation Storage,BAMF-Brain-MR,362
+Segmentation Storage,Segmentation,360
+Segmentation Storage,https://doi.org/10.7937/TCIA.2019.4A4DKP9U,356
+Comprehensive 3D SR Storage,Prostate lesion target annotations,345
+Segmentation Storage,Segmentation - Tumor lesions detected,340
+Segmentation Storage,BAMFHealth^AI,340
+RT Structure Set Storage,"Pre-dose, LEFT LUNG - 1",317
+RT Structure Set Storage,"Pre-dose, LEFT LUNG - 2",313
+RT Structure Set Storage,Vision 7.3 - External Beam Planning,309
+RT Structure Set Storage,"Pre-dose, MEDIASTINAL LYMPH NODE - 1",303
+Segmentation Storage,doi:10.3389/fonc.2021.806603,298
+Comprehensive 3D SR Storage,Skyra,288
+RT Structure Set Storage,"Pre-dose, RIGHT LUNG - 2 - SEED POINT",286
+Segmentation Storage,AI Model Tissue Segmentations,261
+RT Structure Set Storage,RTSTRUCT,256
+Segmentation Storage,Manually Segmented Liver ROIs,252
+Segmentation Storage,NIfTI to SEG,252
+RT Structure Set Storage,"Pre-dose, PERITONEUM - 1 - SEED POINT",241
+RT Structure Set Storage,"Pre-dose, RIGHT LUNG - 2",237
+Segmentation Storage,"Background Threshold, PE threshold and connectivity filter",205
+RT Structure Set Storage,"Pre-Dose, UTERUS - 1 - SEED POINT",198
+RT Structure Set Storage,"Pre-Dose, UTERUS - 1",198
+Segmentation Storage,NLSTSeg Segmentation of Series: 2,198
+Comprehensive 3D SR Storage,Discovery CT750 HD,194
+RT Structure Set Storage,"Pre-dose, PERITONEUM - 1",191
+Segmentation Storage,Segmentation of prostate,189
+Segmentation Storage,PROFUSE,189
+RT Structure Set Storage,"Pre-dose, RETROPERITONEAL LYMPH NODE - 1 - SEED POINT",181
+RT Structure Set Storage,"Pre-dose, PANCREAS - 1 - SEED POINT",177
+Comprehensive 3D SR Storage,LightSpeed QX/i,174
+RT Structure Set Storage,"Pre-dose, PELVIS - 1 - SEED POINT",174
+Segmentation Storage,doi:10.7937/K9/TCIA.2018.Y75F9W1,172
+Comprehensive 3D SR Storage,Volume Zoom,159
+Segmentation Storage,BAMF-Breast-Tumor-MRI,143
+Segmentation Storage,Segmentation of prostate lesion 1,142
+RT Structure Set Storage,"Pre-dose, PELVIS - 1",141
+RT Structure Set Storage,"Pre-dose, MEDIASTINAL LYMPH NODE - 2 - SEED POINT",139
+Segmentation Storage,ISPY2: VOLSER: uni-lateral cropped: Analysis Mask,138
+RT Structure Set Storage,"Pre-dose, RETROPERITONEAL LYMPH NODE - 1",137
+Comprehensive 3D SR Storage,Sensation 16,129
+RT Structure Set Storage,"Pre-dose, PANCREAS - 1",128
+RT Structure Set Storage,"Pre-Dose, PANCREAS - 1 - SEED POINT",124
+RT Structure Set Storage,"Pre-Dose, PANCREAS - 1",124
+Segmentation Storage,Signa HDxt,123
+RT Structure Set Storage,"Pre-dose, MEDIASTINAL LYMPH NODE - 2",118
+RT Structure Set Storage,"Pre-dose, SPINE - 1 - SEED POINT",115
+RT Structure Set Storage,"Pre-dose, RETROPERITONEAL LYMPH NODE - 2 - SEED POINT",111
+RT Structure Set Storage,Contouring,111
+Segmentation Storage,BAMF-Lung-CT-v2,110
+RT Structure Set Storage,"Pre-dose, PARAAORTIC LYMPH NODE - 1 - SEED POINT",109
+Comprehensive 3D SR Storage,LightSpeed VCT,106
+RT Structure Set Storage,"Pre-dose, PERITONEUM - 2 - SEED POINT",106
+Comprehensive SR Storage,Lesion Designator,104
+Segmentation Storage,AIMI Brain MRI AI segmentation,104
+RT Structure Set Storage,"Pre-dose, PARAAORTIC LYMPH NODE - 1",101
+RT Structure Set Storage,"Pre-dose, SPINE - 1",99
+Segmentation Storage,NLSTSeg Segmentation of Series: 3,99
+Segmentation Storage,Region-growing,99
+Comprehensive 3D SR Storage,LightSpeed16,97
+Comprehensive 3D SR Storage,Sensation 10,97
+Comprehensive 3D SR Storage,Biograph64,97
+Comprehensive 3D SR Storage,Manual region annotations,96
+RT Structure Set Storage,"Pre-dose, RETROPERITONEAL LYMPH NODE - 2",94
+RT Structure Set Storage,Control,94
+RT Structure Set Storage,Chest,93
+RT Structure Set Storage,"Pre-dose, LESION SEED POINT - NO FINDINGS",92
+RT Structure Set Storage,"Pre-dose, PERITONEAL LYMPH NODE - 1 - SEED POINT",90
+RT Structure Set Storage,Head,88
+RT Structure Set Storage,"Pre-dose, LEFT ADRENAL GLAND - 1 - SEED POINT",87
+Segmentation Storage,ePAD2.0.1,87
+Segmentation Storage,GENESIS_SIGNA,84
+RT Structure Set Storage,"Pre-dose, PERITONEUM - 2",83
+Segmentation Storage,Tumor Segmentation,83
+RT Structure Set Storage,"Pre-Dose, RIGHT KIDNEY - 1 - SEED POINT",82
+RT Structure Set Storage,"Pre-Dose, RIGHT KIDNEY - 1",82
+Segmentation Storage,QIBA CT 1B Round 2 Reader 4,80
+Segmentation Storage,Segmentation of pancreas,80
+Segmentation Storage,Anonymous,80
+RT Structure Set Storage,BSCB_LL_LR_SDCB,79
+Segmentation Storage,QIBA CT 1B Round 2 Reader 5,79
+Segmentation Storage,Customized Tumor Response Assessment Platform (based on Weasis),79
+Segmentation Storage,SlicerEditor,78
+Comprehensive 3D SR Storage,LightSpeed Plus,77
+Segmentation Storage,QIBA CT 1B Round 2 Reader 2,77
+Segmentation Storage,QIBA CT 1B Round 2 Reader 1,76
+Comprehensive 3D SR Storage,LightSpeed Ultra,75
+Segmentation Storage,QIBA CT 1B Round 2 Reader 3,72
+Segmentation Storage,Lung1CollectionOwner,72
+Comprehensive 3D SR Storage,iCT 256,70
+RT Structure Set Storage,"Pre-dose, RIGHT ADRENAL GLAND - 1 - SEED POINT",69
+RT Structure Set Storage,"Pre-dose, ABDOMINAL WALL - 1 - SEED POINT",68
+RT Structure Set Storage,"Pre-dose, PARAAORTIC LYMPH NODE - 2 - SEED POINT",68
+RT Structure Set Storage,ROI,68
+Segmentation Storage,Amira,68
+RT Structure Set Storage,"Pre-dose, LEFT ADRENAL GLAND - 1",67
+RT Structure Set Storage,"Pre-dose, PERITONEAL LYMPH NODE - 1",65
+Segmentation Storage,AIMI lung and nodule AI segmentation,65
+Grayscale Softcopy Presentation State Storage,Clunie^David,64
+RT Structure Set Storage,"Pre-dose, MEDIASTINUM - 1 - SEED POINT",64
+Comprehensive 3D SR Storage,Aquilion,63
+RT Structure Set Storage,"Pre-Dose, LEFT KIDNEY - 1 - SEED POINT",62
+RT Structure Set Storage,"Pre-dose, PARAAORTIC LYMPH NODE - 2",62
+RT Structure Set Storage,"Pre-Dose, LEFT KIDNEY - 1",62
+Segmentation Storage,Partially Annotated,61
+Segmentation Storage,"Pre-dose, LIVER - 1",61
+RT Structure Set Storage,"Pre-dose, RIGHT HILUM - 1 - SEED POINT",59
+RT Structure Set Storage,"Pre-dose, RETROPERITONEUM - 1 - SEED POINT",59
+RT Structure Set Storage,.simplified,59
+Segmentation Storage,RiderCollectionOwner,59
+Segmentation Storage,BAMF-Prostate-MR,58
+Segmentation Storage,0,58
+Comprehensive 3D SR Storage,TrioTim,57
+RT Structure Set Storage,"Pre-dose, RIGHT ADRENAL GLAND - 1",57
+Segmentation Storage,BAMF-Lung-FDG-PET-CT,57
+RT Structure Set Storage,"Pre-dose, ABDOMINAL WALL - 1",56
+Comprehensive 3D SR Storage,Mx8000,55
+Segmentation Storage,AIMI Prostate Segmentation,53
+Comprehensive SR Storage,QIBA CT 1B Round 2 Reader 3,52
+Comprehensive SR Storage,QIBA CT 1B Round 2 Reader 1,52
+Comprehensive SR Storage,QIBA CT 1B Round 2 Reader 5,52
+Comprehensive SR Storage,QIBA CT 1B Round 2 Reader 2,52
+Comprehensive SR Storage,QIBA CT 1B Round 2 Reader 4,52
+RT Structure Set Storage,"Pre-dose, MEDIASTINUM - 1",52
+RT Structure Set Storage,RTstruct_T1,51
+RT Structure Set Storage,"Pre-dose, SPLEEN - 1 - SEED POINT",50
+RT Structure Set Storage,RTstruct_PET,50
+RT Structure Set Storage,RTstruct_CT,50
+Segmentation Storage,BAMF-Liver-Tumor-CT,49
+Comprehensive 3D SR Storage,HiSpeed QX/i,48
+Comprehensive 3D SR Storage,LightSpeed Pro 16,48
+RT Structure Set Storage,"Pre-dose, RETROPERITONEUM - 1",47
+RT Structure Set Storage,RTstruct_AlignedT1toPET,47
+Segmentation Storage,Segmentation of prostate lesion 2,47
+RT Structure Set Storage,"Pre-dose, LEFT AXILLARY LYMPH NODE - 1 - SEED POINT",44
+Segmentation Storage,Segmentation - No tumor lesions detected,44
+RT Structure Set Storage,"Pre-dose, LEFT PLEURA - 1 - SEED POINT",43
+RT Structure Set Storage,"Pre-dose, PERITONEAL LYMPH NODE - 2 - SEED POINT",43
+RT Structure Set Storage,"Pre-dose, RIGHT HILUM - 1",42
+Segmentation Storage,AIMI breast-tumor AI segmentation,42
+RT Structure Set Storage,"Pre-dose, RIGHT PLEURA - 1 - SEED POINT",41
+RT Structure Set Storage,"Pre-dose, SPLEEN - 1",40
+Segmentation Storage,"Pre-dose, RIGHT LUNG - 1",40
+RT Structure Set Storage,"Pre-dose, PELVIS - 2 - SEED POINT",39
+RT Structure Set Storage,"Pre-Dose, LIVER - 1 - SEED POINT",39
+RT Structure Set Storage,"Pre-Dose, LIVER - 1",39
+RT Structure Set Storage,BSPC_LL_LR_ROI_SDPC,39
+Comprehensive 3D SR Storage,Brilliance16,38
+Segmentation Storage,Breast Tissue Segmentation,38
+Segmentation Storage,Background Threshold,38
+Segmentation Storage,manual + threshold,38
+RT Structure Set Storage,"Pre-dose, RIGHT BREAST - 1 - SEED POINT",37
+RT Structure Set Storage,"Pre-dose, LEFT AXILLARY LYMPH NODE - 1",37
+Segmentation Storage,NLSTSeg Segmentation of Series: 4,37
+RT Structure Set Storage,"Pre-dose, SPINE - 2 - SEED POINT",36
+RT Structure Set Storage,"Pre-dose, LEFT HILUM - 1 - SEED POINT",36
+RT Structure Set Storage,"Pre-dose, LEFT PLEURA - 1",36
+Segmentation Storage,ISPY2: VOLSER: bi-lateral: Analysis Mask,33
+RT Structure Set Storage,"Pre-dose, RIGHT HILAR LYMPH NODE - 1 - SEED POINT",32
+RT Structure Set Storage,"Pre-dose, RIGHT PLEURA - 1",32
+RT Structure Set Storage,"Pre-dose, SPINE - 2",32
+RT Structure Set Storage,"Pre-dose, PERITONEAL LYMPH NODE - 2",32
+RT Structure Set Storage,"Pre-dose, RIGHT BREAST - 1",32
+Segmentation Storage,"Background Threshold, PEthresh and MinConn filter, VOI limits",31
+Segmentation Storage,Avanto,31
+Segmentation Storage,alg03_run1,31
+RT Structure Set Storage,TEST,30
+Segmentation Storage,AIMI lung and FDG tumor AI segmentation,30
+Segmentation Storage,QIN CT challenge: alg03 run1segmentation result,30
+Segmentation Storage,QIN CT challenge: alg03 run2segmentation result,30
+Segmentation Storage,alg03_run2,30
+Segmentation Storage,QIN CT challenge: alg03 run3segmentation result,30
+Segmentation Storage,alg03_run3,30
+RT Structure Set Storage,"Pre-dose, ILIAC LYMPH NODE - 1 - SEED POINT",29
+RT Structure Set Storage,RETEST,29
+Segmentation Storage,BAMF-Lung-CT,29
+Segmentation Storage,QIN CT challenge: alg01 run1segmentation result,29
+Segmentation Storage,alg01_run1,29
+Segmentation Storage,QIN CT challenge: alg01 run2segmentation result,29
+Segmentation Storage,alg01_run2,29
+Segmentation Storage,QIN CT challenge: alg01 run3segmentation result,29
+Segmentation Storage,alg01_run3,29
+Segmentation Storage,QIN CT challenge: alg02 run1segmentation result,29
+Segmentation Storage,alg02_run1,29
+Segmentation Storage,QIN CT challenge: alg02 run2segmentation result,29
+Segmentation Storage,alg02_run2,29
+Segmentation Storage,QIN CT challenge: alg02 run3segmentation result,29
+Segmentation Storage,alg02_run3,29
+RT Structure Set Storage,"Pre-dose, RIGHT RIB - 1 - SEED POINT",28
+RT Structure Set Storage,"Pre-dose, PELVIS - 2",28
+Segmentation Storage,VOI Breast Tissue Segmentation,28
+Segmentation Storage,"Background Threshold, VOI limits",28
+RT Structure Set Storage,"Pre-Dose, No Findings",27
+RT Structure Set Storage,"Pre-dose, UTERUS - 1 - SEED POINT",27
+RT Structure Set Storage,"Pre-dose, LEFT ILIAC BONE - 1 - SEED POINT",27
+RT Structure Set Storage,"Pre-dose, LEFT AXILLARY LYMPH NODE - 2 - SEED POINT",27
+RT Structure Set Storage,"Pre-Dose, RIGHT KIDNEY - 2 - SEED POINT",27
+RT Structure Set Storage,"Pre-Dose, RIGHT KIDNEY - 2",27
+RT Structure Set Storage,"Pre-dose, LEFT HILUM - 1",27
+Segmentation Storage,BrainLab,27
+RT Structure Set Storage,"Pre-dose, LEFT RIB - 1 - SEED POINT",26
+RT Structure Set Storage,"Pre-dose, MESENTERIC LYMPH NODE - 1 - SEED POINT",26
+RT Structure Set Storage,RTstruct_T2FS,26
+RT Structure Set Storage,RTstruct_AlignedT2FStoPET,26
+Segmentation Storage,Lymph node segmentations,26
+RT Structure Set Storage,"Pre-dose, RIGHT ILIAC BONE - 1 - SEED POINT",25
+RT Structure Set Storage,RTstruct_STIR,25
+Segmentation Storage,"Pre-dose, LIVER - 2",25
+Segmentation Storage,BAMF-Kidney-CT,25
+RT Structure Set Storage,"Pre-dose, CARDIOPHRENIC LYMPH NODE - 1 - SEED POINT",24
+RT Structure Set Storage,"Pre-Dose, LEFT ADRENAL - 1 - SEED POINT",24
+RT Structure Set Storage,"Pre-Dose, LEFT ADRENAL - 1",24
+Segmentation Storage,AIMI liver-tumor AI segmentation,24
+Segmentation Storage,Custom,24
+RT Structure Set Storage,"Pre-dose, PELVIC LYMPH NODE - 1 - SEED POINT",23
+RT Structure Set Storage,"Pre-dose, RIGHT AXILARY LYMPH NODE - 1 - SEED POINT",23
+RT Structure Set Storage,"Pre-dose, HEPATIC LYMPH NODE - 1 - SEED POINT",23
+RT Structure Set Storage,"Pre-dose, RIGHT AXILARY LYMPH NODE - 2 - SEED POINT",23
+RT Structure Set Storage,"Pre-Dose, RETROPERITONEAL LYMPH NODE - 1 - SEED POINT",23
+RT Structure Set Storage,"Pre-Dose, RETROPERITONEAL LYMPH NODE - 1",23
+RT Structure Set Storage,"Pre-dose, ILIAC LYMPH NODE - 1",23
+RT Structure Set Storage,"Pre-dose, LEFT AXILLARY LYMPH NODE - 2",23
+RT Structure Set Storage,RTstruct_AlignedSTIRtoPET,23
+Segmentation Storage,"Pre-dose, LEFT LUNG - 1",23
+RT Structure Set Storage,"Pre-dose, PELVIC LYMPH NODE - 2 - SEED POINT",22
+RT Structure Set Storage,"Pre-dose, CARDIOPHRENIC LYMPH NODE - 1",22
+RT Structure Set Storage,"Pre-dose, RIGHT HILAR LYMPH NODE - 1",22
+RT Structure Set Storage,"Pre-dose, HEPATIC LYMPH NODE - 1",22
+RT Structure Set Storage,"Pre-dose, LEFT INGUINAL LYMPH NODE - 1 - SEED POINT",21
+RT Structure Set Storage,"Pre-dose, SUBCARINAL LYMPH NODE - 1 - SEED POINT",21
+RT Structure Set Storage,"Pre-dose, RIGHT RIB - 1",21
+RT Structure Set Storage,"Pre-dose, LEFT RIB - 1",21
+Segmentation Storage,ROI,21
+Real World Value Mapping Storage,PET SUV Factors,20
+Comprehensive 3D SR Storage,Sensation 4,20
+RT Structure Set Storage,"Pre-dose, CHEST WALL - 1 - SEED POINT",20
+RT Structure Set Storage,"Pre-dose, RIGHT INGUINAL LYMPH NODE - 1 - SEED POINT",20
+RT Structure Set Storage,"Pre-dose, PELVIC LYMPH NODE - 1",20
+RT Structure Set Storage,"Pre-dose, SUBCARINAL LYMPH NODE - 1",20
+RT Structure Set Storage,"Pre-dose, RIGHT ILIAC BONE - 1",20
+RT Structure Set Storage,"Pre-dose, LEFT ADRENAL GLAND - 2 - SEED POINT",19
+RT Structure Set Storage,"Pre-dose, RIGHT HILAR LYMPH NODE - 2 - SEED POINT",19
+RT Structure Set Storage,"Pre-dose, RIGHT AXILARY LYMPH NODE - 1",19
+RT Structure Set Storage,"Pre-dose, MESENTERIC LYMPH NODE - 1",19
+RT Structure Set Storage,"Pre-dose, LEFT ILIAC BONE - 1",19
+Segmentation Storage,Carl Zeiss,19
+Segmentation Storage,ACRIN-6698: DWI SEG: from S4: Whole Tumor Manual,19
+Segmentation Storage,Achieva,19
+Segmentation Storage,Fully Annotated,19
+RT Structure Set Storage,"Pre-dose, SACRUM - 1 - SEED POINT",18
+RT Structure Set Storage,"Pre-Dose, PANCREATIC DUCT - 1 - SEED POINT",18
+RT Structure Set Storage,"Pre-dose, PELVIC LYMPH NODE - 2",18
+RT Structure Set Storage,"Pre-dose, RIGHT HILAR LYMPH NODE - 2",18
+RT Structure Set Storage,"Pre-dose, UTERUS - 1",18
+RT Structure Set Storage,"Pre-dose, RIGHT AXILARY LYMPH NODE - 2",18
+RT Structure Set Storage,"Pre-Dose, PANCREATIC DUCT - 1",18
+Segmentation Storage,Region,18
+Comprehensive 3D SR Storage,Sensation 64,17
+RT Structure Set Storage,"Pre-dose, RECTUM - 1 - SEED POINT",17
+RT Structure Set Storage,"Pre-dose, LEFT BREAST - 1 - SEED POINT",17
+RT Structure Set Storage,"Pre-dose, CARDIOPHRENIC LYMPH NODE - 2 - SEED POINT",17
+RT Structure Set Storage,"Pre-dose, CHEST WALL - 1",17
+Segmentation Storage,PE Segmentation thresh=70,17
+Segmentation Storage,Sonata,17
+RT Structure Set Storage,"Pre-dose, LEFT PLEURA - 2 - SEED POINT",16
+RT Structure Set Storage,"Pre-dose, SUBCARINAL LYMPH NODE - 2 - SEED POINT",16
+RT Structure Set Storage,"Pre-Dose, PANCREAS - 2 - SEED POINT",16
+RT Structure Set Storage,"Pre-Dose, ILIAC CHAIN NODE - 1 - SEED POINT",16
+RT Structure Set Storage,"Pre-dose, LEFT ADRENAL GLAND - 2",16
+RT Structure Set Storage,"Pre-dose, LEFT INGUINAL LYMPH NODE - 1",16
+RT Structure Set Storage,"Pre-dose, SACRUM - 1",16
+RT Structure Set Storage,"Pre-Dose, ILIAC CHAIN NODE - 1",16
+RT Structure Set Storage,"Pre-Dose, PANCREAS - 2",16
+Segmentation Storage,"Pre-dose, RIGHT LUNG - 2",16
+Segmentation Storage,MAGNETOM VISION,16
+RT Structure Set Storage,"Pre-dose, OMENTUM - 1 - SEED POINT",15
+RT Structure Set Storage,"Pre-dose, MESENTERIC LYMPH NODE - 2 - SEED POINT",15
+RT Structure Set Storage,"Pre-Dose, RIGHT ADRENAL - 1 - SEED POINT",15
+RT Structure Set Storage,"Pre-dose, CARDIOPHRENIC LYMPH NODE - 2",15
+RT Structure Set Storage,"Pre-Dose, RIGHT ADRENAL - 1",15
+Segmentation Storage,NLSTSeg Segmentation of Series: 1,15
+Segmentation Storage,VOI PE Segmentation thresh=70,15
+Segmentation Storage,BAMF-Breast-FDG-PET-CT,15
+RT Structure Set Storage,"Pre-dose, COLON - 1 - SEED POINT",14
+RT Structure Set Storage,"Pre-dose, LEFT INGUINAL LYMPH NODE - 2 - SEED POINT",14
+RT Structure Set Storage,"Pre-dose, ESOPHAGUS - 1 - SEED POINT",14
+RT Structure Set Storage,"Pre-Dose, LIVER - 2 - SEED POINT",14
+RT Structure Set Storage,"Pre-dose, RIGHT INGUINAL LYMPH NODE - 1",14
+RT Structure Set Storage,"Pre-dose, LEFT BREAST - 1",14
+RT Structure Set Storage,"Pre-Dose, LIVER - 2",14
+RT Structure Set Storage,"Pre-dose, ESOPHAGUS - 1",14
+Segmentation Storage,"Pre-dose, LEFT LUNG - 2",14
+Segmentation Storage,"Pre-dose, RETROPERITONEAL LYMPH NODE - 1",14
+Segmentation Storage,"Pre-dose, PERITONEUM - 1",14
+Segmentation Storage,cerebrum seg - MR ref: 3D_AX_T1_postcontrast,14
+RT Structure Set Storage,"Pre-dose, STOMACH - 1 - SEED POINT",13
+RT Structure Set Storage,"Pre-dose, RIGHT PLEURA - 2 - SEED POINT",13
+RT Structure Set Storage,"Pre-dose, ILIAC LYMPH NODE - 2 - SEED POINT",13
+RT Structure Set Storage,"Pre-dose, LEFT PLEURA - 2",13
+RT Structure Set Storage,"Pre-dose, SUBCARINAL LYMPH NODE - 2",13
+RT Structure Set Storage,"Pre-dose, RECTUM - 1",13
+RT Structure Set Storage,"Pre-dose, COLON - 1",13
+Segmentation Storage,"Pre-dose, MEDIASTINAL LYMPH NODE - 1",13
+Segmentation Storage,AIMI Brain MRI radiologist 11 corrected segmentation,13
+Segmentation Storage,BAMFHealth^Radiologist11,13
+RT Structure Set Storage,"Pre-dose, RETROPERITONEUM - 2 - SEED POINT",12
+RT Structure Set Storage,"Follow-up consultation, LIVER - 1 - SEED POINT",12
+RT Structure Set Storage,"Pre-dose, LEFT INGUINAL LYMPH NODE - 2",12
+RT Structure Set Storage,"Pre-dose, OMENTUM - 1",12
+RT Structure Set Storage,"Pre-dose, MESENTERIC LYMPH NODE - 2",12
+Segmentation Storage,NA,12
+RT Structure Set Storage,"Pre-dose, RIGHT OVARY - 1 - SEED POINT",11
+RT Structure Set Storage,"Pre-dose, ABDOMINAL WALL - 2 - SEED POINT",11
+RT Structure Set Storage,"Pre-dose, RIGHT KIDNEY - 1 - SEED POINT",11
+RT Structure Set Storage,"Pre-dose, AORTOCAVAL LYMPH NODE - 1 - SEED POINT",11
+RT Structure Set Storage,"Pre-dose, RIGHT INGUINAL LYMPH NODE - 2 - SEED POINT",11
+RT Structure Set Storage,"Follow-up consultation, LIVER - 1",11
+RT Structure Set Storage,"Pre-dose, ILIAC LYMPH NODE - 2",11
+RT Structure Set Storage,"Pre-dose, RIGHT PLEURA - 2",11
+Segmentation Storage,tumor seg - MR ref: 3D_AX_T1_postcontrast,11
+Segmentation Storage,"Pre-dose, PANCREAS - 1",11
+Segmentation Storage,Segmentation of Nodule 2 - Annotation Nodule 002,11
+Segmentation Storage,ventricles seg - MR ref: 3D_AX_T1_postcontrast,11
+Segmentation Storage,PE Segmentation thresh=90,11
+Key Object Selection Document Storage,NIfTI Visit 2,10
+Key Object Selection Document Storage,NIfTI Visit 1,10
+Key Object Selection Document Storage,Matlab Visit 2,10
+Key Object Selection Document Storage,Matlab Visit 1,10
+Comprehensive 3D SR Storage,Optima CT660,10
+RT Structure Set Storage,"Pre-dose, LEFT OVARY - 1 - SEED POINT",10
+RT Structure Set Storage,"Pre-dose, SPLEEN - 2 - SEED POINT",10
+RT Structure Set Storage,"Pre-dose, ABDOMINAL WALL - 2",10
+RT Structure Set Storage,"Pre-dose, RIGHT KIDNEY - 1",10
+RT Structure Set Storage,"Pre-dose, STOMACH - 1",10
+RT Structure Set Storage,BSO1_BSO2_ROI_SDO1_SDO2,10
+Segmentation Storage,SIGNA EXCITE,10
+Comprehensive SR Storage,Completed[Edited],9
+RT Structure Set Storage,"Pre-dose, RIGHT CHEST WALL - 1 - SEED POINT",9
+RT Structure Set Storage,"Pre-dose, RIGHT ADNEXA - 1 - SEED POINT",9
+RT Structure Set Storage,"Pre-dose, AXILLARY LYMPH NODE - 1 - SEED POINT",9
+RT Structure Set Storage,"Follow-up consultation, LIVER - 2 - SEED POINT",9
+RT Structure Set Storage,"Pre-dose, HEPATIC LYMPH NODE - 2 - SEED POINT",9
+RT Structure Set Storage,"Pre-Dose, LEFT PELVIS - 1 - SEED POINT",9
+RT Structure Set Storage,"Pre-Dose, PELVIC LYMPH NODE - 1 - SEED POINT",9
+RT Structure Set Storage,"Pre-dose, HEPATIC LYMPH NODE - 2",9
+RT Structure Set Storage,"Pre-Dose, LEFT PELVIS - 1",9
+RT Structure Set Storage,"Pre-dose, AORTOCAVAL LYMPH NODE - 1",9
+RT Structure Set Storage,"Pre-dose, SPLEEN - 2",9
+RT Structure Set Storage,"Pre-dose, RETROPERITONEUM - 2",9
+RT Structure Set Storage,"Follow-up consultation, LIVER - 2",9
+RT Structure Set Storage,"Pre-Dose, PELVIC LYMPH NODE - 1",9
+Segmentation Storage,GEMINI TF TOF 16,9
+Segmentation Storage,QIBA CT 1C Reader 3,9
+Segmentation Storage,Hamamatsu,9
+Segmentation Storage,"Pre-dose, PERITONEUM - 2",9
+Segmentation Storage,Segmentation of Nodule 1 - Annotation Nodule 001,9
+Segmentation Storage,VOI PE Segmentation thresh=90,9
+RT Structure Set Storage,"Pre-dose, PSOAS - 1 - SEED POINT",8
+RT Structure Set Storage,"Pre-dose, LEFT ADNEXA - 2 - SEED POINT",8
+RT Structure Set Storage,"Pre-dose, PANCREAS - 2 - SEED POINT",8
+RT Structure Set Storage,"Pre-dose, LEFT KIDNEY - 1 - SEED POINT",8
+RT Structure Set Storage,"Pre-dose, LEFT HILAR LYMPH NODE - 1 - SEED POINT",8
+RT Structure Set Storage,"Pre-dose, PERITONEAL DEPOSIT - 1 - SEED POINT",8
+RT Structure Set Storage,"Follow-up consultation, LEFT LUNG - 1 - SEED POINT",8
+RT Structure Set Storage,"Pre-dose, PUBIC BONE - 1 - SEED POINT",8
+RT Structure Set Storage,"Pre-Dose, RIGHT LUNG - 1 - SEED POINT",8
+RT Structure Set Storage,"Pre-Dose, LEFT ADRENAL GLAND - 1 - SEED POINT",8
+RT Structure Set Storage,"Pre-Dose, LEFT KIDNEY - 2 - SEED POINT",8
+RT Structure Set Storage,"Pre-Dose, MEDIASTINAL LYMPH NODE - 1 - SEED POINT",8
+RT Structure Set Storage,"Pre-dose, RIGHT INGUINAL LYMPH NODE - 2",8
+RT Structure Set Storage,"Pre-Dose, RIGHT LUNG - 1",8
+RT Structure Set Storage,"Pre-Dose, MEDIASTINAL LYMPH NODE - 1",8
+RT Structure Set Storage,"Pre-Dose, LEFT ADRENAL GLAND - 1",8
+RT Structure Set Storage,"Pre-Dose, LEFT KIDNEY - 2",8
+RT Structure Set Storage,"Pre-dose, AXILLARY LYMPH NODE - 1",8
+RT Structure Set Storage,"Pre-dose, LEFT OVARY - 1",8
+RT Structure Set Storage,"Pre-dose, RIGHT CHEST WALL - 1",8
+RT Structure Set Storage,"Pre-dose, RIGHT OVARY - 1",8
+RT Structure Set Storage,"Pre-dose, PUBIC BONE - 1",8
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 0,8
+Segmentation Storage,ePAD^3.3,8
+Segmentation Storage,ePAD3.3,8
+Segmentation Storage,AIMI Kidney Segmentation,8
+Segmentation Storage,Reader01,8
+Segmentation Storage,AIMI liver AI segmentation,8
+Segmentation Storage,BAMF-Liver-CT,8
+Comprehensive 3D SR Storage,Mx8000 IDT 16,7
+RT Structure Set Storage,"Pre-dose, RIGHT PELVIS - 1 - SEED POINT",7
+RT Structure Set Storage,"Pre-dose, RIGHT RIB - 2 - SEED POINT",7
+RT Structure Set Storage,"Pre-dose, PARA AORTIC LYMPH NODE - 1 - SEED POINT",7
+RT Structure Set Storage,"Pre-dose, LEFT ILIAC BONE - 2 - SEED POINT",7
+RT Structure Set Storage,"Pre-dose, PORTA HEPATIS LYMPH NODE - 1 - SEED POINT",7
+RT Structure Set Storage,"Follow-up consultation, LEFT LUNG - 2 - SEED POINT",7
+RT Structure Set Storage,"Pre-dose, RIGHT BREAST - 2 - SEED POINT",7
+RT Structure Set Storage,"Pre-dose, PARAAORTIC - 1 - SEED POINT",7
+RT Structure Set Storage,"Pre-dose, RIGHT LUNG NODULE - 1 - SEED POINT",7
+RT Structure Set Storage,"Follow-up consultation, RIGHT LUNG - 1 - SEED POINT",7
+RT Structure Set Storage,"Follow-up consultation, MEDIASTINAL LYMPH NODE - 1 - SEED POINT",7
+RT Structure Set Storage,"Follow-up consultation, RIGHT LUNG - 1",7
+RT Structure Set Storage,"Pre-dose, RIGHT LUNG NODULE - 1",7
+RT Structure Set Storage,"Pre-dose, RIGHT BREAST - 2",7
+RT Structure Set Storage,"Follow-up consultation, LEFT LUNG - 1",7
+RT Structure Set Storage,"Follow-up consultation, MEDIASTINAL LYMPH NODE - 1",7
+RT Structure Set Storage,"Pre-dose, PARAAORTIC - 1",7
+RT Structure Set Storage,"Pre-dose, PERITONEAL DEPOSIT - 1",7
+RT Structure Set Storage,"Pre-dose, LEFT HILAR LYMPH NODE - 1",7
+RT Structure Set Storage,"Pre-dose, RIGHT ADNEXA - 1",7
+RT Structure Set Storage,"Pre-dose, PSOAS - 1",7
+Segmentation Storage,Segmentation of Nodule 1 - Annotation Nodule 002,7
+Segmentation Storage,"Pre-dose, PERITONEAL LYMPH NODE - 1",7
+Segmentation Storage,"Pre-dose, PELVIS - 1",7
+Segmentation Storage,Verio,7
+Segmentation Storage,SymphonyTim,7
+Comprehensive 3D SR Storage,Revolution CT,6
+RT Structure Set Storage,"Pre-dose, GLUTEAL - 1 - SEED POINT",6
+RT Structure Set Storage,"Pre-dose, ABDOMEN - 1 - SEED POINT",6
+RT Structure Set Storage,"Pre-dose, RIGHT THIGH - 1 - SEED POINT",6
+RT Structure Set Storage,"Pre-dose, LEFT THIGH - 1 - SEED POINT",6
+RT Structure Set Storage,"Pre-dose, MEDIASTINUM - 2 - SEED POINT",6
+RT Structure Set Storage,"Pre-dose, LEFT NECK LYMPH NODE - 1 - SEED POINT",6
+RT Structure Set Storage,"Pre-dose, PERIHEPATIC LYMPH NODE - 1 - SEED POINT",6
+RT Structure Set Storage,"Pre-dose, PERIHEPATIC LYMPH NODE - 2 - SEED POINT",6
+RT Structure Set Storage,"Pre-dose, RIGHT ILIAC LYMPH NODE - 2 - SEED POINT",6
+RT Structure Set Storage,"Pre-dose, PERIGASTRIC LYMPH NODE - 2 - SEED POINT",6
+RT Structure Set Storage,"Pre-Dose, RIGHT INGUINAL LYMPH NODE - 1 - SEED POINT",6
+RT Structure Set Storage,"Follow-up consultation, LEFT LUNG - 2",6
+RT Structure Set Storage,"Pre-dose, MEDIASTINUM - 2",6
+RT Structure Set Storage,"Pre-dose, PERIGASTRIC LYMPH NODE - 2",6
+RT Structure Set Storage,"Pre-Dose, RIGHT INGUINAL LYMPH NODE - 1",6
+RT Structure Set Storage,"Pre-dose, PERIHEPATIC LYMPH NODE - 2",6
+RT Structure Set Storage,"Pre-dose, LEFT THIGH - 1",6
+RT Structure Set Storage,"Pre-dose, PERIHEPATIC LYMPH NODE - 1",6
+RT Structure Set Storage,"Pre-dose, RIGHT ILIAC LYMPH NODE - 2",6
+RT Structure Set Storage,"Pre-dose, LEFT NECK LYMPH NODE - 1",6
+RT Structure Set Storage,"Pre-dose, LEFT ILIAC BONE - 2",6
+RT Structure Set Storage,"Pre-dose, RIGHT PELVIS - 1",6
+RT Structure Set Storage,"Pre-dose, LEFT ADNEXA - 2",6
+RT Structure Set Storage,"Pre-dose, RIGHT THIGH - 1",6
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 0,6
+Segmentation Storage,Segmentation of Nodule 1 - Annotation Nodule 003,6
+Segmentation Storage,"Pre-dose, MEDIASTINAL LYMPH NODE - 2",6
+Segmentation Storage,"Pre-dose, SPINE - 1",6
+Segmentation Storage,AIMI FDG breast tumor AI segmentation,6
+Segmentation Storage,Optima MR450w,6
+Segmentation Storage,Spine Segmentation,6
+Comprehensive 3D SR Storage,Discovery LS,5
+RT Structure Set Storage,"Pre-dose, DIAPHRAGM - 1 - SEED POINT",5
+RT Structure Set Storage,"Pre-dose, NECK - 1 - SEED POINT",5
+RT Structure Set Storage,"Pre-dose, GALLBLADDER - 1 - SEED POINT",5
+RT Structure Set Storage,"Pre-dose, LEFT HILUM - 2 - SEED POINT",5
+RT Structure Set Storage,"Pre-dose, PARA AORTIC - 1 - SEED POINT",5
+RT Structure Set Storage,"Pre-dose, PERIGASTRIC LYMPH NODE - 1 - SEED POINT",5
+RT Structure Set Storage,"Pre-dose, BLADDER - 1 - SEED POINT",5
+RT Structure Set Storage,"Pre-dose, LEFT OVARY - 2 - SEED POINT",5
+RT Structure Set Storage,"Pre-dose, LEFT CHEST WALL - 1 - SEED POINT",5
+RT Structure Set Storage,"Pre-dose, RIGHT INGUINAL - 1 - SEED POINT",5
+RT Structure Set Storage,"Pre-dose, RIGHT ILIUM BONE - 1 - SEED POINT",5
+RT Structure Set Storage,"Pre-dose, PERICARDIAL LYMPH NODE - 1 - SEED POINT",5
+RT Structure Set Storage,"Pre-Dose, LEFT PELVIS - 2 - SEED POINT",5
+RT Structure Set Storage,"Pre-Dose, RIGHT PELVIC - 1 - SEED POINT",5
+RT Structure Set Storage,"Pre-Dose, LEFT OVARY - 2 - SEED POINT",5
+RT Structure Set Storage,"Pre-Dose, RIGHT OVARY - 1 - SEED POINT",5
+RT Structure Set Storage,"Pre-Dose, PARAVERTEBRAL - 1 - SEED POINT",5
+RT Structure Set Storage,"Pre-Dose, INFERIOR VENA CAVA - 1 - SEED POINT",5
+RT Structure Set Storage,"Pre-Dose, UTERUS - 2 - SEED POINT",5
+RT Structure Set Storage,"Pre-Dose, PARA AORTIC LYMPH NODE - 1 - SEED POINT",5
+RT Structure Set Storage,"Pre-Dose, RETROPERITONEAL LYMPH NODE - 2 - SEED POINT",5
+RT Structure Set Storage,"Pre-dose, RIGHT ILIUM BONE - 1",5
+RT Structure Set Storage,"Pre-Dose, LEFT PELVIS - 2",5
+RT Structure Set Storage,"Pre-Dose, UTERUS - 2",5
+RT Structure Set Storage,"Pre-dose, LEFT CHEST WALL - 1",5
+RT Structure Set Storage,"Pre-Dose, RIGHT PELVIC - 1",5
+RT Structure Set Storage,"Pre-Dose, PARA AORTIC LYMPH NODE - 1",5
+RT Structure Set Storage,"Pre-dose, BLADDER - 1",5
+RT Structure Set Storage,"Pre-dose, PERICARDIAL LYMPH NODE - 1",5
+RT Structure Set Storage,"Pre-dose, RIGHT INGUINAL - 1",5
+RT Structure Set Storage,"Pre-Dose, PARAVERTEBRAL - 1",5
+RT Structure Set Storage,"Pre-dose, ABDOMEN - 1",5
+RT Structure Set Storage,"Pre-Dose, RETROPERITONEAL LYMPH NODE - 2",5
+RT Structure Set Storage,"Pre-dose, PORTA HEPATIS LYMPH NODE - 1",5
+RT Structure Set Storage,"Pre-Dose, INFERIOR VENA CAVA - 1",5
+RT Structure Set Storage,"Pre-dose, LEFT OVARY - 2",5
+RT Structure Set Storage,"Pre-Dose, LEFT OVARY - 2",5
+RT Structure Set Storage,"Pre-Dose, RIGHT OVARY - 1",5
+Segmentation Storage,Sensation 64,5
+Segmentation Storage,VOI PE Segmentation thresh=140,5
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 1,5
+Segmentation Storage,Segmentation of Nodule 2 - Annotation Nodule 003,5
+Segmentation Storage,BAMFHealth^Radiologist1,5
+Segmentation Storage,"Pre-dose, LEFT ADRENAL GLAND - 1",5
+Segmentation Storage,NLSTSeg Segmentation of Series: 6,5
+Segmentation Storage,Segmentation of prostate lesion 3,5
+Segmentation Storage,Intera,5
+Segmentation Storage,PE Segmentation thresh=140,5
+Segmentation Storage,Symphony,5
+Comprehensive 3D SR Storage,Mx8000 IDT,4
+RT Structure Set Storage,"Post-Chemotherapy #1, No Findings",4
+RT Structure Set Storage,"Pre-dose, RIB - 1 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, LUNG - 1 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, MESENTERY - 1 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, PROSTATE - 1 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, RIGHT SCAPULA - 1 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, OMENTAL - 1 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, PERICARDIAL LYMPH NODE - 2 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, RIGHT ABDOMINAL WALL - 1 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, LEFT BREAST - 2 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, INGUINAL LYMPH NODE - 1 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, PORTA HEPATIS LYMPH NODE - 2 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, LEFT INGUINAL - 1 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, HILAR LYMPH NODE - 1 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, ISCHIUM - 1 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, STERNUM - 1 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, LEFT LUNG NODULE - 2 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, LEFT HILAR LYMPH NODE - 2 - SEED POINT",4
+RT Structure Set Storage,"Follow-up consultation, RIGHT LUNG - 2 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, RIGHT ADRENAL GLAND - 2 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, RIGHT ILIAC LYMPH NODE - 1 - SEED POINT",4
+RT Structure Set Storage,"Follow-up consultation, MEDIASTINUM - 1 - SEED POINT",4
+RT Structure Set Storage,"Pre-Dose, LEFT LUNG - 1 - SEED POINT",4
+RT Structure Set Storage,"Post-Chemotherapy #1, LIVER - 2 - SEED POINT",4
+RT Structure Set Storage,"Post-Chemotherapy #1, LIVER - 1 - SEED POINT",4
+RT Structure Set Storage,"Pre-Dose, LEFT ADRENAL - 2 - SEED POINT",4
+RT Structure Set Storage,"Post-Chemotherapy #1, PANCREAS - 1 - SEED POINT",4
+RT Structure Set Storage,"Pre-Dose, PERIHEPATIC LYMPH NODE - 1 - SEED POINT",4
+RT Structure Set Storage,"Pre-dose, PERIGASTRIC LYMPH NODE - 1",4
+RT Structure Set Storage,"Pre-dose, LEFT LUNG NODULE - 2",4
+RT Structure Set Storage,"Pre-dose, PANCREAS - 2",4
+RT Structure Set Storage,"Pre-dose, NECK - 1",4
+RT Structure Set Storage,"Post-Chemotherapy #1, LIVER - 2",4
+RT Structure Set Storage,"Pre-dose, STERNUM - 1",4
+RT Structure Set Storage,"Follow-up consultation, RIGHT LUNG - 2",4
+RT Structure Set Storage,"Pre-dose, RIGHT ILIAC LYMPH NODE - 1",4
+RT Structure Set Storage,"Pre-dose, DIAPHRAGM - 1",4
+RT Structure Set Storage,"Pre-dose, LEFT HILAR LYMPH NODE - 2",4
+RT Structure Set Storage,"Pre-dose, LEFT KIDNEY - 1",4
+RT Structure Set Storage,"Pre-dose, GLUTEAL - 1",4
+RT Structure Set Storage,"Pre-Dose, LEFT ADRENAL - 2",4
+RT Structure Set Storage,"Pre-dose, LEFT HILUM - 2",4
+RT Structure Set Storage,"Post-Chemotherapy #1, LIVER - 1",4
+RT Structure Set Storage,"Pre-Dose, PERIHEPATIC LYMPH NODE - 1",4
+RT Structure Set Storage,"Pre-Dose, LEFT LUNG - 1",4
+RT Structure Set Storage,"Post-Chemotherapy #1, PANCREAS - 1",4
+RT Structure Set Storage,"Pre-dose, RIGHT ADRENAL GLAND - 2",4
+RT Structure Set Storage,"Pre-dose, PARA AORTIC - 1",4
+RT Structure Set Storage,"Follow-up consultation, MEDIASTINUM - 1",4
+RT Structure Set Storage,"Pre-dose, ISCHIUM - 1",4
+RT Structure Set Storage,"Pre-dose, GALLBLADDER - 1",4
+Segmentation Storage,QIBA CT 1C Reader 5,4
+Segmentation Storage,QIBA CT 1C Reader 2,4
+Segmentation Storage,QIBA CT 1C Reader 4,4
+Segmentation Storage,Discovery CT750 HD,4
+Segmentation Storage,Segmentation of Nodule 3 - Annotation Nodule 002,4
+Segmentation Storage,Weasis,4
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 2,4
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 2,4
+Segmentation Storage,"Pre-dose, PELVIS - 2",4
+Segmentation Storage,NLSTSeg Segmentation of Series: 5,4
+Segmentation Storage,"Pre-dose, LEFT HILUM - 1",4
+Segmentation Storage,"Pre-dose, RETROPERITONEAL LYMPH NODE - 2",4
+Segmentation Storage,AIMI prostate radiologist 6 corrected segmentation,4
+Segmentation Storage,BAMFHealth^Radiologist6,4
+Segmentation Storage,Segmentation of Nodule 3 - Annotation Nodule 001,4
+Segmentation Storage,BAMFHealth^Radiologist7,4
+Segmentation Storage,AIMI Brain MRI radiologist 3 corrected segmentation,4
+Segmentation Storage,BAMFHealth^Radiologist3,4
+Segmentation Storage,ACRIN-6698: DWI SEG: from S5: Whole Tumor Manual,4
+Segmentation Storage,DISCOVERY MR750w,4
+Segmentation Storage,ePAD,4
+Segmentation Storage,Apparent Diffusion Coefficient Segmentations,4
+Segmentation Storage,"Pre-dose, UTERUS - 1",4
+Segmentation Storage,AMIRA,4
+Segmentation Storage,AIMI breast-tumor radiologist 9 corrected segmentation,4
+Segmentation Storage,BAMFHealth^Radiologist9,4
+Segmentation Storage,InterobsCollectionOwner,4
+Segmentation Storage,1,4
+Segmentation Storage,2,4
+Segmentation Storage,3,4
+Segmentation Storage,4,4
+Segmentation Storage,5,4
+Comprehensive 3D SR Storage,CT scan,3
+RT Structure Set Storage,"Pre-dose, RIGHT AXILLA - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, LUNG - 2 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, LEFT SACRUM - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, ILIAC BONE - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, HILAR MASS - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, INGUINAL LYMPH NODE - 2 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, CERVIX - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, PERICARDIUM - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, LEFT AXILLA - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, THYROID - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, LEFT RIB - 2 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, LEFT ADNEXA - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, CHEST WALL - 2 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, RIGHT CHEST WALL - 2 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, RIGHT FEMUR - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, CERVICAL LYMPH NODE - 2 - SEED POINT",3
+RT Structure Set Storage,"Follow-up consultation, SPINE - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, AXILLARY LYMPH NODE - 2 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, AORTOCAVAL LYMPH NODE - 2 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, RETROCRURAL LYMPH NODE - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, PARATRACHEAL LYMPH NODE - 2 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, PERIPANCREATIC LYMPH NODE - 2 - SEED POINT",3
+RT Structure Set Storage,"Pre-dose, SUPRACLAVICULAR LYMPH NODES - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-Dose, RIGHT LUNG - 2 - SEED POINT",3
+RT Structure Set Storage,"Pre-Dose, ADRENAL - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-Dose, RIGHT ADRENAL GLAND - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-Dose, BLADDER - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-Dose, PERIGASTRIC LYMPH NODE - 1 - SEED POINT",3
+RT Structure Set Storage,"Post-Chemotherapy #1, PANCREAS - 1 - 1 SEED POINT",3
+RT Structure Set Storage,"Pre-Dose, HEPATIC LYMPH NODE - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-Dose, PERIHEPATIC NODE - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-Dose, MESENTERIC LYMPH NODE - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-Dose, PERIPANCREATIC LYMPH NODE - 1 - SEED POINT",3
+RT Structure Set Storage,"Pre-Dose, PARA AORTIC LYMPH NODE - 2 - SEED POINT",3
+RT Structure Set Storage,"Post-Chemotherapy #1, PANCREAS - 1 - 1",3
+RT Structure Set Storage,"Pre-dose, LUNG - 1",3
+RT Structure Set Storage,"Pre-Dose, ADRENAL - 1",3
+RT Structure Set Storage,"Pre-dose, RIGHT FEMUR - 1",3
+RT Structure Set Storage,"Pre-Dose, RIGHT LUNG - 2",3
+RT Structure Set Storage,"Pre-dose, PARATRACHEAL LYMPH NODE - 2",3
+RT Structure Set Storage,"Pre-dose, CHEST WALL - 2",3
+RT Structure Set Storage,"Pre-dose, AORTOCAVAL LYMPH NODE - 2",3
+RT Structure Set Storage,"Pre-dose, HILAR LYMPH NODE - 1",3
+RT Structure Set Storage,"Pre-dose, RETROCRURAL LYMPH NODE - 1",3
+RT Structure Set Storage,"Pre-dose, PERICARDIAL LYMPH NODE - 2",3
+RT Structure Set Storage,"Pre-Dose, RIGHT ADRENAL GLAND - 1",3
+RT Structure Set Storage,"Follow-up consultation, SPINE - 1",3
+RT Structure Set Storage,"Pre-dose, AXILLARY LYMPH NODE - 2",3
+RT Structure Set Storage,"Pre-dose, SUPRACLAVICULAR LYMPH NODES - 1",3
+RT Structure Set Storage,"Pre-dose, PORTA HEPATIS LYMPH NODE - 2",3
+RT Structure Set Storage,"Pre-Dose, PERIHEPATIC NODE - 1",3
+RT Structure Set Storage,"Pre-dose, LEFT BREAST - 2",3
+RT Structure Set Storage,"Pre-Dose, MESENTERIC LYMPH NODE - 1",3
+RT Structure Set Storage,"Pre-dose, LEFT ADNEXA - 1",3
+RT Structure Set Storage,"Pre-dose, LEFT INGUINAL - 1",3
+RT Structure Set Storage,"Pre-dose, PERIPANCREATIC LYMPH NODE - 2",3
+RT Structure Set Storage,"Pre-dose, MESENTERY - 1",3
+RT Structure Set Storage,"Pre-dose, LEFT AXILLA - 1",3
+RT Structure Set Storage,"Pre-dose, RIGHT ABDOMINAL WALL - 1",3
+RT Structure Set Storage,"Pre-dose, RIGHT RIB - 2",3
+RT Structure Set Storage,"Pre-Dose, PERIPANCREATIC LYMPH NODE - 1",3
+RT Structure Set Storage,"Pre-Dose, PARA AORTIC LYMPH NODE - 2",3
+RT Structure Set Storage,"Pre-dose, CERVIX - 1",3
+RT Structure Set Storage,"Pre-Dose, BLADDER - 1",3
+RT Structure Set Storage,"Pre-dose, PERICARDIUM - 1",3
+RT Structure Set Storage,"Pre-Dose, PERIGASTRIC LYMPH NODE - 1",3
+RT Structure Set Storage,"Pre-dose, THYROID - 1",3
+RT Structure Set Storage,"Pre-dose, RIB - 1",3
+RT Structure Set Storage,"Pre-Dose, HEPATIC LYMPH NODE - 1",3
+RT Structure Set Storage,"Pre-dose, CERVICAL LYMPH NODE - 2",3
+RT Structure Set Storage,"Pre-dose, RIGHT CHEST WALL - 2",3
+RT Structure Set Storage,"Pre-dose, LEFT RIB - 2",3
+Segmentation Storage,tumor_residual seg - MR ref: 3D_AX_T1_postcontrast,3
+Segmentation Storage,tumor_residual seg - MR ref: 2D_AX_T2_BLADE,3
+Segmentation Storage,Brilliance 64,3
+Segmentation Storage,tumor_residual seg - MR ref: 3D_SAG_T2_FLAIR,3
+Segmentation Storage,tumor seg - MR ref: 2D_AX_T2_BLADE,3
+Segmentation Storage,Aquilion,3
+Segmentation Storage,"Pre-dose, LEFT PLEURA - 1",3
+Segmentation Storage,"Pre-dose, RIGHT HILUM - 1",3
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 4,3
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 4,3
+Segmentation Storage,Segmentation of Nodule 4 - Annotation Nodule 002,3
+Segmentation Storage,ACRIN-6698: DWI SEG: from S3: Whole Tumor Manual,3
+Segmentation Storage,"Pre-dose, PARAAORTIC LYMPH NODE - 1",3
+Segmentation Storage,"Pre-dose, RIGHT RIB - 1",3
+Segmentation Storage,"Pre-dose, RETROPERITONEUM - 1",3
+Segmentation Storage,ACRIN-6698: TrT0: DWI SEG: from S3: Whole Tumor Manual,3
+Segmentation Storage,BAMF-Liver-MR,3
+Segmentation Storage,"Pre-dose, RIGHT ADRENAL GLAND - 1",3
+Segmentation Storage,"Pre-dose, PERITONEAL LYMPH NODE - 2",3
+Segmentation Storage,"Pre-dose, ABDOMINAL WALL - 1",3
+Segmentation Storage,"Pre-dose, PANCREAS - 2",3
+Segmentation Storage,Segmentation of Nodule 2 - Annotation Nodule 001,3
+Segmentation Storage,"Pre-dose, MEDIASTINUM - 1",3
+Segmentation Storage,ePAD3.1,3
+Segmentation Storage,"Pre-dose, PARAAORTIC LYMPH NODE - 2",3
+Segmentation Storage,DCE Subtraction Segmentations,3
+Comprehensive 3D SR Storage,Discovery QX/i,2
+Comprehensive 3D SR Storage,QX/i,2
+RT Structure Set Storage,"Pre-dose, OMENTUM - 2 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, VULVA - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, PREAORTIC LYMPH NODE - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, RIGHT DIAPHRAGM - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, PORTACAVAL LYMPH NODE - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, PERIRECTAL LYMPH NODE - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, GASTROESOPHAGEAL JUNCTION - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, INFERIOR VENA CAVA - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, PARAESOPHAGEAL LYMPH NODE - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, PARA AORTIC LYMPH NODE - 2 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, DIAPHRAGMATIC LYMPH NODE - 2 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, CARDIOPHRENIC ANGLE LYMPH NODE - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, PRETRACHEAL LYMPH NODE - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, LEFT KIDNEY - 2 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, VAGINA - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, RIGHT NECK - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, ABDOMEN - 2 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, RIGHT HILAR - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, CARDIOPHRENIC - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, PARAAORTIC - 2 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, RIGHT SHOULDER - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, PERIPORTAL - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, PUBIC BONE - 2 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, LEFT URETER - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, LEFT LUNG NODULE - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, LEFT NECK - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, PERIPANCREATIC - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, LEFT ABDOMINAL WALL - 2 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, LEFT ARM - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, LEFT AXILLARY - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, CHEST WALL LYMPH NODE - 2 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, NECK LYMPH NODE - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, AORTIC LYMPH NODE - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, LEFT ABDOMINAL WALL - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, PERIAORTIC LYMPH NODES - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, HILAR LYMPH NODE - 2 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, ABDOMINAL LYMPH NODE - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, DIAPHRAGMATIC LYMPH NODE - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, ABDOMINAL LYMPH NODE - 2 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, RETROCAVAL LYMPH NODE - 2 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, PREAORTIC LYMPH NODE - 2 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, PARACAVAL LYMPH NODE - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, PERICARDIAC LYMPH NODE - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, CERVICAL LYMPH NODE - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, PERITONEAL DEPOSIT - 2 - SEED POINT",2
+RT Structure Set Storage,"Follow-up consultation, MEDIASTINAL LYMPH NODE - 2 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, RIGHT TEMPORAL LOBE - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, RIGHT EXTERNAL ILIAC LYMPH NODE - 2 - SEED POINT",2
+RT Structure Set Storage,"Follow-up consultation, RIGHT AXILARY LYMPH NODE  2 - SEED POINT",2
+RT Structure Set Storage,"Pre-Dose, LUNG - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-Dose, THYROID - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-Dose, LEFT LUNG - 2 - SEED POINT",2
+RT Structure Set Storage,"Pre-Dose, LEFT HUMERUS - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-Dose, PELVIC MASS - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-Dose, LYMPH NODE - 1 - SEED POINT",2
+RT Structure Set Storage,"Post-Chemotherapy #2, PANCREAS - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-Dose, MEDIASTINAL LYMPH NODE - 2 - SEED POINT",2
+RT Structure Set Storage,"Pre-Dose, LEFT RENAL VEIN - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-Dose, RIGHT ADRENAL - 2 - SEED POINT",2
+RT Structure Set Storage,"Pre-Dose, RETROPERITONEAL MASS - 1 - SEED POINT",2
+RT Structure Set Storage,"Post-Chemotherapy #1, LEFT KIDNEY - 2 - SEED POINT",2
+RT Structure Set Storage,"Post-Chemotherapy #1, RIGHT KIDNEY - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-Dose, PERIHEPATIC LYMPH NODE - 2 - SEED POINT",2
+RT Structure Set Storage,"Pre-Dose, POSTERIOR ABDOMINAL WALL - 1 - SEED POINT",2
+RT Structure Set Storage,"Pre-dose, PERIAORTIC LYMPH NODES - 1",2
+RT Structure Set Storage,"Pre-Dose, RIGHT ADRENAL - 2",2
+RT Structure Set Storage,"Pre-Dose, LUNG - 1",2
+RT Structure Set Storage,"Follow-up consultation, MEDIASTINAL LYMPH NODE - 2",2
+RT Structure Set Storage,"Pre-dose, LEFT LUNG NODULE - 1",2
+RT Structure Set Storage,"Pre-dose, NECK LYMPH NODE - 1",2
+RT Structure Set Storage,"Pre-dose, AORTIC LYMPH NODE - 1",2
+RT Structure Set Storage,"Pre-dose, ABDOMINAL LYMPH NODE - 2",2
+RT Structure Set Storage,"Pre-dose, DIAPHRAGMATIC LYMPH NODE - 1",2
+RT Structure Set Storage,"Pre-dose, HILAR LYMPH NODE - 2",2
+RT Structure Set Storage,"Pre-dose, ABDOMINAL LYMPH NODE - 1",2
+RT Structure Set Storage,"Pre-dose, OMENTAL - 1",2
+RT Structure Set Storage,"Pre-dose, PARA AORTIC LYMPH NODE - 1",2
+RT Structure Set Storage,"Pre-dose, INGUINAL LYMPH NODE - 2",2
+RT Structure Set Storage,"Follow-up consultation, RIGHT AXILARY LYMPH NODE - 2",2
+RT Structure Set Storage,"Pre-Dose, LEFT RENAL VEIN - 1",2
+RT Structure Set Storage,"Pre-dose, CHEST WALL LYMPH NODE - 2",2
+RT Structure Set Storage,"Pre-dose, HILAR MASS - 1",2
+RT Structure Set Storage,"Pre-dose, CERVICAL LYMPH NODE - 1",2
+RT Structure Set Storage,"Pre-dose, INGUINAL LYMPH NODE - 1",2
+RT Structure Set Storage,"Pre-dose, RIGHT EXTERNAL ILIAC LYMPH NODE - 2",2
+RT Structure Set Storage,"Pre-dose, PERIPORTAL - 1",2
+RT Structure Set Storage,"Post-Chemotherapy #1, RIGHT KIDNEY - 1",2
+RT Structure Set Storage,"Pre-dose, ILIAC BONE - 1",2
+RT Structure Set Storage,"Pre-dose, RIGHT HILAR - 1",2
+RT Structure Set Storage,"Pre-Dose, PERIHEPATIC LYMPH NODE - 2",2
+RT Structure Set Storage,"Post-Chemotherapy #1, LEFT KIDNEY - 2",2
+RT Structure Set Storage,"Pre-Dose, LEFT LUNG - 2",2
+RT Structure Set Storage,"Pre-dose, RETROCAVAL LYMPH NODE - 2",2
+RT Structure Set Storage,"Pre-dose, LEFT URETER - 1",2
+RT Structure Set Storage,"Pre-dose, PERIPANCREATIC - 1",2
+RT Structure Set Storage,"Pre-dose, PREAORTIC LYMPH NODE - 2",2
+RT Structure Set Storage,"Pre-dose, PARAAORTIC - 2",2
+RT Structure Set Storage,"Pre-dose, LEFT ABDOMINAL WALL - 2",2
+RT Structure Set Storage,"Pre-dose, PERICARDIAC LYMPH NODE - 1",2
+RT Structure Set Storage,"Pre-dose, RIGHT AXILLA - 1",2
+RT Structure Set Storage,"Pre-dose, PUBIC BONE - 2",2
+RT Structure Set Storage,"Pre-dose, PROSTATE - 1",2
+RT Structure Set Storage,"Pre-dose, PERITONEAL DEPOSIT - 2",2
+RT Structure Set Storage,"Post-Chemotherapy #2, PANCREAS - 1",2
+RT Structure Set Storage,"Pre-dose, PARACAVAL LYMPH NODE - 1",2
+RT Structure Set Storage,"Pre-dose, LEFT AXILLARY - 1",2
+RT Structure Set Storage,"Pre-Dose, MEDIASTINAL LYMPH NODE - 2",2
+RT Structure Set Storage,"Pre-Dose, POSTERIOR ABDOMINAL WALL - 1",2
+RT Structure Set Storage,"Pre-dose, RIGHT SCAPULA - 1",2
+RT Structure Set Storage,"Pre-dose, LEFT ABDOMINAL WALL - 1",2
+RT Structure Set Storage,"Pre-dose, RIGHT NECK - 1",2
+RT Structure Set Storage,"Pre-Dose, LYMPH NODE - 1",2
+RT Structure Set Storage,"Pre-dose, LEFT NECK - 1",2
+RT Structure Set Storage,"Pre-dose, LEFT SACRUM - 1",2
+RT Structure Set Storage,"Pre-dose, RIGHT TEMPORAL LOBE - 1",2
+RT Structure Set Storage,"Pre-dose, RIGHT SHOULDER - 1",2
+RT Structure Set Storage,"Pre-Dose, LEFT HUMERUS - 1",2
+RT Structure Set Storage,"Pre-dose, CARDIOPHRENIC - 1",2
+RT Structure Set Storage,"Pre-dose, VAGINA - 1",2
+RT Structure Set Storage,"Pre-dose, LEFT ARM - 1",2
+RT Structure Set Storage,"Pre-Dose, THYROID - 1",2
+RT Structure Set Storage,"Pre-dose, ABDOMEN - 2",2
+RT Structure Set Storage,"Pre-Dose, PELVIC MASS - 1",2
+RT Structure Set Storage,"Pre-Dose, RETROPERITONEAL MASS - 1",2
+RT Structure Set Storage,RTstruct_AlignedT1toPET_BOX,2
+Segmentation Storage,tumor seg - MR ref: 2D_AX_T2_FLAIR,2
+Segmentation Storage,tumor seg - MR ref: 3D_AX_T2_SPACE,2
+Segmentation Storage,previous_resection_cavity seg - MR ref: 3D_AX_T1_postcontrast,2
+Segmentation Storage,QIBA CT 1C Reader 6,2
+Segmentation Storage,Segmentation of Nodule 2 - Annotation Nodule 005,2
+Segmentation Storage,Segmentation of Nodule 3 - Annotation Nodule 007,2
+Segmentation Storage,"Pre-dose, LEFT ILIAC BONE - 1",2
+Segmentation Storage,"Pre-dose, LEFT INGUINAL LYMPH NODE - 1",2
+Segmentation Storage,"Pre-dose, RIGHT PLEURA - 1",2
+Segmentation Storage,Segmentation of Nodule 3 - Annotation Nodule 004,2
+Segmentation Storage,Segmentation of Nodule 4 - Annotation Nodule 004,2
+Segmentation Storage,"Pre-dose, MESENTERIC LYMPH NODE - 1",2
+Segmentation Storage,"Pre-dose, RIGHT HILAR LYMPH NODE - 1",2
+Segmentation Storage,ACRIN-6698: DWI SEG: from S601: Whole Tumor Manual,2
+Segmentation Storage,Segmentation of Nodule 3 - Annotation Nodule 003,2
+Segmentation Storage,Segmentation of Nodule 1 - Annotation Nodule 004,2
+Segmentation Storage,AIMI liver radiologist 1 corrected segmentation,2
+Segmentation Storage,"Pre-dose, LEFT AXILLARY LYMPH NODE - 2",2
+Segmentation Storage,"Pre-dose, ILIAC LYMPH NODE - 1",2
+Segmentation Storage,"Pre-dose, RIGHT INGUINAL LYMPH NODE - 1",2
+Segmentation Storage,BAMFHealth^NonExpert1,2
+Segmentation Storage,Segmentation of Nodule 2 - Annotation Nodule 007,2
+Segmentation Storage,"Pre-dose, RIGHT BREAST - 1",2
+Segmentation Storage,"Pre-dose, PARA AORTIC LYMPH NODE - 1",2
+Segmentation Storage,ACRIN-6698: TrT1: DWI SEG: from S1201: Whole Tumor Manual,2
+Segmentation Storage,"Pre-dose, SPLEEN - 1",2
+Segmentation Storage,"Pre-dose, LEFT AXILLARY LYMPH NODE - 1",2
+Segmentation Storage,"Pre-dose, LEFT KIDNEY - 1",2
+Segmentation Storage,VOI PE Segmentation thresh=100,2
+Segmentation Storage,MAGNETOM VISION plus,2
+Segmentation Storage,AIMI kidney tumor cyst radiologist 7 corrected segmentation,2
+Segmentation Storage,AIMI lung and nodule radiologist 4 corrected segmentation,2
+Segmentation Storage,BAMFHealth^Radiologist4,2
+Segmentation Storage,AIMI lung and nodule radiologist 8 corrected segmentation,2
+Segmentation Storage,BAMFHealth^Radiologist8,2
+Segmentation Storage,DISCOVERY MR750,2
+Segmentation Storage,TrioTim,2
+Segmentation Storage,AIMI breast-tumor radiologist 10 corrected segmentation,2
+Segmentation Storage,BAMFHealth^Radiologist10,2
+Comprehensive 3D SR Storage,LightSpeed Power,1
+RT Structure Set Storage,"Follow-up consultation, LESION SEED POINT - NO FINDINGS",1
+RT Structure Set Storage,"Post-Chemotherapy #2, No Findings",1
+RT Structure Set Storage,"Post-Chemotherapy #3, No Findings",1
+RT Structure Set Storage,"Pre-dose, RIB - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, THYMUS - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, SCAPULA - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, BILE DUCT - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, BONE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PERIHEPATIC REGION - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT FEMUR - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT LEG - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, GLUTEAL - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT PELVIS - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT LEG - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT ORBIT - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT SHOULDER - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT LUNG NODULE - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PARA TRACHEAL LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, ABDOMINAL WALL NODULE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, BLADDER WALL - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, GASTROESOPHAGEAL LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT ILIAC CREST - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PARAVERTEBRAL - 1 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, LEFT RIB - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, CELIAC LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, INFRACLAVICULAR LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, SUBCUTANEOUS NODULE - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT PELVIC LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT INTERNAL ILIAC LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT TEMPORAL LOBE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, UTERUS - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, HIP - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, ORBIT - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT PELVIS - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, SIGMOID - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, ILIUM - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, ANUS - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, ADNEXA - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT HIP - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT HIP - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, BOWEL - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, DUODENUM - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, BREAST - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, CHEST - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PARA SPINAL - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT NECK - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, ADRENAL - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PERIHEPATIC - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, ISCHIUM - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, ILIUM - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT SHOULDER - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT AXILLA - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT PERITONEUM - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT KIDNEY - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT SUPRAHILAR - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, MESENTRIC - 1 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, NECK - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PARARECTAL - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PERIAORTIC - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT PERITONEUM - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PUBIC SYMPHYSIS - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, MESENTRIC - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT PSOAS MUSCLE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT HILUM - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PERIGASTRIC - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PERIGASTRIC - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT PERITONEUM - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT THYROID - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, NECK LYMPH NODE - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT AXILLARY - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PARAESOPHAGEAL - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT INGUINAL - 2 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, LUNG - 1 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, PELVIS - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT ABDOMEN - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LUNG MED - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LUNG MED - 2 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, PARAAORTIC - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, SMALL INTESTINE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, HAND - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, SUBCARINAL - 1 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, PARAAORTIC - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RETROCAVAL LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT ARM - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PORTAHEPATIS LYMPH NODE - 2 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, HAND - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, SUPRAPUBIC LYMPH NODE - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT ILIAC BONE - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT URETER - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT PUBIC RAMUS - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT NECK LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, NASOPHARYNX - 1 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, SACRUM - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT THYROID GLAND - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, SACROILIAC JOINT - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT ILIUM BONE - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT INTERNAL ILIAC LYMPH NODE - 2 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, LEFT OVARY - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PHARYNX AND LARYNX - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT PUBIC RAMUS - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PORTACAVAL LYMPH NODE - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, ESOPHAGEAL LYMPH NODE - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT PERIHILAR LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT ABDOMINAL WALL - 2 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, LEFT HILUM - 1 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, RIGHT LUNG NODULE - 1 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, PANCREAS - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT CHEST WALL LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PERICARDIAC LYMPH NODE - 2 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, RIGHT ADRENAL GLAND - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RETROCRURAL LYMPH NODE - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PARASPINAL LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PARAOESOPHAGEAL LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PANCREATIC LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, RETROPERITONEUM - 1 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, ABDOMINAL WALL - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, MESENTERIC CARCINOID - 1 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, LEFT SUBPECTORAL - 1 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, LEFT ILIAC BONE - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT SCAPULA - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PERIPANCREATIC LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, RIGHT ILIAC BONE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PARATRACHEAL LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, PARAAORTIC LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, INTERNAL MAMMARY LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, INTERNAL MAMMARY LYMPH NODE - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, RIGHT CARDIOPHRENIC LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, SUPRACLAVICULAR LYMPH NODES - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, SUPERIOR MEDIASTINAL LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, SUBCARINAL LYMPH NODE - 2 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, MESENTERIC LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, RETROPERITONEAL LYMPH NODE-1 -SEED POINT",1
+RT Structure Set Storage,"Follow-up consultation, RECTUM - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, PARACAVAL LYMPH NODE - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, CARDIOPHRENIC ANGLE LYMPH NODE - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-dose, LEFT NECK LYMPH NODE - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, LUNG - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, SPLEEN - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, LEFT RENAL - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, RIGHT PELVIC - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, AORTIC LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Post-Chemotherapy #1, UTERUS - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, PANCREATIC DUCT - 2 - SEED POINT",1
+RT Structure Set Storage,"Post-Chemotherapy #2, LEFT KIDNEY - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, PARAAORTIC LYMPH NODE - 2 - SEED POINT",1
+RT Structure Set Storage,"Post-Chemotherapy #1, LEFT LUNG - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, PARAAORTIC LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Post-Chemotherapy #2, RIGHT KIDNEY - 1 - SEED POINT",1
+RT Structure Set Storage,"Post-Chemotherapy #1, RIGHT LUNG - 1 - SEED POINT",1
+RT Structure Set Storage,"Post-Chemotherapy #2, LEFT LUNG - 1 - SEED POINT",1
+RT Structure Set Storage,"Post-Chemotherapy #2, RIGHT ADRENAL - 2 - SEED POINT",1
+RT Structure Set Storage,"Post-Chemotherapy #2, RIGHT ADRENAL - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, LEFT ADRENAL GLAND - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, INGUINAL LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Post-Chemotherapy #1, LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Post-Chemotherapy #1, LEFT ADRENAL - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, RETROPERITONEAL MASS - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, ABDOMINAL LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, LEFT UPPER PARATRACHEAL - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, LEFT UPPER PARATRACHEAL - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, LEFT INGUINAL LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, VERTEBRAL BONE LESION - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, AXILLARY LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Post-Chemotherapy #1, RETROPERITONEAL LYMPH NODE- 1 - SEED POINT",1
+RT Structure Set Storage,"Post-Chemotherapy #2, LEFT NECK LYMPH NODE - 1 - SEED POINT",1
+RT Structure Set Storage,"Post-Chemotherapy #2, LEFT NECK LYMPH NODE - 2 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, LYMPH NODES OF BODY AS A WHOLE - 1 - SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, PANCREAS - 1 - 2 SEED POINT",1
+RT Structure Set Storage,"Pre-Dose, LEFT UPPER PARATRACHEAL - 2",1
+RT Structure Set Storage,"Follow-up consultation, MESENTERIC LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-dose, LUNG MED - 2",1
+RT Structure Set Storage,"Pre-dose, LUNG MED - 1",1
+RT Structure Set Storage,"Follow-up consultation, RIGHT ADRENAL GLAND - 1",1
+RT Structure Set Storage,"Pre-dose, PARATRACHEAL LYMPH NODE - 1",1
+RT Structure Set Storage,"Post-Chemotherapy #1, LEFT LUNG - 1",1
+RT Structure Set Storage,"Follow-up consultation, RIGHT LUNG NODULE - 1",1
+RT Structure Set Storage,"Pre-dose, PARASPINAL LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-dose, PARA SPINAL - 1",1
+RT Structure Set Storage,"Follow-up consultation, RETROPERITONEAL LYMPH NODE - 1",1
+RT Structure Set Storage,"Post-Chemotherapy #2, RIGHT ADRENAL - 2",1
+RT Structure Set Storage,"Pre-dose, PRETRACHEAL LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-dose, RIGHT HIP - 2",1
+RT Structure Set Storage,"Post-Chemotherapy #1, RETROPERITONEAL LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-Dose, ABDOMINAL LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-dose, LUNG - 2",1
+RT Structure Set Storage,"Pre-dose, PERIRECTAL LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-Dose, SPLEEN - 1",1
+RT Structure Set Storage,"Pre-dose, CARDIOPHRENIC ANGLE LYMPH NODE - 2",1
+RT Structure Set Storage,"Pre-dose, PREAORTIC LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-dose, RIGHT THYROID - 1",1
+RT Structure Set Storage,"Pre-dose, CARDIOPHRENIC ANGLE LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-dose, PANCREATIC LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-Dose, RIGHT PELVIC - 2",1
+RT Structure Set Storage,"Pre-Dose, PANCREATIC DUCT - 2",1
+RT Structure Set Storage,"Pre-dose, PERIPANCREATIC LYMPH NODE - 1",1
+RT Structure Set Storage,"Post-Chemotherapy #2, RIGHT ADRENAL - 1",1
+RT Structure Set Storage,"Pre-dose, RIGHT CARDIOPHRENIC LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-dose, RIGHT PUBIC RAMUS - 1",1
+RT Structure Set Storage,"Pre-dose, RIGHT ABDOMINAL WALL - 2",1
+RT Structure Set Storage,"Pre-dose, LEFT ARM - 2",1
+RT Structure Set Storage,"Pre-Dose, LEFT UPPER PARATRACHEAL - 1",1
+RT Structure Set Storage,"Pre-dose, PARAESOPHAGEAL LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-dose, RIGHT NECK LYMPH NODE - 1",1
+RT Structure Set Storage,"Follow-up consultation, LEFT ILIAC BONE - 2",1
+RT Structure Set Storage,"Pre-dose, PERIHEPATIC - 1",1
+RT Structure Set Storage,"Pre-dose, ISCHIUM - 2",1
+RT Structure Set Storage,"Pre-Dose, LEFT INGUINAL LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-dose, SUPRAPUBIC LYMPH NODE - 2",1
+RT Structure Set Storage,"Follow-up consultation, LEFT HILUM - 1",1
+RT Structure Set Storage,"Pre-Dose, AXILLARY LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-dose, SIGMOID - 1",1
+RT Structure Set Storage,"Follow-up consultation, LEFT SUBPECTORAL - 1",1
+RT Structure Set Storage,"Pre-dose, LEFT CHEST WALL LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-dose, RIGHT PERITONEUM - 1",1
+RT Structure Set Storage,"Pre-dose, SUPERIOR MEDIASTINAL LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-Dose, PARAAORTIC LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-dose, INTERNAL MAMMARY LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-dose, RIGHT PERIHILAR LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-Dose, PARAAORTIC LYMPH NODE - 2",1
+RT Structure Set Storage,"Pre-dose, RIGHT HILUM - 2",1
+RT Structure Set Storage,"Post-Chemotherapy #1, RIGHT LUNG - 1",1
+RT Structure Set Storage,"Pre-dose, LEFT PERITONEUM - 1",1
+RT Structure Set Storage,"Pre-dose, DIAPHRAGMATIC LYMPH NODE - 2",1
+RT Structure Set Storage,"Pre-dose, LEFT PERITONEUM - 2",1
+RT Structure Set Storage,"Pre-dose, RIGHT HIP - 1",1
+RT Structure Set Storage,"Pre-dose, ANUS - 1",1
+RT Structure Set Storage,"Pre-Dose, AORTIC LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-dose, NECK LYMPH NODE - 2",1
+RT Structure Set Storage,"Pre-dose, RIGHT URETER - 1",1
+RT Structure Set Storage,"Pre-dose, LEFT INTERNAL ILIAC LYMPH NODE - 2",1
+RT Structure Set Storage,"Follow-up consultation, SUBCARINAL LYMPH NODE - 2",1
+RT Structure Set Storage,"Pre-dose, PORTAHEPATIS LYMPH NODE - 2",1
+RT Structure Set Storage,"Pre-dose, LEFT KIDNEY - 2",1
+RT Structure Set Storage,"Pre-dose, HIP - 1",1
+RT Structure Set Storage,"Pre-dose, PARAOESOPHAGEAL LYMPH NODE - 1",1
+RT Structure Set Storage,"Post-Chemotherapy #2, LEFT LUNG - 1",1
+RT Structure Set Storage,"Pre-dose, PERICARDIAC LYMPH NODE - 2",1
+RT Structure Set Storage,"Follow-up consultation, PARAAORTIC LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-dose, INTERNAL MAMMARY LYMPH NODE - 2",1
+RT Structure Set Storage,"Post-Chemotherapy #1, LEFT ADRENAL - 1",1
+RT Structure Set Storage,"Pre-dose, MESENTRIC - 2",1
+RT Structure Set Storage,"Pre-dose, PORTACAVAL LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-dose, ADRENAL - 1",1
+RT Structure Set Storage,"Pre-dose, RIGHT DIAPHRAGM - 1",1
+RT Structure Set Storage,"Pre-dose, LEFT NECK LYMPH NODE - 2",1
+RT Structure Set Storage,"Pre-Dose, VERTEBRAL BONE LESION - 1",1
+RT Structure Set Storage,"Pre-dose, RIGHT ILIUM BONE - 2",1
+RT Structure Set Storage,"Pre-dose, ADNEXA - 1",1
+RT Structure Set Storage,"Pre-dose, PARAESOPHAGEAL - 1",1
+RT Structure Set Storage,"Follow-up consultation, PANCREAS - 1",1
+RT Structure Set Storage,"Follow-up consultation, RIGHT ILIAC BONE - 1",1
+RT Structure Set Storage,"Pre-dose, RETROCRURAL LYMPH NODE - 2",1
+RT Structure Set Storage,"Pre-Dose, LEFT ADRENAL GLAND - 2",1
+RT Structure Set Storage,"Follow-up consultation, RECTUM - 1",1
+RT Structure Set Storage,"Post-Chemotherapy #2, LEFT KIDNEY - 2",1
+RT Structure Set Storage,"Post-Chemotherapy #2, LEFT NECK LYMPH NODE - 2",1
+RT Structure Set Storage,"Post-Chemotherapy #1, LYMPH NODE - 1",1
+RT Structure Set Storage,"Follow-up consultation, PARAAORTIC - 1",1
+RT Structure Set Storage,"Post-Chemotherapy #2, RIGHT KIDNEY - 1",1
+RT Structure Set Storage,"Pre-Dose, LEFT RENAL - 1",1
+RT Structure Set Storage,"Pre-dose, SMALL INTESTINE - 1",1
+RT Structure Set Storage,"Pre-Dose, LUNG - 2",1
+RT Structure Set Storage,"P4^P117^S308^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P117^S308^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P117^S308^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P117^S308^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P117^S308^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P117^S308^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P117^S308^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P117^S308^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P117^S308^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P117^S308^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"Post-Chemotherapy #2, LEFT NECK LYMPH NODE - 1",1
+RT Structure Set Storage,"Follow-up consultation, LEFT OVARY - 1",1
+RT Structure Set Storage,"Pre-dose, PARACAVAL LYMPH NODE - 2",1
+RT Structure Set Storage,"Pre-dose, LEFT SUPRAHILAR - 1",1
+RT Structure Set Storage,"P4^P117^S306^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P117^S306^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P117^S306^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P117^S306^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P117^S306^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P117^S306^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P117^S305^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P117^S306^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P117^S306^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P117^S306^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P117^S306^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P117^S305^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P117^S305^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P117^S305^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P117^S305^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P117^S305^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P117^S304^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P117^S305^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P117^S304^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P117^S304^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P117^S305^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P117^S305^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P117^S304^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"Pre-dose, LEFT AXILLA - 2",1
+RT Structure Set Storage,"P4^P117^S304^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P117^S305^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P117^S304^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P117^S304^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P117^S304^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P117^S304^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P117^S304^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P118^S308^I00013, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P118^S308^I00007, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P118^S308^I00006, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P118^S308^I00008, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P118^S308^I00005, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P118^S308^I00010, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P118^S308^I00009, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P118^S308^I00014, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P118^S308^I00012, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P118^S308^I00011, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P118^S307^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P118^S307^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P118^S307^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P118^S307^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P118^S307^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P118^S307^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"Pre-Dose, RETROPERITONEAL MASS - 2",1
+RT Structure Set Storage,"P4^P118^S307^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P118^S307^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P118^S307^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P118^S303^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P118^S307^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P118^S303^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P118^S304^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"Pre-dose, SUPRACLAVICULAR LYMPH NODES - 2",1
+RT Structure Set Storage,"P4^P118^S304^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P118^S303^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"Pre-Dose, INGUINAL LYMPH NODE - 1",1
+RT Structure Set Storage,"Pre-dose, RIGHT ABDOMEN - 1",1
+RT Structure Set Storage,"Pre-dose, RIGHT KIDNEY - 2",1
+RT Structure Set Storage,"P4^P118^S303^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P118^S303^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P118^S304^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P118^S303^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P118^S303^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P118^S303^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P118^S303^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P118^S303^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P117^S303^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P117^S303^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P118^S304^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P118^S304^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P118^S304^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P118^S304^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P118^S304^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"Pre-dose, ILIUM - 2",1
+RT Structure Set Storage,"Pre-dose, ORBIT - 1",1
+RT Structure Set Storage,"P4^P118^S304^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P117^S303^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P118^S304^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P117^S303^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P117^S303^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P117^S303^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"Pre-dose, LEFT PUBIC RAMUS - 2",1
+RT Structure Set Storage,"P4^P117^S303^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P117^S303^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P117^S303^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P117^S303^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P117^S300^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P117^S300^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P117^S300^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P117^S300^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P117^S300^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"Follow-up consultation, NECK - 1",1
+RT Structure Set Storage,"P4^P117^S300^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P117^S300^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P117^S300^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P117^S300^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P117^S300^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P118^S306^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P117^S302^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P117^S302^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P117^S302^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P117^S302^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"Pre-dose, BREAST - 1",1
+RT Structure Set Storage,"P4^P117^S302^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P117^S302^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P108^S302^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P108^S302^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P108^S302^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P117^S302^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P108^S302^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P117^S302^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P108^S302^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P108^S302^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"Follow-up consultation, SACRUM - 1",1
+RT Structure Set Storage,"P4^P117^S302^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P108^S302^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P117^S302^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P108^S302^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P118^S306^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P118^S302^I00012, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P108^S302^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P108^S302^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P118^S306^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P118^S306^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"Pre-dose, RETROCAVAL LYMPH NODE - 1",1
+RT Structure Set Storage,"P4^P118^S306^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P118^S306^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P118^S306^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"Pre-dose, CHEST - 1",1
+RT Structure Set Storage,"Follow-up consultation, PARAAORTIC - 2",1
+RT Structure Set Storage,"P4^P118^S302^I00005, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P118^S302^I00006, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P118^S306^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"Pre-dose, ESOPHAGEAL LYMPH NODE - 2",1
+RT Structure Set Storage,"P4^P118^S306^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P118^S302^I00013, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P118^S302^I00004, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P118^S306^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P118^S302^I00007, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P118^S302^I00010, Gated, 60.0%A",1
+RT Structure Set Storage,"Pre-dose, LEFT AXILLARY - 2",1
+RT Structure Set Storage,"P4^P112^S302^I00004, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P112^S302^I00006, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P112^S302^I00007, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P112^S302^I00008, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P112^S302^I00009, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P112^S302^I00010, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P112^S302^I00011, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P112^S302^I00012, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P112^S302^I00013, Gated, 90.0%A",1
+RT Structure Set Storage,"Pre-Dose, PANCREAS - 1 - 2",1
+RT Structure Set Storage,"P4^P112^S302^I00005, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P117^S301^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P118^S302^I00009, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P117^S301^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P110^S306^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P110^S306^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P110^S306^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P110^S306^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P110^S306^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P110^S306^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P110^S306^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P110^S306^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P110^S306^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P117^S301^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P118^S302^I00011, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P110^S306^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P117^S301^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P117^S301^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P118^S302^I00008, Gated, 40.0%A",1
+RT Structure Set Storage,"Post-Chemotherapy #1, UTERUS - 1",1
+RT Structure Set Storage,"P4^P117^S301^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P117^S301^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P117^S301^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P117^S301^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"Pre-dose, LEFT PELVIS - 2",1
+RT Structure Set Storage,"P4^P117^S301^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"Pre-dose, PARA AORTIC LYMPH NODE - 2",1
+RT Structure Set Storage,"P4^P108^S304^I00009, Gated, 60.0%",1
+RT Structure Set Storage,"P4^P108^S304^I00010, Gated, 70.0%",1
+RT Structure Set Storage,"P4^P108^S304^I00011, Gated, 80.0%",1
+RT Structure Set Storage,"P4^P108^S304^I00008, Gated, 50.0%",1
+RT Structure Set Storage,"P4^P108^S305^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P108^S304^I00004, Gated, 10.0%",1
+RT Structure Set Storage,"P4^P108^S303^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P108^S303^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P108^S305^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P108^S304^I00006, Gated, 30.0%",1
+RT Structure Set Storage,"Pre-dose, RIGHT NECK - 2",1
+RT Structure Set Storage,"P4^P108^S303^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P112^S301^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P112^S301^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P108^S303^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P108^S303^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P108^S303^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P108^S305^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P115^S305^I00008, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P112^S301^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P108^S304^I00007, Gated, 40.0%",1
+RT Structure Set Storage,"P4^P108^S305^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P108^S304^I00012, Gated, 90.0%",1
+RT Structure Set Storage,"P4^P108^S305^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P112^S301^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P115^S305^I00006, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P112^S301^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P108^S305^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P108^S305^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P108^S305^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P115^S305^I00010, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P108^S303^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P108^S305^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P108^S305^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P108^S304^I00005, Gated, 20.0%",1
+RT Structure Set Storage,"P4^P115^S304^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P115^S304^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P115^S305^I00007, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P108^S303^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P115^S305^I00009, Gated, 50.0%A",1
+RT Structure Set Storage,"Pre-dose, PERIGASTRIC - 2",1
+RT Structure Set Storage,"P4^P108^S303^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P108^S303^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P115^S304^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"Pre-dose, OMENTUM - 2",1
+RT Structure Set Storage,"Pre-dose, PUBIC SYMPHYSIS - 1",1
+RT Structure Set Storage,"P4^P115^S304^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P115^S305^I00011, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P115^S304^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P115^S304^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P115^S305^I00004, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P115^S305^I00012, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P115^S302^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P115^S305^I00005, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P115^S304^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P115^S305^I00013, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P112^S301^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P115^S304^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P112^S303^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P112^S303^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P112^S303^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P112^S303^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P112^S303^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P112^S303^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P112^S305^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P112^S305^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P112^S305^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P112^S305^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P112^S305^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P112^S305^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P112^S305^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P112^S305^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P112^S305^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P112^S305^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P112^S303^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P112^S303^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P112^S303^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P112^S301^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P112^S301^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P115^S304^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P112^S304^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P112^S304^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P112^S304^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P112^S304^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P112^S304^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P112^S304^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P112^S304^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P112^S304^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P112^S304^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P112^S304^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P115^S304^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P112^S303^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P115^S302^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P112^S306^I10273, Gated, 0.0%B",1
+RT Structure Set Storage,"P4^P112^S306^I10274, Gated, 10.0%B",1
+RT Structure Set Storage,"P4^P112^S306^I10275, Gated, 20.0%B",1
+RT Structure Set Storage,"P4^P112^S306^I10276, Gated, 30.0%B",1
+RT Structure Set Storage,"P4^P112^S306^I10277, Gated, 40.0%B",1
+RT Structure Set Storage,"P4^P112^S306^I10278, Gated, 50.0%B",1
+RT Structure Set Storage,"P4^P112^S306^I10279, Gated, 60.0%B",1
+RT Structure Set Storage,"P4^P112^S306^I10280, Gated, 70.0%B",1
+RT Structure Set Storage,"P4^P112^S306^I10281, Gated, 80.0%B",1
+RT Structure Set Storage,"P4^P112^S306^I10282, Gated, 90.0%B",1
+RT Structure Set Storage,"P4^P115^S302^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P115^S302^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P115^S300^I00005, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P112^S301^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P115^S302^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P115^S302^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P110^S303^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P110^S303^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P110^S303^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P110^S303^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P110^S303^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P110^S303^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P110^S303^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P110^S303^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P110^S303^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P110^S303^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P115^S302^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P115^S300^I00006, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P115^S302^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P115^S300^I00013, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P115^S302^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P115^S303^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"Pre-dose, BOWEL - 1",1
+RT Structure Set Storage,"P4^P115^S303^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P115^S300^I00012, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P115^S300^I00007, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P115^S303^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P115^S303^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P115^S303^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P115^S303^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P115^S302^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P115^S300^I00009, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P115^S303^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P115^S303^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P115^S300^I00010, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P115^S303^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P115^S303^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P115^S301^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P115^S300^I00011, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P108^S301^I00004, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P108^S301^I00005, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P108^S301^I00006, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P108^S301^I00007, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P108^S301^I00008, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P108^S301^I00009, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P108^S301^I00010, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P108^S301^I00011, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P108^S301^I00012, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P108^S301^I00013, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P115^S300^I00008, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P115^S301^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P115^S301^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P115^S301^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P110^S305^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P110^S305^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P110^S305^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P110^S305^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P110^S305^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P110^S305^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P110^S305^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P110^S305^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P110^S305^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P110^S305^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P115^S301^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P115^S301^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"Pre-dose, UTERUS - 2",1
+RT Structure Set Storage,"P4^P115^S301^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P115^S301^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P115^S301^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P115^S301^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"Follow-up consultation, LUNG - 1",1
+RT Structure Set Storage,"P4^P105^S300^I00008, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P105^S300^I00011, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P110^S300^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P105^S300^I00006, Gated, 20.0%A",1
+RT Structure Set Storage,"Pre-dose, INFERIOR VENA CAVA - 1",1
+RT Structure Set Storage,"P4^P105^S300^I00013, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P105^S300^I00007, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P105^S300^I00009, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P104^S300^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P105^S300^I00010, Gated, 60.0%A",1
+RT Structure Set Storage,"Follow-up consultation, PELVIS - 1",1
+RT Structure Set Storage,"P4^P105^S300^I00005, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P110^S300^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P104^S300^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"Pre-dose, SUBCARINAL - 1",1
+RT Structure Set Storage,"P4^P104^S300^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P110^S301^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P105^S300^I00012, Gated, 80.0%A",1
+RT Structure Set Storage,"Pre-dose, SACROILIAC JOINT - 1",1
+RT Structure Set Storage,"Pre-dose, DUODENUM - 1",1
+RT Structure Set Storage,"P4^P110^S301^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P110^S301^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P104^S300^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P110^S301^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P104^S300^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P110^S301^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P110^S300^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P110^S300^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"Follow-up consultation, ABDOMINAL WALL - 1",1
+RT Structure Set Storage,"P4^P119^S307^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P119^S307^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P104^S300^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P119^S307^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P119^S307^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P119^S307^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P119^S307^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P119^S307^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P119^S307^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P119^S307^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P119^S307^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P104^S300^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P104^S300^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P110^S301^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"Pre-dose, HAND - 1",1
+RT Structure Set Storage,"P4^P110^S300^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P110^S301^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P110^S301^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P110^S301^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P111^S304^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P111^S304^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P110^S300^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P104^S300^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P111^S304^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P110^S300^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P110^S300^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"Pre-dose, RIGHT PSOAS MUSCLE - 1",1
+RT Structure Set Storage,"P4^P110^S300^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P111^S304^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P116^S302^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P110^S301^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P116^S302^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P116^S302^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P116^S302^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P111^S302^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P116^S302^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P116^S302^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P116^S302^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P116^S302^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P116^S302^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P111^S304^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P111^S303^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P111^S303^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P111^S303^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P111^S303^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P111^S303^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P111^S303^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P111^S303^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P111^S303^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P111^S303^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P111^S303^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P116^S302^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P111^S302^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P111^S301^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P111^S302^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P111^S302^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P111^S302^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P111^S302^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P111^S302^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"Pre-dose, LEFT SCAPULA - 1",1
+RT Structure Set Storage,"P4^P111^S302^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"Pre-dose, LEFT INGUINAL - 2",1
+RT Structure Set Storage,"P4^P111^S302^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P111^S304^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P111^S304^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P116^S303^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P119^S306^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P111^S304^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P111^S302^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P111^S304^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P119^S306^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P119^S306^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P119^S306^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P119^S306^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P111^S304^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P119^S306^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P116^S303^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P119^S306^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P119^S306^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P119^S306^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P119^S306^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P116^S303^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P116^S303^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P111^S301^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P116^S303^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P116^S303^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P116^S303^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P116^S303^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P116^S303^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P111^S301^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P107^S302^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P107^S302^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P116^S303^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P107^S302^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P107^S302^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P111^S301^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P107^S302^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"Pre-Dose, LYMPH NODES OF BODY AS A WHOLE - 1",1
+RT Structure Set Storage,"P4^P111^S301^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P111^S301^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P116^S304^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P116^S304^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P116^S304^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P116^S304^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P116^S304^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P116^S304^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P107^S302^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P107^S302^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P107^S302^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P107^S302^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P107^S303^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P107^S303^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P107^S303^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P111^S301^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P116^S304^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"Pre-dose, GASTROESOPHAGEAL JUNCTION - 1",1
+RT Structure Set Storage,"P4^P111^S301^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P107^S303^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P107^S303^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P116^S304^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P107^S303^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P116^S304^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P107^S303^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P111^S301^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P107^S303^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P116^S304^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P107^S303^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P116^S300^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P106^S301^I10308, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P116^S301^I00005, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P116^S300^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P116^S301^I00006, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P116^S300^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P116^S300^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P106^S301^I10309, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P116^S300^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P116^S300^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P116^S300^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P116^S301^I00013, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P106^S301^I10307, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P116^S300^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P116^S300^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P116^S301^I00008, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P106^S301^I10313, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P116^S301^I00007, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P119^S304^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P116^S300^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P106^S301^I10312, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P119^S304^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P119^S304^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P106^S301^I10315, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P119^S304^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P119^S304^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P119^S303^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P116^S301^I00012, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P119^S303^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P119^S304^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P119^S303^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P119^S303^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P119^S304^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P116^S301^I00009, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P119^S304^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P119^S303^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P119^S304^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P119^S303^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P119^S303^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P119^S303^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P119^S303^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P106^S301^I10310, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P119^S303^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P116^S301^I00011, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P106^S301^I10311, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P119^S304^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P106^S301^I10314, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P116^S301^I00010, Gated, 60.0%A",1
+RT Structure Set Storage,"Pre-dose, PHARYNX AND LARYNX - 1",1
+RT Structure Set Storage,"Pre-dose, RIGHT SHOULDER - 2",1
+RT Structure Set Storage,"P4^P113^S301^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"Pre-dose, ILIUM - 1",1
+RT Structure Set Storage,"P4^P113^S301^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P113^S301^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P119^S305^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P119^S305^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P119^S305^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P113^S301^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P119^S305^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"Pre-dose, PERIGASTRIC - 1",1
+RT Structure Set Storage,"P4^P119^S305^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P113^S301^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"Follow-up consultation, RETROPERITONEUM - 1",1
+RT Structure Set Storage,"P4^P113^S301^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P119^S305^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P119^S305^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P119^S305^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P119^S305^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P113^S301^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P119^S305^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"Pre-dose, MESENTERIC CARCINOID - 1",1
+RT Structure Set Storage,"P4^P113^S301^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"Pre-dose, VULVA - 1",1
+RT Structure Set Storage,"P4^P113^S301^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P113^S303^I10354, Gated, 90.0%B",1
+RT Structure Set Storage,"P4^P113^S303^I10346, Gated, 10.0%B",1
+RT Structure Set Storage,"P4^P113^S303^I10353, Gated, 80.0%B",1
+RT Structure Set Storage,"Pre-dose, LEFT THYROID GLAND - 1",1
+RT Structure Set Storage,"P4^P113^S303^I10347, Gated, 20.0%B",1
+RT Structure Set Storage,"P4^P113^S303^I10351, Gated, 60.0%B",1
+RT Structure Set Storage,"P4^P113^S303^I10352, Gated, 70.0%B",1
+RT Structure Set Storage,"P4^P113^S303^I10345, Gated, 0.0%B",1
+RT Structure Set Storage,"P4^P113^S301^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P113^S302^I00014, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P113^S303^I10349, Gated, 40.0%B",1
+RT Structure Set Storage,"P4^P114^S303^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P113^S303^I10350, Gated, 50.0%B",1
+RT Structure Set Storage,"P4^P113^S303^I10348, Gated, 30.0%B",1
+RT Structure Set Storage,"P4^P119^S302^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P119^S302^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P119^S302^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P119^S302^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P119^S302^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P113^S302^I00013, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P119^S302^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P119^S302^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P113^S302^I00006, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P119^S302^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P119^S302^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P119^S302^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P113^S302^I00005, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P119^S301^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P119^S301^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"Pre-dose, MESENTRIC - 1",1
+RT Structure Set Storage,"P4^P119^S301^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P113^S302^I00008, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P113^S304^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P119^S301^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P113^S302^I00007, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P119^S301^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P119^S301^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P119^S301^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P119^S301^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P119^S301^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P113^S304^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P119^S301^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P113^S302^I00012, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P113^S304^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P113^S302^I00009, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P109^S302^I10264, Gated, 30.0%",1
+RT Structure Set Storage,"P4^P113^S304^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P113^S302^I00011, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P114^S303^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P114^S303^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P114^S303^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P114^S303^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P114^S303^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P114^S303^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P114^S303^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P114^S303^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P113^S304^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P109^S305^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P109^S305^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P109^S305^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P109^S305^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P109^S305^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P109^S305^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P109^S305^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P109^S305^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P109^S305^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P109^S305^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P109^S302^I10270, Gated, 90.0%",1
+RT Structure Set Storage,"P4^P113^S300^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P113^S300^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P113^S300^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P113^S304^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P113^S304^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P113^S302^I00010, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P113^S300^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P109^S302^I10262, Gated, 10.0%",1
+RT Structure Set Storage,"P4^P113^S300^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P113^S304^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P113^S300^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P113^S304^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P113^S300^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P114^S303^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P113^S300^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P113^S304^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P113^S300^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P109^S301^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P109^S301^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P109^S301^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P109^S301^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P109^S301^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P109^S301^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P109^S301^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P109^S301^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P109^S301^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P109^S301^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P113^S300^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P114^S304^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P109^S302^I10265, Gated, 40.0%",1
+RT Structure Set Storage,"P4^P114^S304^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P114^S304^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P114^S304^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P114^S304^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P109^S302^I10263, Gated, 20.0%",1
+RT Structure Set Storage,"P4^P109^S302^I10269, Gated, 80.0%",1
+RT Structure Set Storage,"P4^P119^S300^I10338, Gated, 50.0%B",1
+RT Structure Set Storage,"P4^P119^S300^I10341, Gated, 80.0%B",1
+RT Structure Set Storage,"P4^P119^S300^I10335, Gated, 20.0%B",1
+RT Structure Set Storage,"P4^P119^S300^I10334, Gated, 10.0%B",1
+RT Structure Set Storage,"P4^P119^S300^I10340, Gated, 70.0%B",1
+RT Structure Set Storage,"P4^P119^S300^I10333, Gated, 0.0%B",1
+RT Structure Set Storage,"Pre-dose, PERIAORTIC - 1",1
+RT Structure Set Storage,"P4^P119^S300^I10339, Gated, 60.0%B",1
+RT Structure Set Storage,"P4^P119^S300^I10342, Gated, 90.0%B",1
+RT Structure Set Storage,"P4^P119^S300^I10337, Gated, 40.0%B",1
+RT Structure Set Storage,"P4^P114^S304^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P109^S302^I10266, Gated, 50.0%",1
+RT Structure Set Storage,"P4^P119^S300^I10336, Gated, 30.0%B",1
+RT Structure Set Storage,"P4^P114^S304^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P114^S304^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P114^S304^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P114^S302^I00004, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P114^S304^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P109^S302^I10267, Gated, 60.0%",1
+RT Structure Set Storage,"P4^P114^S302^I00005, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P114^S302^I00006, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P114^S302^I00007, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P114^S302^I00008, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P114^S302^I00009, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P114^S302^I00010, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P114^S302^I00011, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P114^S302^I00012, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P114^S302^I00013, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P109^S300^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P109^S302^I10268, Gated, 70.0%",1
+RT Structure Set Storage,"P4^P109^S300^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P109^S300^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P109^S300^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P109^S300^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P109^S300^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P109^S300^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P109^S300^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P109^S300^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P109^S300^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P109^S304^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P109^S304^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P109^S304^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P109^S304^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P109^S304^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P109^S304^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P109^S304^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P109^S304^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P109^S304^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P109^S304^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P114^S301^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P114^S301^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P114^S300^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P114^S301^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P114^S301^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P114^S300^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P114^S300^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P114^S301^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P114^S301^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P114^S301^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P114^S301^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P114^S301^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P114^S301^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"Pre-dose, RIGHT ILIAC BONE - 2",1
+RT Structure Set Storage,"P4^P114^S300^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"Pre-dose, NASOPHARYNX - 1",1
+RT Structure Set Storage,"P4^P114^S300^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P114^S300^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P114^S300^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P114^S300^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P114^S300^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"Follow-up consultation, HAND - 1",1
+RT Structure Set Storage,"Pre-dose, PARARECTAL - 1",1
+RT Structure Set Storage,RTstruct_Aligned_STIRtoPET,1
+RT Structure Set Storage,"Pre-dose, PORTACAVAL LYMPH NODE - 2",1
+RT Structure Set Storage,RTStruct_CT,1
+RT Structure Set Storage,"P4^P107^S300^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P107^S302^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P107^S300^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P107^S300^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P107^S300^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P107^S300^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P107^S300^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P107^S301^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P107^S300^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P107^S300^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P107^S304^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P107^S300^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P107^S304^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P107^S304^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P107^S301^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P107^S304^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P107^S301^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P107^S304^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P107^S304^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P107^S301^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P107^S303^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P107^S304^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P107^S301^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P107^S304^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P107^S301^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P107^S304^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P107^S301^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P107^S301^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P107^S301^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P107^S301^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P102^S300^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P107^S304^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P107^S300^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P102^S300^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P102^S300^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P102^S300^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P112^S301^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,RTstruct_Aligned_T1toPET,1
+RT Structure Set Storage,"P4^P102^S300^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P102^S300^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P109^S302^I10261, Gated, 0.0%",1
+RT Structure Set Storage,"P4^P103^S301^I00004, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P111^S301^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P106^S301^I10306, Gated, 0.0%A",1
+RT Structure Set Storage,RTstruct_AlignedT!toPET,1
+RT Structure Set Storage,"P4^P101^S300^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P102^S300^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P103^S301^I00010, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P103^S301^I00009, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P103^S301^I00007, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P101^S300^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P102^S300^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P103^S301^I00011, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P101^S300^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P103^S301^I00008, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P101^S300^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P110^S300^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P101^S300^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P102^S300^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P101^S300^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P103^S301^I00006, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P102^S300^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P101^S300^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P103^S301^I00005, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P101^S300^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P103^S301^I00012, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P101^S300^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P104^S300^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P105^S300^I00004, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P101^S300^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P103^S301^I00013, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P100^S300^I00009, Gated, 60.0%A",1
+RT Structure Set Storage,"P4^P100^S300^I00010, Gated, 70.0%A",1
+RT Structure Set Storage,"P4^P100^S300^I00005, Gated, 20.0%A",1
+RT Structure Set Storage,"P4^P100^S300^I00008, Gated, 50.0%A",1
+RT Structure Set Storage,"P4^P100^S300^I00011, Gated, 80.0%A",1
+RT Structure Set Storage,"P4^P100^S300^I00006, Gated, 30.0%A",1
+RT Structure Set Storage,"P4^P100^S300^I00004, Gated, 10.0%A",1
+RT Structure Set Storage,"P4^P100^S300^I00007, Gated, 40.0%A",1
+RT Structure Set Storage,"P4^P100^S300^I00012, Gated, 90.0%A",1
+RT Structure Set Storage,"P4^P115^S300^I00004, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P100^S300^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,"P4^P116^S301^I00004, Gated, 0.0%A",1
+RT Structure Set Storage,RTstruct_AlignedSTIRtoPET_BOX,1
+RT Structure Set Storage,"P4^P108^S304^I00003, Gated, 0.0%",1
+RT Structure Set Storage,"P4^P114^S300^I00003, Gated, 0.0%A",1
+RT Structure Set Storage,LL+LR+SBCB+SDCB,1
+RT Structure Set Storage,LL+LR+BSPC+SDPC+ROI,1
+RT Structure Set Storage,RTStruct_PET,1
+Segmentation Storage,Mx8000 IDT 16,1
+Segmentation Storage,tumor seg - MR ref: 3D_SAG_T2_SPACE,1
+Segmentation Storage,QIBA CT 1C Reader 7,1
+Segmentation Storage,QIBA CT 1C Reader 1,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 16747,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 15431,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 1907,1
+Segmentation Storage,Segmentation of Nodule 12 - Annotation 15541,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation IL057_127588,1
+Segmentation Storage,Segmentation of Nodule 8 - Annotation MI014_17918,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation 52390,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation IL057_178026,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 38494,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation 1683,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation IL057_196358,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation IL057_123742,1
+Segmentation Storage,"Pre-dose, LUNG - 1",1
+Segmentation Storage,"Pre-dose, LEFT ADRENAL GLAND - 2",1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 128807,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 50577,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation 85434,1
+Segmentation Storage,Segmentation of Nodule 7 - Annotation 80739,1
+Segmentation Storage,Segmentation of Nodule 9 - Annotation 16815,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation 161893,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation 5,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 12486,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation 70075,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 13483,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 59894,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 8,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 21451,1
+Segmentation Storage,Segmentation of Nodule 10 - Annotation 80780,1
+Segmentation Storage,Segmentation of Nodule 12 - Annotation 80776,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 16835,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation MI014_14566,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 22166,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation IL057_123754,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation MI014_16911,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation IL057_85842,1
+Segmentation Storage,Segmentation of Nodule 10 - Annotation Nodule 002,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 6041,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation IL057_205799,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation MI014_17932,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 7760,1
+Segmentation Storage,Segmentation of Nodule 12 - Annotation MI014_21049,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation 68977,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation Nodule 005,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 115281,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation MI014_11888,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation IL057_128326,1
+Segmentation Storage,Segmentation of Nodule 7 - Annotation MI014_17668,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 8163,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 34185,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation Nodule 010,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 173208,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 1891,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 184699,1
+Segmentation Storage,Segmentation of Nodule 8 - Annotation 7076,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation 106244,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 174500,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation 5084,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation 126896,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 20120,1
+Segmentation Storage,Segmentation of Nodule 14 - Annotation 126889,1
+Segmentation Storage,Segmentation of Nodule 11 - Annotation IL057_91917,1
+Segmentation Storage,previous_resection_cavity seg - MR ref: 3D_SAG_T1_postcontrast,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 16570,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation 4,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 16622,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 12396,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 8,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 13329,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 70340,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 1103,1
+Segmentation Storage,Segmentation of Nodule 7 - Annotation 3,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 11,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 190,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 14995,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 14969,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 13528,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 12604,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 16787,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 25,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation IL057_203672,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 3192,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 1916,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 1765,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 3247,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 15651,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 80757,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation 16522,1
+Segmentation Storage,Segmentation of Nodule 8 - Annotation 16529,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 7338,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation IL057_167636,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation MI014_18188,1
+Segmentation Storage,Segmentation of Nodule 7 - Annotation IL057_123770,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation Nodule 018,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation Nodule 007,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation MI014_18051,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation MI014_20099,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation Nodule 002,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 6027,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 8088,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 40425,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation 124204,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 174023,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 81327,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation 7206,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 5484,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 3962,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation 4923,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation 0904,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 115904,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 11332,1
+Segmentation Storage,Segmentation of Nodule 13 - Annotation 9363,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 0404,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 160379,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 115426,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 167792,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation IL057_123729,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation IL057_166218,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation Nodule 004,1
+Segmentation Storage,Segmentation of Nodule 8 - Annotation Nodule 003,1
+Segmentation Storage,Segmentation of Nodule 14 - Annotation Nodule 013,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation IL057_91752,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation IL057_195975,1
+Segmentation Storage,ACRIN-6698: DWI SEG: from S701: Whole Tumor Manual,1
+Segmentation Storage,"Pre-dose, RIGHT INGUINAL LYMPH NODE - 2",1
+Segmentation Storage,"Pre-dose, RIGHT RIB - 2",1
+Segmentation Storage,"Pre-dose, PELVIC LYMPH NODE - 2",1
+Segmentation Storage,ACRIN-6698: TrT0: DWI SEG: from S528: Whole Tumor Manual,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 8188,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 3179,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 13997,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 69579,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation 14,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation 6,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation Nodule 006,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation 21396,1
+Segmentation Storage,Segmentation of Nodule 15 - Annotation 7,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 16005,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation 1521,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 13436,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 21226,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 21230,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation MI014_20263,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 56461,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 56612,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 1,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation 196553,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation 206841,1
+Segmentation Storage,Segmentation of Nodule 10 - Annotation 2,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 2386,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation MI014_18064,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation IL057_167661,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation MI014_17415,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation MI014_17614,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation IL057_127109,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation 7316,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 6,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 54211,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 145185,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 77879,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation 0699,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 9,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 10049,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 7455,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 7446,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 5397,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation 7204,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 5600,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 168041,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 186419,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 168659,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation IL057_157078,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation Nodule 011,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation IL057_157350,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation IL057_156562,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation IL057_160776,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 6681,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 8028,1
+Segmentation Storage,Segmentation of Nodule 7 - Annotation 9,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 44230,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 196428,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 11,1
+Segmentation Storage,Segmentation of Nodule 8 - Annotation 2,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation 29,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 49978,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 15303,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 7261,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation MI014_19616,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation MI014_20006,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation 54712,1
+Segmentation Storage,Segmentation of Nodule 8 - Annotation 14780,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation MI014_19647,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation Nodule 002,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation MI014_21028,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation IL057_167424,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation IL057_130635,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation 196543,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation Nodule 005,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation MI014_17707,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 3,1
+Segmentation Storage,Segmentation of Nodule 9 - Annotation 9349,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 9262,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 4639,1
+Segmentation Storage,Segmentation of Nodule 7 - Annotation 126878,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation 0436,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 4339,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 135134,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 160287,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation Nodule 008,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation IL057_91736,1
+Segmentation Storage,"Pre-dose, SPINE - 2",1
+Segmentation Storage,"Pre-dose, CHEST WALL - 1",1
+Segmentation Storage,"Pre-dose, RIGHT KIDNEY - 1",1
+Segmentation Storage,ACRIN-6698: DWI SEG: from S628: Whole Tumor Manual,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 102,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 875926,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 220,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 13,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 6,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation 6,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation 59449,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 12,1
+Segmentation Storage,Segmentation of Nodule 8 - Annotation 11,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation Nodule 010,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation MI014_20252,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 10,1
+Segmentation Storage,Segmentation of Nodule 10 - Annotation 66111,1
+Segmentation Storage,Segmentation of Nodule 10 - Annotation 14681,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation IL057_127325,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation Nodule 007,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation 9,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 50301,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation IL057_209801,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 5291,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation 10004,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 161356,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 7116,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation IL057_166477,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 61586,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 172689,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation IL057_166096,1
+Segmentation Storage,"Pre-dose, MESENTERY - 1",1
+Segmentation Storage,"Pre-dose, INGUINAL LYMPH NODE - 1",1
+Segmentation Storage,"Pre-dose, LEFT RIB - 1",1
+Segmentation Storage,"Pre-dose, INFRACLAVICULAR LYMPH NODE - 1",1
+Segmentation Storage,AIMI lung and FDG tumor non-expert 1 corrected segmentation,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 8816,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation 0,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 8167,1
+Segmentation Storage,Segmentation of Nodule 8 - Annotation 13568,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 74694,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 77408,1
+Segmentation Storage,Segmentation of Nodule 8 - Annotation IL057_203436,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 37604,1
+Segmentation Storage,Segmentation of Nodule 6 - Annotation MI014_17896,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation IL057_160168,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation 1595,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation IL057_202801,1
+Segmentation Storage,Segmentation of Nodule 16 - Annotation 54527,1
+Segmentation Storage,Segmentation of Nodule 8 - Annotation Nodule 010,1
+Segmentation Storage,"Pre-dose, LEFT PELVIC LYMPH NODE - 1",1
+Segmentation Storage,"Pre-dose, HILAR LYMPH NODE - 1",1
+Segmentation Storage,AIMI prostate radiologist 7 corrected segmentation,1
+Segmentation Storage,"Pre-dose, GASTROESOPHAGEAL LYMPH NODE - 1",1
+Segmentation Storage,"Pre-dose, MESENTERIC LYMPH NODE - 2",1
+Segmentation Storage,AIMI FDG breast tumor non-expert 2 corrected segmentation,1
+Segmentation Storage,BAMFHealth^NonExpert2,1
+Segmentation Storage,ACRIN-6698: TrT0: DWI SEG: from S4: Whole Tumor Manual,1
+Segmentation Storage,ACRIN-6698: TrT1: DWI SEG: from S1428: Whole Tumor Manual,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 8311,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 5299,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 3075,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation 80523,1
+Segmentation Storage,Segmentation of Nodule 7 - Annotation 8,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 13685,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 8,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 20828,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 25141,1
+Segmentation Storage,Segmentation of Nodule 7 - Annotation 74331,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 06616,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 7057,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 7473,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 13801,1
+Segmentation Storage,Segmentation of Nodule 8 - Annotation 6,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 35008,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 3,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation 13142,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 166869,1
+Segmentation Storage,Segmentation of Nodule 7 - Annotation 16464,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation 38054,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation IL057_167583,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 172472,1
+Segmentation Storage,ePAD Generated DSO Nov-11-2218,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 5573,1
+Segmentation Storage,"Pre-dose, LEFT SACRUM - 1",1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation Nodule 007,1
+Segmentation Storage,ePAD Generated DSO Nov-14-1739,1
+Segmentation Storage,"Pre-dose, GALLBLADDER - 1",1
+Segmentation Storage,cerebrum seg - MR ref: 3D_SAG_T1_MP2RAGE,1
+Segmentation Storage,"Pre-dose, PELVIC LYMPH NODE - 1",1
+Segmentation Storage,"Pre-dose, RIGHT DIAPHRAGM - 1",1
+Segmentation Storage,"Pre-dose, SUBCARINAL LYMPH NODE - 2",1
+Segmentation Storage,NLSTSeg Segmentation of Series: 6230,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 5466,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 57439,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 56764,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation IL057_167602,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation MI014_20251,1
+Segmentation Storage,Segmentation of Nodule 5 - Annotation 7,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 69838,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation IL057_159747,1
+Segmentation Storage,"Pre-dose, ABDOMINAL WALL - 2",1
+Segmentation Storage,"Pre-dose, CELIAC LYMPH NODE - 1",1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 52579,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 5022,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 57615,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 5384,1
+Segmentation Storage,Segmentation of Nodule 11 - Annotation 12,1
+Segmentation Storage,"Pre-dose, RIGHT CHEST WALL - 1",1
+Segmentation Storage,"Pre-dose, AORTOCAVAL LYMPH NODE - 1",1
+Segmentation Storage,"Pre-dose, RETROPERITONEUM - 2",1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 42726,1
+Segmentation Storage,Segmentation of Nodule 12 - Annotation IL057_203423,1
+Segmentation Storage,Segmentation of Nodule 20 - Annotation Nodule 007,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation IL057_196144,1
+Segmentation Storage,"Pre-dose, LEFT PELVIS - 1",1
+Segmentation Storage,"Pre-dose, ILIAC BONE - 1",1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation 15288,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 57914,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 13181,1
+Segmentation Storage,"Pre-dose, OMENTAL - 1",1
+Segmentation Storage,ACRIN-6698: DWI SEG: from S2: Whole Tumor Manual,1
+Segmentation Storage,"Pre-dose, AXILLARY LYMPH NODE - 1",1
+Segmentation Storage,ACRIN-6698: TrT1: DWI SEG: from S10: Whole Tumor Manual,1
+Segmentation Storage,Segmentation of prostate lesion 4,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 2345,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation Nodule 004,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation IL057_201470,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 159172,1
+Segmentation Storage,tumor seg - MR ref: 3D_SAG_T2,1
+Segmentation Storage,"Pre-dose, SACRUM - 1",1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 60335,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 56749,1
+Segmentation Storage,Segmentation of Nodule 7 - Annotation 33977,1
+Segmentation Storage,ACRIN-6698: TrT1: DWI SEG: from S1528: Whole Tumor Manual,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 52779,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 101448,1
+Segmentation Storage,Segmentation of Nodule 1 - Annotation 13515,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 44242,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 1543,1
+Segmentation Storage,Segmentation of Nodule 3 - Annotation 2,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 531,1
+Segmentation Storage,Segmentation of Nodule 2 - Annotation 166888,1
+Segmentation Storage,Segmentation of Nodule 4 - Annotation 34999,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 8475,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 4609,1
+Segmentation Storage,"Pre-dose, RIGHT PELVIS - 1",1
+Segmentation Storage,"Pre-dose, PROSTATE - 1",1
+Segmentation Storage,NLSTSeg Segmentation of Series: 4686,1
+Segmentation Storage,"Pre-dose, PREAORTIC LYMPH NODE - 1",1
+Segmentation Storage,NLSTSeg Segmentation of Series: 2942,1
+Segmentation Storage,"Pre-dose, GASTROESOPHAGEAL JUNCTION - 1",1
+Segmentation Storage,NLSTSeg Segmentation of Series: 5211,1
+Segmentation Storage,"Pre-dose, GLUTEAL - 1",1
+Segmentation Storage,NLSTSeg Segmentation of Series: 9,1
+Segmentation Storage,NLSTSeg Segmentation of Series: 9267,1
+Segmentation Storage,AIMI liver-tumor radiologist 7 corrected segmentation,1
+Segmentation Storage,AIMI lung and nodule radiologist 1 corrected segmentation,1
+Segmentation Storage,ePAD Generated DSO Dec-22-1433,1
+Segmentation Storage,"Pre-dose, ABDOMEN - 1",1
+Segmentation Storage,"Pre-dose, RIGHT LEG - 1",1
+Segmentation Storage,cerebrum seg - MR ref: 2D_AX_T2_FLAIR,1
+Segmentation Storage,Harmonized b 10 mGy 3.0  I30f  3 axial - #19 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 3.0  B30f axial - #7 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 3.0  B30f axial - #15 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 3.0  B30f axial - #22 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 3.0  B30f axial - #4 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 3.0  I30f  3 axial - #9 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 3.0  I30f  3 axial - #26 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 3.0  B30f axial - #28 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 3.0  I30f  3 axial - #27 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 3.0  B30f axial - #11 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 3.0  I30f  3 axial - #10 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 3.0  B30f axial - #30 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 3.0  I30f  3 axial - #20 - SEG,1
+Segmentation Storage,T2 Weighted Axial Segmentations,1
+Segmentation Storage,AIMI liver non-expert 1 corrected segmentation,1
+Segmentation Storage,AIMI FDG breast tumor radiologist 1 corrected segmentation,1
+Segmentation Storage,QIN CT challenge: alg02 run01segmentation result,1
+Segmentation Storage,alg02_run01,1
+Segmentation Storage,QIN CT challenge: alg02 run02segmentation result,1
+Segmentation Storage,alg02_run02,1
+Segmentation Storage,QIN CT challenge: alg02 run03segmentation result,1
+Segmentation Storage,alg02_run03,1
+Segmentation Storage,AIMI lung and FDG tumor radiologist 1 corrected segmentation,1
+Segmentation Storage,Gyroscan Intera,1
+Segmentation Storage,PE Segmentation thresh=100,1
+Segmentation Storage,QIN CT challenge: alg01 run01segmentation result,1
+Segmentation Storage,alg01_run01,1
+Segmentation Storage,QIN CT challenge: alg01 run02segmentation result,1
+Segmentation Storage,alg01_run02,1
+Segmentation Storage,QIN CT challenge: alg01 run03segmentation result,1
+Segmentation Storage,alg01_run03,1
+Segmentation Storage,Harmonized b 10 mGy 2.0  B30f axial - #22 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.5  B30f axial - #11 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.5  B30f axial - #22 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.5  B30f axial - #21 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.5  I30f  3 axial - #8 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 2.0  B30f axial - #13 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.5  B30f axial - #27 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 2.0  B30f axial - #9 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.5  B30f axial - #19 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.5  I30f  3 axial - #24 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.5  I30f  3 axial - #17 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.5  I30f  3 axial - #12 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 2.0  B30f axial - #18 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 2.0  B30f axial - #11 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 2.0  I30f  3 axial - #22 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.5  B30f axial - #12 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.5  I30f  3 axial - #15 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 2.0  I30f  3 axial - #4 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 2.0  I30f  3 axial - #13 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.5  B30f axial - #24 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.5  B30f axial - #6 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.5  B30f axial - #30 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 2.0  B30f axial - #27 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.0  I26f  3 axial - #26 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.0  B26f axial - #21 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.0  I26f  3 axial - #5 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.0  B26f axial - #26 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.0  B26f axial - #5 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.0  B26f axial - #12 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.0  B26f axial - #1 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.0  I26f  3 axial - #1 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.0  I26f  3 axial - #16 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.0  B26f axial - #11 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.0  I26f  3 axial - #15 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.0  B26f axial - #19 - SEG,1
+Segmentation Storage,Harmonized b 10 mGy 1.0  B26f axial - #17 - SEG,1
+Segmentation Storage,AIMI lung and nodule radiologist 2 corrected segmentation,1
+Segmentation Storage,BAMFHealth^Radiologist2,1
+Segmentation Storage,alg03_run5,1
+Segmentation Storage,alg03_run6,1
+Segmentation Storage,QIN CT challenge:lesion9 alg01 run1 segmentation result,1
+Segmentation Storage,lesion9_alg01_run1,1
+Segmentation Storage,QIN CT challenge:lesion9 alg01 run2 segmentation result,1
+Segmentation Storage,lesion9_alg01_run2,1
+Segmentation Storage,QIN CT challenge:lesion9 alg01 run3 segmentation result,1
+Segmentation Storage,lesion9_alg01_run3,1
+Segmentation Storage,QIN CT challenge:lesion1 alg03 run1 segmentation result,1
+Segmentation Storage,QIN CT challenge:lesion1 alg03 run2 segmentation result,1
+Segmentation Storage,QIN CT challenge:lesion1 alg03 run3 segmentation result,1
+Segmentation Storage,QIN CT challenge:lesion2 alg02 run3 segmentation result,1
+Segmentation Storage,lesion2_alg02_run3,1
+Segmentation Storage,QIN CT challenge:lesion2 alg03 run1 segmentation result,1
+Segmentation Storage,lesion2_alg03_run1,1
+Segmentation Storage,QIN CT challenge:lesion3 alg01 run1 segmentation result,1
+Segmentation Storage,lesion3_alg01_run1,1
+Segmentation Storage,QIN CT challenge:lesion3 alg01 run2 segmentation result,1
+Segmentation Storage,lesion3_alg01_run2,1
+Segmentation Storage,QIN CT challenge:lesion4 alg03 run1 segmentation result,1
+Segmentation Storage,lesion4_alg03_run1,1
+Segmentation Storage,QIN CT challenge:lesion5 alg03 run2 segmentation result,1
+Segmentation Storage,lesion5_alg03_run2,1
+Segmentation Storage,QIN CT challenge:lesion7 alg01 run1 segmentation result,1
+Segmentation Storage,lesion7_alg01_run1,1
+Segmentation Storage,QIN CT challenge:lesion7 alg02 run2 segmentation result,1
+Segmentation Storage,lesion7_alg02_run2,1
+Segmentation Storage,QIN CT challenge:lesion10 alg01 run2 segmentation result,1
+Segmentation Storage,lesion10_alg01_run2,1
+Segmentation Storage,QIN CT challenge:lesion10 alg01 run3 segmentation result,1
+Segmentation Storage,lesion10_alg01_run3,1
+Segmentation Storage,QIN CT challenge:lesion10 alg03 run1 segmentation result,1
+Segmentation Storage,lesion10_alg03_run1,1
+Segmentation Storage,QIN CT challenge:lesion11 alg01 run2 segmentation result,1
+Segmentation Storage,lesion11_alg01_run2,1
+Segmentation Storage,QIN CT challenge:lesion1 alg01 run1 segmentation result,1
+Segmentation Storage,lesion1_alg01_run1,1
+Segmentation Storage,QIN CT challenge:lesion1 alg01 run2 segmentation result,1
+Segmentation Storage,lesion1_alg01_run2,1
+Segmentation Storage,QIN CT challenge:lesion1 alg01 run3 segmentation result,1
+Segmentation Storage,lesion1_alg01_run3,1
+Segmentation Storage,QIN CT challenge:lesion1 alg02 run1 segmentation result,1
+Segmentation Storage,lesion1_alg02_run1,1
+Segmentation Storage,QIN CT challenge:lesion1 alg02 run2 segmentation result,1
+Segmentation Storage,lesion1_alg02_run2,1
+Segmentation Storage,QIN CT challenge:lesion1 alg02 run3 segmentation result,1
+Segmentation Storage,lesion1_alg02_run3,1
+Segmentation Storage,QIN CT challenge:lesion2 alg01 run1 segmentation result,1
+Segmentation Storage,lesion2_alg01_run1,1
+Segmentation Storage,QIN CT challenge:lesion2 alg01 run2 segmentation result,1
+Segmentation Storage,lesion2_alg01_run2,1
+Segmentation Storage,QIN CT challenge:lesion2 alg01 run3 segmentation result,1
+Segmentation Storage,lesion2_alg01_run3,1
+Segmentation Storage,QIN CT challenge:lesion2 alg02 run1 segmentation result,1
+Segmentation Storage,lesion2_alg02_run1,1
+Segmentation Storage,QIN CT challenge:lesion2 alg02 run2 segmentation result,1
+Segmentation Storage,lesion2_alg02_run2,1
+Segmentation Storage,QIN CT challenge:lesion2 alg03 run2 segmentation result,1
+Segmentation Storage,lesion2_alg03_run2,1
+Segmentation Storage,QIN CT challenge:lesion2 alg03 run3 segmentation result,1
+Segmentation Storage,lesion2_alg03_run3,1
+Segmentation Storage,QIN CT challenge:lesion3 alg01 run3 segmentation result,1
+Segmentation Storage,lesion3_alg01_run3,1
+Segmentation Storage,QIN CT challenge:lesion3 alg02 run1 segmentation result,1
+Segmentation Storage,lesion3_alg02_run1,1
+Segmentation Storage,QIN CT challenge:lesion3 alg02 run2 segmentation result,1
+Segmentation Storage,lesion3_alg02_run2,1
+Segmentation Storage,QIN CT challenge:lesion3 alg02 run3 segmentation result,1
+Segmentation Storage,lesion3_alg02_run3,1
+Segmentation Storage,QIN CT challenge:lesion3 alg03 run1 segmentation result,1
+Segmentation Storage,lesion3_alg03_run1,1
+Segmentation Storage,QIN CT challenge:lesion3 alg03 run2 segmentation result,1
+Segmentation Storage,lesion3_alg03_run2,1
+Segmentation Storage,QIN CT challenge:lesion3 alg03 run3 segmentation result,1
+Segmentation Storage,lesion3_alg03_run3,1
+Segmentation Storage,QIN CT challenge:lesion4 alg01 run1 segmentation result,1
+Segmentation Storage,lesion4_alg01_run1,1
+Segmentation Storage,QIN CT challenge:lesion4 alg01 run2 segmentation result,1
+Segmentation Storage,lesion4_alg01_run2,1
+Segmentation Storage,QIN CT challenge:lesion4 alg01 run3 segmentation result,1
+Segmentation Storage,lesion4_alg01_run3,1
+Segmentation Storage,QIN CT challenge:lesion4 alg02 run1 segmentation result,1
+Segmentation Storage,lesion4_alg02_run1,1
+Segmentation Storage,QIN CT challenge:lesion4 alg02 run2 segmentation result,1
+Segmentation Storage,lesion4_alg02_run2,1
+Segmentation Storage,QIN CT challenge:lesion4 alg02 run3 segmentation result,1
+Segmentation Storage,lesion4_alg02_run3,1
+Segmentation Storage,QIN CT challenge:lesion4 alg03 run2 segmentation result,1
+Segmentation Storage,lesion4_alg03_run2,1
+Segmentation Storage,QIN CT challenge:lesion4 alg03 run3 segmentation result,1
+Segmentation Storage,lesion4_alg03_run3,1
+Segmentation Storage,QIN CT challenge:lesion5 alg01 run1 segmentation result,1
+Segmentation Storage,lesion5_alg01_run1,1
+Segmentation Storage,QIN CT challenge:lesion5 alg01 run2 segmentation result,1
+Segmentation Storage,lesion5_alg01_run2,1
+Segmentation Storage,QIN CT challenge:lesion5 alg01 run3 segmentation result,1
+Segmentation Storage,lesion5_alg01_run3,1
+Segmentation Storage,QIN CT challenge:lesion5 alg02 run1 segmentation result,1
+Segmentation Storage,lesion5_alg02_run1,1
+Segmentation Storage,QIN CT challenge:lesion5 alg02 run2 segmentation result,1
+Segmentation Storage,lesion5_alg02_run2,1
+Segmentation Storage,QIN CT challenge:lesion5 alg02 run3 segmentation result,1
+Segmentation Storage,lesion5_alg02_run3,1
+Segmentation Storage,QIN CT challenge:lesion5 alg03 run1 segmentation result,1
+Segmentation Storage,lesion5_alg03_run1,1
+Segmentation Storage,QIN CT challenge:lesion5 alg03 run3 segmentation result,1
+Segmentation Storage,lesion5_alg03_run3,1
+Segmentation Storage,QIN CT challenge:lesion6 alg01 run1 segmentation result,1
+Segmentation Storage,lesion6_alg01_run1,1
+Segmentation Storage,QIN CT challenge:lesion6 alg01 run2 segmentation result,1
+Segmentation Storage,lesion6_alg01_run2,1
+Segmentation Storage,QIN CT challenge:lesion6 alg01 run3 segmentation result,1
+Segmentation Storage,lesion6_alg01_run3,1
+Segmentation Storage,QIN CT challenge:lesion6 alg02 run1 segmentation result,1
+Segmentation Storage,lesion6_alg02_run1,1
+Segmentation Storage,QIN CT challenge:lesion6 alg02 run2 segmentation result,1
+Segmentation Storage,lesion6_alg02_run2,1
+Segmentation Storage,QIN CT challenge:lesion6 alg02 run3 segmentation result,1
+Segmentation Storage,lesion6_alg02_run3,1
+Segmentation Storage,QIN CT challenge:lesion6 alg03 run1 segmentation result,1
+Segmentation Storage,lesion6_alg03_run1,1
+Segmentation Storage,QIN CT challenge:lesion6 alg03 run2 segmentation result,1
+Segmentation Storage,lesion6_alg03_run2,1
+Segmentation Storage,QIN CT challenge:lesion6 alg03 run3 segmentation result,1
+Segmentation Storage,lesion6_alg03_run3,1
+Segmentation Storage,QIN CT challenge:lesion7 alg01 run2 segmentation result,1
+Segmentation Storage,lesion7_alg01_run2,1
+Segmentation Storage,QIN CT challenge:lesion7 alg01 run3 segmentation result,1
+Segmentation Storage,lesion7_alg01_run3,1
+Segmentation Storage,QIN CT challenge:lesion7 alg02 run1 segmentation result,1
+Segmentation Storage,lesion7_alg02_run1,1
+Segmentation Storage,QIN CT challenge:lesion7 alg02 run3 segmentation result,1
+Segmentation Storage,lesion7_alg02_run3,1
+Segmentation Storage,QIN CT challenge:lesion7 alg03 run1 segmentation result,1
+Segmentation Storage,lesion7_alg03_run1,1
+Segmentation Storage,QIN CT challenge:lesion7 alg03 run2 segmentation result,1
+Segmentation Storage,lesion7_alg03_run2,1
+Segmentation Storage,QIN CT challenge:lesion7 alg03 run3 segmentation result,1
+Segmentation Storage,lesion7_alg03_run3,1
+Segmentation Storage,QIN CT challenge:lesion8 alg01 run1 segmentation result,1
+Segmentation Storage,lesion8_alg01_run1,1
+Segmentation Storage,QIN CT challenge:lesion8 alg01 run2 segmentation result,1
+Segmentation Storage,lesion8_alg01_run2,1
+Segmentation Storage,QIN CT challenge:lesion8 alg01 run3 segmentation result,1
+Segmentation Storage,lesion8_alg01_run3,1
+Segmentation Storage,QIN CT challenge:lesion8 alg02 run1 segmentation result,1
+Segmentation Storage,lesion8_alg02_run1,1
+Segmentation Storage,QIN CT challenge:lesion8 alg02 run2 segmentation result,1
+Segmentation Storage,lesion8_alg02_run2,1
+Segmentation Storage,QIN CT challenge:lesion8 alg02 run3 segmentation result,1
+Segmentation Storage,lesion8_alg02_run3,1
+Segmentation Storage,QIN CT challenge:lesion8 alg03 run1 segmentation result,1
+Segmentation Storage,lesion8_alg03_run1,1
+Segmentation Storage,QIN CT challenge:lesion8 alg03 run2 segmentation result,1
+Segmentation Storage,lesion8_alg03_run2,1
+Segmentation Storage,QIN CT challenge:lesion8 alg03 run3 segmentation result,1
+Segmentation Storage,lesion8_alg03_run3,1
+Segmentation Storage,QIN CT challenge:lesion9 alg02 run1 segmentation result,1
+Segmentation Storage,lesion9_alg02_run1,1
+Segmentation Storage,QIN CT challenge:lesion9 alg02 run2 segmentation result,1
+Segmentation Storage,lesion9_alg02_run2,1
+Segmentation Storage,QIN CT challenge:lesion9 alg02 run3 segmentation result,1
+Segmentation Storage,lesion9_alg02_run3,1
+Segmentation Storage,QIN CT challenge:lesion9 alg03 run1 segmentation result,1
+Segmentation Storage,lesion9_alg03_run1,1
+Segmentation Storage,QIN CT challenge:lesion9 alg03 run2 segmentation result,1
+Segmentation Storage,lesion9_alg03_run2,1
+Segmentation Storage,QIN CT challenge:lesion9 alg03 run3 segmentation result,1
+Segmentation Storage,lesion9_alg03_run3,1
+Segmentation Storage,QIN CT challenge:lesion10 alg01 run1 segmentation result,1
+Segmentation Storage,lesion10_alg01_run1,1
+Segmentation Storage,QIN CT challenge:lesion10 alg02 run1 segmentation result,1
+Segmentation Storage,lesion10_alg02_run1,1
+Segmentation Storage,QIN CT challenge:lesion10 alg02 run2 segmentation result,1
+Segmentation Storage,lesion10_alg02_run2,1
+Segmentation Storage,QIN CT challenge:lesion10 alg02 run3 segmentation result,1
+Segmentation Storage,lesion10_alg02_run3,1
+Segmentation Storage,QIN CT challenge:lesion10 alg03 run2 segmentation result,1
+Segmentation Storage,lesion10_alg03_run2,1
+Segmentation Storage,QIN CT challenge:lesion10 alg03 run3 segmentation result,1
+Segmentation Storage,lesion10_alg03_run3,1
+Segmentation Storage,QIN CT challenge:lesion11 alg01 run1 segmentation result,1
+Segmentation Storage,lesion11_alg01_run1,1
+Segmentation Storage,QIN CT challenge:lesion11 alg01 run3 segmentation result,1
+Segmentation Storage,lesion11_alg01_run3,1
+Segmentation Storage,QIN CT challenge:lesion11 alg02 run1 segmentation result,1
+Segmentation Storage,lesion11_alg02_run1,1
+Segmentation Storage,QIN CT challenge:lesion11 alg02 run2 segmentation result,1
+Segmentation Storage,lesion11_alg02_run2,1
+Segmentation Storage,QIN CT challenge:lesion11 alg02 run3 segmentation result,1
+Segmentation Storage,lesion11_alg02_run3,1
+Segmentation Storage,QIN CT challenge:lesion11 alg03 run1 segmentation result,1
+Segmentation Storage,lesion11_alg03_run1,1
+Segmentation Storage,QIN CT challenge:lesion11 alg03 run2 segmentation result,1
+Segmentation Storage,lesion11_alg03_run2,1
+Segmentation Storage,QIN CT challenge:lesion11 alg03 run3 segmentation result,1
+Segmentation Storage,lesion11_alg03_run3,1
+Segmentation Storage,QIN CT challenge:lesion12 alg01 run1 segmentation result,1
+Segmentation Storage,lesion12_alg01_run1,1
+Segmentation Storage,QIN CT challenge:lesion12 alg01 run2 segmentation result,1
+Segmentation Storage,lesion12_alg01_run2,1
+Segmentation Storage,QIN CT challenge:lesion12 alg01 run3 segmentation result,1
+Segmentation Storage,lesion12_alg01_run3,1
+Segmentation Storage,QIN CT challenge:lesion12 alg02 run1 segmentation result,1
+Segmentation Storage,lesion12_alg02_run1,1
+Segmentation Storage,QIN CT challenge:lesion12 alg02 run2 segmentation result,1
+Segmentation Storage,lesion12_alg02_run2,1
+Segmentation Storage,QIN CT challenge:lesion12 alg02 run3 segmentation result,1
+Segmentation Storage,lesion12_alg02_run3,1
+Segmentation Storage,QIN CT challenge:lesion12 alg03 run1 segmentation result,1
+Segmentation Storage,lesion12_alg03_run1,1
+Segmentation Storage,QIN CT challenge:lesion12 alg03 run2 segmentation result,1
+Segmentation Storage,lesion12_alg03_run2,1
+Segmentation Storage,QIN CT challenge:lesion12 alg03 run3 segmentation result,1
+Segmentation Storage,lesion12_alg03_run3,1
+Segmentation Storage,Prisma_fit,1
+Segmentation Storage,Ingenia,1
+Segmentation Storage,Editor,1
+Segmentation Storage,ePAD Generated DSO dic-28-0303,1
+Segmentation Storage,ePAD2.4,1
+Segmentation Storage,RIDER-2016615262_20190402_RETEST,1
+Segmentation Storage,RIDER-1867199702_20190220_TEST,1
+Segmentation Storage,RIDER-2073083717_20190220_TEST,1
+Segmentation Storage,RIDER-2073083717_20190220_RETEST,1
+Segmentation Storage,RIDER-1867199702_20190220_RETEST,1
+Segmentation Storage,RIDER-3115188676_20190220_RETEST,1
+Segmentation Storage,RIDER-2151469008_20190402_RETEST,1
+Segmentation Storage,RIDER-2151469008_20190220_TEST,1
+Segmentation Storage,RIDER-3160137230_20190220_TEST,1
+Segmentation Storage,RIDER-1129164940_20190402_RETEST,1
+Segmentation Storage,RIDER-2357766186_20190402_RETEST,1
+Segmentation Storage,RIDER-3115188676_20190220_TEST,1
+Segmentation Storage,RIDER-2016615262_20190220_TEST,1
+Segmentation Storage,RIDER-1825099523_20190402_RETEST,1
+Segmentation Storage,RIDER-3152132495_20190220_RETEST,1
+Segmentation Storage,RIDER-3152132495_20190220_TEST,1
+Segmentation Storage,RIDER-1801720707_20190402_RETEST,1
+Segmentation Storage,RIDER-1825099523_20190220_TEST,1
+Segmentation Storage,RIDER-2541949645_20190402_RETEST,1
+Segmentation Storage,RIDER-1801720707_20190220_TEST,1
+Segmentation Storage,RIDER-2541949645_20190220_TEST,1
+Segmentation Storage,RIDER-1225316081_20190402_RETEST,1
+Segmentation Storage,RIDER-1129164940_20190220_TEST,1
+Segmentation Storage,RIDER-6324870494_20190220_RETEST,1
+Segmentation Storage,RIDER-1225316081_20190220_TEST,1
+Segmentation Storage,RIDER-6324870494_20190220_TEST,1
+Segmentation Storage,RIDER-3023568408_20190220_TEST,1
+Segmentation Storage,RIDER-3023568408_20190402_RETEST,1
+Segmentation Storage,RIDER-2539508879_20190220_TEST,1
+Segmentation Storage,RIDER-1346917136_20190402_RETEST,1
+Segmentation Storage,RIDER-1344011628_20190220_RETEST,1
+Segmentation Storage,RIDER-5195703382_20190220_TEST,1
+Segmentation Storage,RIDER-1760553574_20190402_RETEST,1
+Segmentation Storage,RIDER-2669524182_20190220_TEST,1
+Segmentation Storage,RIDER-1332496276_20190220_TEST,1
+Segmentation Storage,RIDER-2669524182_20190220_RETEST,1
+Segmentation Storage,RIDER-2357766186_20190220_TEST,1
+Segmentation Storage,RIDER-1346917136_20190220_TEST,1
+Segmentation Storage,RIDER-1344011628_20190220_TEST,1
+Segmentation Storage,RIDER-2799584460_20190220_TEST,1
+Segmentation Storage,RIDER-1760553574_20190220_TEST,1
+Segmentation Storage,RIDER-2799584460_20190402_RETEST,1
+Segmentation Storage,RIDER-2655999012_20190402_RETEST,1
+Segmentation Storage,RIDER-3160137230_20190220_RETEST,1
+Segmentation Storage,RIDER-1332496276_20190402_RETEST,1
+Segmentation Storage,RIDER-9763310455_20190220_RETEST,1
+Segmentation Storage,RIDER-1500037140_20190220_TEST,1
+Segmentation Storage,RIDER-2655999012_20190220_TEST,1
+Segmentation Storage,RIDER-2539508879_20190220_RETEST,1
+Segmentation Storage,RIDER-1532432635_20190220_TEST,1
+Segmentation Storage,RIDER-1286684383_20190220_TEST,1
+Segmentation Storage,RIDER-1500037140_20190220_RETEST,1
+Segmentation Storage,RIDER-1286684383_20190402_RETEST,1
+Segmentation Storage,RIDER-1532432635_20190402_RETEST,1
+Segmentation Storage,RIDER-9763310455_20190220_TEST,1
+Segmentation Storage,RIDER-2619750334_20190220_RETEST,1
+Segmentation Storage,RIDER-2619750334_20190220_TEST,1
+Segmentation Storage,RIDER-2283289298_20190220_RETEST,1
+Segmentation Storage,RIDER-8509201188_20190220_TEST,1

@@ -1,0 +1,73 @@
+sop_class_name,analysis_result_id,carrier,objects,absent,zero_length,non_empty,absent_or_zero_length,type1_here,type1_violation
+Comprehensive 3D SR Storage,(all),Manufacturer,5408,0,0,5408,0,no,0
+Comprehensive 3D SR Storage,(all),ManufacturerModelName,5408,5312,0,96,0,no,0
+Comprehensive 3D SR Storage,(all),DeviceSerialNumber,5408,5312,0,96,0,no,0
+Comprehensive 3D SR Storage,(all),SoftwareVersions,5408,5312,0,96,0,no,0
+Comprehensive 3D SR Storage,(all),ImplementationVersionName,5408,0,0,5408,0,no,0
+Comprehensive 3D SR Storage,(all),ImplementationClassUID,5408,0,0,5408,0,no,0
+Comprehensive 3D SR Storage,(all),ContributingEquipmentSequence,5408,0,0,2406,3002,no,0
+Comprehensive 3D SR Storage,(all),ContentCreatorName,5408,5408,0,0,0,no,0
+Comprehensive 3D SR Storage,(all),SeriesDescription,5408,0,0,5408,0,no,0
+Comprehensive SR Storage,(all),Manufacturer,2118,0,0,2118,0,no,0
+Comprehensive SR Storage,(all),ManufacturerModelName,2118,0,0,2118,0,no,0
+Comprehensive SR Storage,(all),DeviceSerialNumber,2118,722,447,949,0,no,0
+Comprehensive SR Storage,(all),SoftwareVersions,2118,462,0,1656,0,no,0
+Comprehensive SR Storage,(all),ImplementationVersionName,2118,0,0,2118,0,no,0
+Comprehensive SR Storage,(all),ImplementationClassUID,2118,0,0,2118,0,no,0
+Comprehensive SR Storage,(all),ContributingEquipmentSequence,2118,0,0,0,2118,no,0
+Comprehensive SR Storage,(all),ContentCreatorName,2118,2118,0,0,0,no,0
+Comprehensive SR Storage,(all),SeriesDescription,2118,0,0,2118,0,no,0
+Grayscale Softcopy Presentation State Storage,(all),Manufacturer,1086,0,104,982,0,no,0
+Grayscale Softcopy Presentation State Storage,(all),ManufacturerModelName,1086,566,0,520,0,no,0
+Grayscale Softcopy Presentation State Storage,(all),DeviceSerialNumber,1086,1086,0,0,0,no,0
+Grayscale Softcopy Presentation State Storage,(all),SoftwareVersions,1086,566,0,520,0,no,0
+Grayscale Softcopy Presentation State Storage,(all),ImplementationVersionName,1086,0,0,1086,0,no,0
+Grayscale Softcopy Presentation State Storage,(all),ImplementationClassUID,1086,0,0,1086,0,no,0
+Grayscale Softcopy Presentation State Storage,(all),ContributingEquipmentSequence,1086,0,0,0,1086,no,0
+Grayscale Softcopy Presentation State Storage,(all),ContentCreatorName,1086,0,1022,64,0,no,0
+Grayscale Softcopy Presentation State Storage,(all),SeriesDescription,1086,1086,0,0,0,no,0
+Key Object Selection Document Storage,(all),Manufacturer,40,40,0,0,0,no,0
+Key Object Selection Document Storage,(all),ManufacturerModelName,40,40,0,0,0,no,0
+Key Object Selection Document Storage,(all),DeviceSerialNumber,40,40,0,0,0,no,0
+Key Object Selection Document Storage,(all),SoftwareVersions,40,40,0,0,0,no,0
+Key Object Selection Document Storage,(all),ImplementationVersionName,40,0,0,40,0,no,0
+Key Object Selection Document Storage,(all),ImplementationClassUID,40,0,0,40,0,no,0
+Key Object Selection Document Storage,(all),ContributingEquipmentSequence,40,0,0,0,40,no,0
+Key Object Selection Document Storage,(all),ContentCreatorName,40,40,0,0,0,no,0
+Key Object Selection Document Storage,(all),SeriesDescription,40,0,0,40,0,no,0
+Parametric Map Storage,(all),Manufacturer,691,0,0,691,0,yes,0
+Parametric Map Storage,(all),ManufacturerModelName,691,0,0,691,0,yes,0
+Parametric Map Storage,(all),DeviceSerialNumber,691,0,0,691,0,yes,0
+Parametric Map Storage,(all),SoftwareVersions,691,0,0,691,0,yes,0
+Parametric Map Storage,(all),ImplementationVersionName,691,0,0,691,0,no,0
+Parametric Map Storage,(all),ImplementationClassUID,691,0,0,691,0,no,0
+Parametric Map Storage,(all),ContributingEquipmentSequence,691,0,0,691,0,no,0
+Parametric Map Storage,(all),ContentCreatorName,691,0,691,0,0,no,0
+Parametric Map Storage,(all),SeriesDescription,691,0,0,691,0,no,0
+RT Structure Set Storage,(all),Manufacturer,19358,0,275,19083,0,no,0
+RT Structure Set Storage,(all),ManufacturerModelName,19358,0,0,19358,0,no,0
+RT Structure Set Storage,(all),DeviceSerialNumber,19358,18765,209,384,0,no,0
+RT Structure Set Storage,(all),SoftwareVersions,19358,1198,0,18160,0,no,0
+RT Structure Set Storage,(all),ImplementationVersionName,19358,0,0,19358,0,no,0
+RT Structure Set Storage,(all),ImplementationClassUID,19358,0,0,19358,0,no,0
+RT Structure Set Storage,(all),ContributingEquipmentSequence,19358,0,0,0,19358,no,0
+RT Structure Set Storage,(all),ContentCreatorName,19358,19358,0,0,0,no,0
+RT Structure Set Storage,(all),SeriesDescription,19358,1068,1,18289,0,no,0
+Real World Value Mapping Storage,(all),Manufacturer,20,0,0,20,0,no,0
+Real World Value Mapping Storage,(all),ManufacturerModelName,20,20,0,0,0,no,0
+Real World Value Mapping Storage,(all),DeviceSerialNumber,20,20,0,0,0,no,0
+Real World Value Mapping Storage,(all),SoftwareVersions,20,0,0,20,0,no,0
+Real World Value Mapping Storage,(all),ImplementationVersionName,20,0,0,20,0,no,0
+Real World Value Mapping Storage,(all),ImplementationClassUID,20,0,0,20,0,no,0
+Real World Value Mapping Storage,(all),ContributingEquipmentSequence,20,0,0,0,20,no,0
+Real World Value Mapping Storage,(all),ContentCreatorName,20,0,20,0,0,no,0
+Real World Value Mapping Storage,(all),SeriesDescription,20,0,0,20,0,no,0
+Segmentation Storage,(all),Manufacturer,6386,0,0,6386,0,yes,0
+Segmentation Storage,(all),ManufacturerModelName,6386,0,0,6386,0,yes,0
+Segmentation Storage,(all),DeviceSerialNumber,6386,966,397,5023,0,yes,1363
+Segmentation Storage,(all),SoftwareVersions,6386,0,0,6386,0,yes,0
+Segmentation Storage,(all),ImplementationVersionName,6386,0,0,6386,0,no,0
+Segmentation Storage,(all),ImplementationClassUID,6386,0,0,6386,0,no,0
+Segmentation Storage,(all),ContributingEquipmentSequence,6386,6002,0,384,0,no,0
+Segmentation Storage,(all),ContentCreatorName,6386,0,2568,3818,0,no,0
+Segmentation Storage,(all),SeriesDescription,6386,765,0,5621,0,no,0

@@ -1,0 +1,37 @@
+sop_class_name,category,values
+Comprehensive 3D SR Storage,unclassified,7814
+Comprehensive 3D SR Storage,encoder,4908
+Comprehensive 3D SR Storage,conversion,3251
+Comprehensive 3D SR Storage,acquisition_vendor,2502
+Comprehensive 3D SR Storage,institution,1091
+Comprehensive 3D SR Storage,named_analysis,970
+Comprehensive SR Storage,encoder,2584
+Comprehensive SR Storage,unclassified,2118
+Comprehensive SR Storage,acquisition_vendor,826
+Comprehensive SR Storage,named_analysis,826
+Grayscale Softcopy Presentation State Storage,acquisition_vendor,982
+Grayscale Softcopy Presentation State Storage,named_analysis,520
+Grayscale Softcopy Presentation State Storage,unclassified,64
+Key Object Selection Document Storage,unclassified,40
+Parametric Map Storage,encoder,2073
+Parametric Map Storage,named_analysis,1382
+Parametric Map Storage,conversion,691
+Parametric Map Storage,unclassified,691
+Parametric Map Storage,acquisition_vendor,691
+Parametric Map Storage,institution,691
+RT Structure Set Storage,application,19627
+RT Structure Set Storage,unclassified,18557
+RT Structure Set Storage,institution,16184
+RT Structure Set Storage,acquisition_vendor,2360
+RT Structure Set Storage,encoder,2
+Real World Value Mapping Storage,encoder,20
+Real World Value Mapping Storage,unclassified,20
+Segmentation Storage,named_analysis,36074
+Segmentation Storage,named_analysis (additive rule),34361
+Segmentation Storage,unclassified,11799
+Segmentation Storage,encoder,9924
+Segmentation Storage,institution,2989
+Segmentation Storage,conversion,1920
+Segmentation Storage,acquisition_vendor,1108
+Segmentation Storage,institution (additive rule),1044
+Segmentation Storage,application,570

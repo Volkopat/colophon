@@ -1,0 +1,46 @@
+{
+  "tracked": {
+    "files": 354,
+    "bytes": 15295584,
+    "megabytes": 15.3,
+    "dicom_files": 0
+  },
+  "excluded": [
+    {
+      "path": "_cache/census/records.jsonl",
+      "megabytes": 286.3,
+      "reason": "per-object attribute values extracted from archive objects. Derived from the archive's own data, part of which is CC BY-NC, so redistributing it under this repository's MIT licence would be asserting a licence this project cannot grant. Regenerate with the census command."
+    },
+    {
+      "path": "_cache/phase3/records.jsonl",
+      "megabytes": 56.6,
+      "reason": "the same, for the Segmentation sample."
+    },
+    {
+      "path": "_cache/air/",
+      "megabytes": 1.8,
+      "reason": "the IHE AI Results supplement PDF. Third-party copyright. It is pinned by sha256 in the reference list and fetched from IHE, not shipped."
+    },
+    {
+      "path": "_cache/dcmqi.git/",
+      "megabytes": 19.7,
+      "reason": "a clone of somebody else's repository, vendored to read a constants header. Not ours to redistribute."
+    },
+    {
+      "path": "*.dcm anywhere",
+      "megabytes": 0.0,
+      "reason": "every fetched object was deleted after validation, as the project rule requires. None is tracked and none is in the snapshot."
+    }
+  ],
+  "licences": {
+    "by_licence": {
+      "CC BY 4.0": 458281,
+      "CC BY 3.0": 22457,
+      "CC BY-NC 3.0": 885,
+      "CC BY-NC 4.0": 127
+    },
+    "non_commercial_series": 1012
+  },
+  "version": "1.0.0",
+  "tag": "v1.0.0"
+}

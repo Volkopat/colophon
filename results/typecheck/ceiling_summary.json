@@ -1,0 +1,15 @@
+{
+  "measured_iods": 8,
+  "iods_with_enhanced_general_equipment_usage_M": 2,
+  "iods_with_general_equipment_usage_M": 8,
+  "type1_equipment_attributes_bound_in": [
+    "Parametric Map Storage",
+    "Segmentation Storage"
+  ],
+  "manufacturer_type_in_general_equipment": [
+    "2"
+  ],
+  "model_serial_software_type_in_general_equipment": [
+    "3"
+  ]
+}

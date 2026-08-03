@@ -1,0 +1,38 @@
+{
+  "message_classes": 2256,
+  "pre_disclosed_classes": 147,
+  "three_way_all": {
+    "n": 2256,
+    "agreement": 84.35,
+    "kappa": 0.5929,
+    "expected_agreement": 61.56
+  },
+  "three_way_blind": {
+    "n": 2109,
+    "agreement": 89.66,
+    "kappa": 0.7052,
+    "expected_agreement": 64.94
+  },
+  "net_binary_all": {
+    "n": 2256,
+    "agreement": 90.56,
+    "kappa": 0.6352,
+    "expected_agreement": 74.12
+  },
+  "net_binary_blind": {
+    "n": 2109,
+    "agreement": 89.9,
+    "kappa": 0.6241,
+    "expected_agreement": 73.13,
+    "pass1_only": 212,
+    "pass2_only": 1
+  },
+  "crosswalk": {
+    "FLOOR": "FLOOR",
+    "NOT-IOD": "FLOOR",
+    "PLAUSIBILITY": "FLOOR",
+    "NET": "NET",
+    "GENUINE": "NET",
+    "UNDECIDABLE": "UNDECIDABLE"
+  }
+}

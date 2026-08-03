@@ -1,0 +1,258 @@
+{
+  "edition": "PS3.3 2026c",
+  "verified_on": "2026-08-02",
+  "algorithm_identification_macro": [
+    {
+      "tag": "(0066,002F)",
+      "keyword": "AlgorithmFamilyCodeSequence",
+      "vr": "SQ",
+      "vm": "1",
+      "type": "1",
+      "highdicom": "unconditional",
+      "dcmqi": "never"
+    },
+    {
+      "tag": "(0066,0030)",
+      "keyword": "AlgorithmNameCodeSequence",
+      "vr": "SQ",
+      "vm": "1",
+      "type": "3",
+      "highdicom": "never, no constructor path exists",
+      "dcmqi": "never"
+    },
+    {
+      "tag": "(0066,0036)",
+      "keyword": "AlgorithmName",
+      "vr": "LO",
+      "vm": "1",
+      "type": "1",
+      "highdicom": "unconditional",
+      "dcmqi": "never"
+    },
+    {
+      "tag": "(0066,0031)",
+      "keyword": "AlgorithmVersion",
+      "vr": "LO",
+      "vm": "1",
+      "type": "1",
+      "highdicom": "unconditional",
+      "dcmqi": "never"
+    },
+    {
+      "tag": "(0066,0032)",
+      "keyword": "AlgorithmParameters",
+      "vr": "LT",
+      "vm": "1",
+      "type": "3",
+      "highdicom": "if parameters given",
+      "dcmqi": "never"
+    },
+    {
+      "tag": "(0024,0202)",
+      "keyword": "AlgorithmSource",
+      "vr": "LO",
+      "vm": "1",
+      "type": "3",
+      "highdicom": "if source given",
+      "dcmqi": "never"
+    }
+  ],
+  "withdrawn_tags": {
+    "(0066,0033)": "given in the brief as AlgorithmParameters. Not allocated anywhere in PS3.6 Chapter 6, including retired entries. The next allocated element after (0066,0032) is (0066,0034) Facet Sequence. Correct tag is (0066,0032).",
+    "(0066,0032) as AlgorithmSource": "given in the brief as AlgorithmSource. (0066,0032) is AlgorithmParameters. Correct tag for AlgorithmSource is (0024,0202)."
+  },
+  "segment_attributes": [
+    {
+      "tag": "(0062,0008)",
+      "keyword": "SegmentAlgorithmType",
+      "vr": "CS",
+      "type": "1",
+      "location": "Segment Description Macro, Table C.8.20-4",
+      "note": "Enumerated Values AUTOMATIC, SEMIAUTOMATIC, MANUAL"
+    },
+    {
+      "tag": "(0062,0009)",
+      "keyword": "SegmentAlgorithmName",
+      "vr": "LO",
+      "type": "1C",
+      "location": "Segmentation Image Module, Table C.8.20-2",
+      "condition": "Required if Segment Algorithm Type (0062,0008) is not MANUAL",
+      "note": "Compels a free-text string only: no version, no family code, no source. This is the one conditional requirement in the Segmentation IOD that SegmentAlgorithmType triggers."
+    },
+    {
+      "tag": "(0062,0007)",
+      "keyword": "SegmentationAlgorithmIdentificationSequence",
+      "vr": "SQ",
+      "type": "3",
+      "location": "Segmentation Image Module, Table C.8.20-2",
+      "condition": null,
+      "note": "Type 3 with no condition of any kind. Omitting it on an AUTOMATIC segment is conformant and no validator can flag it."
+    },
+    {
+      "tag": "(0062,0007)",
+      "keyword": "SegmentationAlgorithmIdentificationSequence",
+      "vr": "SQ",
+      "type": "1C",
+      "location": "Height Map Segmentation Image Module, Table C.8.20-5",
+      "condition": "Required if Segment Algorithm Type (0062,0008) is not MANUAL",
+      "note": "NOT part of the Segmentation IOD. Table A.51-1 does not include this module. Citing this condition against a Segmentation object would be citing the wrong module."
+    }
+  ],
+  "enhanced_general_equipment": [
+    {
+      "tag": "(0008,0070)",
+      "keyword": "Manufacturer",
+      "vr": "LO",
+      "type": "1"
+    },
+    {
+      "tag": "(0008,1090)",
+      "keyword": "ManufacturerModelName",
+      "vr": "LO",
+      "type": "1"
+    },
+    {
+      "tag": "(0018,1000)",
+      "keyword": "DeviceSerialNumber",
+      "vr": "LO",
+      "type": "1"
+    },
+    {
+      "tag": "(0018,1020)",
+      "keyword": "SoftwareVersions",
+      "vr": "LO",
+      "type": "1"
+    }
+  ],
+  "enhanced_general_equipment_iods": [
+    "Segmentation Storage",
+    "Parametric Map Storage"
+  ],
+  "reporting_grades": {
+    "non_conformant": "A stated requirement of PS3.3 is violated. Type 1 absent or empty, or a Type 1C condition met and the attribute absent, or a present sequence missing its Type 1 children.",
+    "conformant_but_uninformative": "Everything the standard requires is present, and none of it identifies the producing algorithm. This is the largest expected category and it is a gap in the standard, not a defect in the object.",
+    "informative": "The producing algorithm is identifiable from the object itself, by a value that is not a sentinel."
+  },
+  "ihe_air": {
+    "title": "IHE Radiology Technical Framework Supplement, AI Results (AIR)",
+    "revision": "Rev. 1.3",
+    "date": "2025-08-08",
+    "status": "Trial Implementation",
+    "status_since": "2020-07-16",
+    "url": "https://www.ihe.net/uploadedFiles/Documents/Radiology/IHE_RAD_Suppl_AIR_Rev1-3_TI_2025-08-08.pdf",
+    "sha256": "33C9E86326E8946BA2DB0B37E5FEE73A865C7B11A00201B983690FCA2ED1D964",
+    "retrieved": "2026-08-02",
+    "tested": {
+      "gazelle_test_definitions": 22,
+      "connectathon_passing_records": 31,
+      "connectathon_events": "Europe and North America 2022, Europe 2023, 2024, 2025, 2026"
+    },
+    "creator_requirement": {
+      "locator": "Vol 3, Section 6.5.3.1, printed page 81, IHE lines 1730-1738",
+      "force": "shall, unconditional",
+      "text": "The Creator shall describe each algorithm that was used to generate the results in the Contributing Equipment Sequence (0018,A001). Multiple items may be included. The Creator shall encode the following details in the Contributing Equipment Sequence: Purpose of Reference Code Sequence (0040,A170) shall be (109102, DCM, \"Processing Equipment\"), Manufacturer (0008,0070), Manufacturer's Model Name (0008,1090), Software Versions (0018,1020), Device UID (0018,1002)"
+    },
+    "consistency_requirement": {
+      "locator": "Vol 3, Section 6.5.3.1, pages 81 to 82, IHE lines 1744-1747",
+      "force": "will, then a conditional shall",
+      "text": "In SR instances, when an algorithm is identified in the SR Tree (typically in TID 4019 and/or TID 1004) it will also be identified in the Contributing Equipment Sequence (0018,A001). The content items, if present, shall contain the same value as the corresponding attribute shown in Table 6.5.3.1-1.",
+      "note": "Cannot be cited as requiring the TID 1004 or TID 4019 content items to exist. Only that they agree if they do."
+    },
+    "table_6531_1": {
+      "locator": "Vol 3, Table 6.5.3.1-1, printed page 82",
+      "title": "Corresponding Algorithm Identification Attributes and Content Items",
+      "columns": 4,
+      "note": "Four columns, not two: Contributing Equipment Sequence Attribute, Device Observer Content Item (TID 1004), Algorithm Identification Content Item (TID 4019), Algorithm Identification Sequence Attribute. Deliberately partial: SoftwareVersions has no TID 1004 counterpart, Device UID has no TID 4019 counterpart, Manufacturer has no TID 4019 counterpart.",
+      "pdf_page": 82,
+      "printed_page": 82,
+      "rows": 4,
+      "caption_verbatim": "Table 6.5.3.1-1: Corresponding Algorithm Identification Attributes and Content Items",
+      "column_headers": [
+        "Contributing Equipment Sequence Attribute",
+        "Device Observer Content Item (TID 1004)",
+        "Algorithm Identification Content Item (TID 4019)",
+        "Algorithm Identification Sequence Attribute"
+      ],
+      "cells": [
+        [
+          "Manufacturer (0008,0070)",
+          "(121014, DCM, \u201cDevice Observer Manufacturer\")",
+          "",
+          "Algorithm Source (0024,0202)"
+        ],
+        [
+          "Manufacturer\u2019s Model Name (0008,1090)",
+          "(121015, DCM, \u201cDevice Observer Model Name\")",
+          "(111001, DCM, \u201cAlgorithm Name\")",
+          "Algorithm Name (0066,0036)"
+        ],
+        [
+          "Software Versions (0018,1020)",
+          "",
+          "(111003, DCM, \u201cAlgorithm Version\")",
+          "Algorithm Version (0066,0031)"
+        ],
+        [
+          "Device UID (0018,1002)",
+          "(121012, DCM, \u201cDevice Observer UID\")",
+          "",
+          ""
+        ]
+      ],
+      "empty_cells": [
+        "row 1 Manufacturer, column 3 TID 4019",
+        "row 3 Software Versions, column 2 TID 1004",
+        "row 4 Device UID, column 3 TID 4019",
+        "row 4 Device UID, column 4 Algorithm Identification Sequence Attribute"
+      ],
+      "typography": "Opening quotation marks inside the table are U+201C. Closing quotation marks are U+0022. The apostrophe in Manufacturer's Model Name is U+2019. On printed page 81 the same document uses U+0022 on both sides of Processing Equipment.",
+      "normative_force": "none of its own. The caption carries no modal verb and the body carries no requirement column: no Type, no Usage, no R/O/C designation and no shall, should or will anywhere inside the grid. The table is a correspondence map.",
+      "invoking_sentence_verbatim": "In SR instances, when an algorithm is identified in the SR Tree (typically in TID 4019 and/or TID 1004) it will also be identified in the Contributing Equipment Sequence (0018,A001). The content items, if present, shall contain the same value as the corresponding attribute shown in Table 6.5.3.1-1.",
+      "invoking_sentence_locator": "Vol 3, Section 6.5.3.1, printed page 81 IHE line 1744 through printed page 82, the two lines above the caption",
+      "invoking_sentence_force": "will for the co-identification expectation, then shall for value equality. The shall is gated twice: by the scope clause In SR instances and by the condition if present. It constrains the value a content item carries, never whether the content item exists.",
+      "required_of_the_creator": [
+        "Nothing that the table itself adds. The five elements of the Contributing Equipment Sequence are required by the Section 6.5.3.1 prose, which is captured separately in creator_requirement, and that prose stands whether or not the table exists."
+      ],
+      "merely_mapped": [
+        "The TID 1004 Device Observer content items",
+        "The TID 4019 Algorithm Identification content items",
+        "Algorithm Source (0024,0202), Algorithm Name (0066,0036) and Algorithm Version (0066,0031) of the Algorithm Identification Macro"
+      ],
+      "adds_requirement_beyond_6531_shall": false,
+      "coverage_of_the_shall_list": "Four of the five elements the Section 6.5.3.1 shall names have a row: Manufacturer, Manufacturer's Model Name, Software Versions and Device UID. Purpose of Reference Code Sequence (0040,A170) has no row.",
+      "ambiguity_reported_not_resolved": "The invoking sentence says the corresponding attribute, singular, while the table has two attribute columns: column 1, a Contributing Equipment Sequence attribute, and column 4, an Algorithm Identification Sequence attribute. The sentence does not say which. Its scope clause is In SR instances and its subject is The content items, while column 4 is introduced by the paragraph that follows the table and begins In some non-SR instances. Whether the equality obligation reaches column 4 is not stated in the document and is not decided here.",
+      "second_reference": "Vol 1, Open and Closed Issues, printed page 16, question 26: In terms of lower level TID elements, those can be encoded in SR, maintaining the correspondences described in Table 6.5.3.1-1. Force: can. Non-normative, and it describes the table as correspondences.",
+      "consequence_for_claim_3": "Claim 3 gains no yardstick from this table. It rests on the PS3.3 Type 1 requirements recorded at STD-03 and STD-04. The AIR Section 6.5.3.1 unconditional shall recorded at STD-06 is unchanged by this reading and remains the secondary yardstick. The table is citable as intent and as a correspondence map only.",
+      "grid_geometry": {
+        "units": "PDF user space points, origin bottom left, MediaBox 0 0 612 792",
+        "vertical_rules_x": [
+          96.6,
+          203.16,
+          309.72,
+          438.24,
+          550.92
+        ],
+        "horizontal_rules_y": [
+          476.52,
+          506.04,
+          535.56,
+          565.08,
+          594.6,
+          637.92
+        ],
+        "note": "Five vertical rules bound four columns. Six horizontal rules bound five rows, one header and four data rows. The rules are drawn as thin filled rectangles in the page content stream, so the grid is read rather than inferred from text spacing."
+      },
+      "extraction": {
+        "method": "Four independent readings of the same pinned file, all agreeing.",
+        "readings": [
+          "pdftotext -table, Xpdf 4.00",
+          "pdftotext -lineprinter, Xpdf 4.00",
+          "vector grid geometry from the page content stream, scripts/pdf_table_geometry.py, standard library only",
+          "visual render of printed page 82 in the Chrome built in PDF viewer"
+        ],
+        "disagreeing_reading": "pdftotext -layout places (121012, DCM, Device Observer UID) on the Software Versions row. The grid geometry puts its baselines at y 493.44 and y 483.11, inside the Device UID row band of y 476.52 to 506.04, and the visual render agrees. The layout reading is an artifact of unequal cell text heights and is wrong.",
+        "reliability": "The four-column grid is now confirmed, not reconstructed. Empty cells are reported as empty on the strength of the ruling lines, which establish that the cell exists, combined with the absence of any text run whose origin falls inside its band."
+      }
+    }
+  }
+}

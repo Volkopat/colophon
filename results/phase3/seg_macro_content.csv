@@ -1,0 +1,6 @@
+stratum,analysis_result_id,SegmentAlgorithmType,AlgorithmName,AlgorithmVersion,AlgorithmFamilyCode,AlgorithmSource,segments
+not identifiable from index / rms_mutation_prediction_expert_annotations,rms_mutation_prediction_expert_annotations,AUTOMATIC,Rhabdomyosarcoma Pathology CNN AI Segmentation Model,V1.0,"123110,DCM,Artificial Intelligence",Frederick National Lab for Cancer Research,1044
+highdicom / eay131_tumor_annotations,eay131_tumor_annotations,AUTOMATIC,Manual Segmentation,1.0,"113076,DCM,Segmentation",,384
+not identifiable from index / pan_cancer_nuclei_seg_dicom,pan_cancer_nuclei_seg_dicom,AUTOMATIC,Pan-Cancer-Nuclei-Seg,1.0,"123110,DCM,Artificial Intelligence",https://doi.org/10.7937/TCIA.2019.4A4DKP9U,356
+not identifiable from index / tcga_sbu_til_maps,tcga_sbu_til_maps,AUTOMATIC,Stony Brook TIL Segmentation Inception-V4 2022,1.0,"123110,DCM,Artificial Intelligence",doi:10.3389/fonc.2021.806603,298
+not identifiable from index / tcga_sbu_til_maps,tcga_sbu_til_maps,AUTOMATIC,Stony Brook TIL Segmentation CNN 2018,1.0,"123110,DCM,Artificial Intelligence",doi:10.7937/K9/TCIA.2018.Y75F9W1,172

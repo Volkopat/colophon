@@ -1,0 +1,79 @@
+{
+  "dicom3tools": {
+    "segmentation_objects": 6386,
+    "census_objects": 28721,
+    "measured_objects": 35107,
+    "LABELMAP_objects": 0,
+    "TILED_FULL_objects": 1001,
+    "exposed_objects": 1001,
+    "pct_of_measured_set": 2.85,
+    "SegmentationType_values": {
+      "FRACTIONAL": 1167,
+      "BINARY": 5219
+    },
+    "DimensionOrganizationType_values": {
+      "3D": 727,
+      "(absent)": 4658,
+      "TILED_FULL": 1001
+    },
+    "unmeasured": {
+      "reason": "the census capture list predates this question, so DimensionOrganizationType (0020,9311) was not recorded for the seven census classes",
+      "class": "Parametric Map Storage",
+      "objects": 691,
+      "note": "Parametric Map is the only census class whose IOD can carry TILED_FULL. SegmentationType (0062,0001) exists only in the Segmentation IOD, so its exposure in the census classes is structurally zero rather than unmeasured."
+    }
+  },
+  "residue": {
+    "exposed_objects": 1001,
+    "matching_message_classes": 0,
+    "matching_messages": []
+  },
+  "highdicom": {
+    "registered_pin": "0.28.0",
+    "installed": "0.28.1",
+    "imported_by_measurement_modules": {
+      "census.py": {
+        "appears_in_source": false,
+        "imports_the_package": false,
+        "used_as_an_instrument": false
+      },
+      "phase3.py": {
+        "appears_in_source": false,
+        "imports_the_package": false,
+        "used_as_an_instrument": false
+      },
+      "floor.py": {
+        "appears_in_source": true,
+        "imports_the_package": true,
+        "used_as_an_instrument": false
+      },
+      "claim3.py": {
+        "appears_in_source": true,
+        "imports_the_package": false,
+        "used_as_an_instrument": false
+      }
+    },
+    "role": "W1, the Phase 1 writer that emits fixture objects for the floor set. Not a validator anywhere in this project.",
+    "corpus_writer_versions": {
+      "highdicom0.20.0": 2701,
+      "highdicom0.27.0": 2391,
+      "highdicom0.26.1": 1090,
+      "highdicom0.22.0": 452,
+      "highdicom0.23.0": 261,
+      "highdicom0.21.1": 205
+    },
+    "corpus_objects_written_by_a_pinned_version": 0,
+    "corpus_objects_written_by_highdicom": 7100,
+    "corpus_softwareversions_states": {
+      "empty": 5312,
+      "repository URL": 1788
+    },
+    "corpus_softwareversions_by_class": {
+      "Comprehensive 3D SR Storage | empty": 5312,
+      "Comprehensive 3D SR Storage | repository URL": 96,
+      "Parametric Map Storage | repository URL": 691,
+      "Segmentation Storage | repository URL": 1001
+    },
+    "changelog_diff": "UNRESOLVED OFFLINE. The 0.28.0 source is not on this machine and the diff needs network. Completing command: pip download highdicom==0.28.0 --no-deps --no-binary :all:, then diff its CHANGELOG against the installed 0.28.1."
+  }
+}

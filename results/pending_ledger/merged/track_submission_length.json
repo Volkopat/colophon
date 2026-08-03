@@ -1,0 +1,22 @@
+[
+  {
+    "id": "SUB-06",
+    "section": "SUB",
+    "section_title": "Submission package",
+    "claim": "The assembled manuscript body is long for an Original Paper, the venue sets no ceiling, and the length is reported rather than cut to pre-empt an editor.",
+    "status": "MEASURED",
+    "status_note": "This is a judgement recorded as a number, not a defect. Submitting at this length asks the editor for latitude, and the checklist says so in the row that carries it.",
+    "value": "11,958 words in the assembled body, of which 3,470 are Materials and Methods; sections 2.6 to 2.10 are about 1,484 words and are the block that could move to supplementary material",
+    "sop_class": "not applicable",
+    "n": "11,958",
+    "denominator": "no venue limit is published",
+    "floor": "not applicable, this row counts words and not validator findings",
+    "dropped": "nothing has been cut. What moving Methods 2.6 to 2.10 would cost is stated in the checklist: a reader who cannot see the message-class normalisation, the adjudication disclosures and the pin deviations in the body has to take the rates on trust",
+    "validator": "none",
+    "validator_version": "not applicable",
+    "command": "python -m colophon.submission",
+    "source_file": "results/submission/07_checklist.md and results/submission/manifest.json",
+    "pinned_by_test": "tests/test_submission.py::test_every_number_in_the_package_is_backed",
+    "verified_on": "2026-08-03"
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "source_url": "https://www.dclunie.com/dicom-status/status.html",
+  "retrieved": "2026-08-03",
+  "sha256_of_page": "f3a71f0c70d172ba92c2f1dab1efee519319467f5017df45a260564f50b71eec",
+  "page_bytes": 1479407,
+  "columns": [
+    "number",
+    "affected",
+    "title",
+    "status",
+    "applies_to",
+    "document"
+  ],
+  "correction_proposals": {
+    "CP-1258": {
+      "number": "CP 1258",
+      "affected": "Parts 3,16",
+      "title": "Refactor segment description, extend segment types and anatomy",
+      "status": "Standard",
+      "applies_to": "2011",
+      "document": ""
+    },
+    "CP-1597": {
+      "number": "CP 1597",
+      "affected": "Parts 3",
+      "title": "Clarify Segmentation Algorithm Parameters",
+      "status": "Standard",
+      "applies_to": "2016d",
+      "document": ""
+    },
+    "CP-2115": {
+      "number": "CP 2115",
+      "affected": "Parts 3",
+      "title": "Per-segment multiple algorithms and creators",
+      "status": "Standard",
+      "applies_to": "2021d",
+      "document": ""
+    },
+    "CP-2273": {
+      "number": "CP 2273",
+      "affected": "Parts 5",
+      "title": "Clarify whether zero length Type 3 Sequences are allowed or not",
+      "status": "Standard",
+      "applies_to": "2026b",
+      "document": ""
+    },
+    "CP-2320": {
+      "number": "CP 2320",
+      "affected": "Parts 3",
+      "title": "Communication that data is synthetic",
+      "status": "Standard",
+      "applies_to": "2024a",
+      "document": ""
+    },
+    "CP-2428": {
+      "number": "CP 2428",
+      "affected": "Parts 3,6,16",
+      "title": "Add Algorithm Identification to RT Dose Module",
+      "status": "Standard",
+      "applies_to": "2025c",
+      "document": ""
+    }
+  },
+  "supplements": {
+    "Supplement 243": {
+      "number": "Supp 243",
+      "affected": "Parts 3,4,6,16",
+      "title": "Label Map Segmentation",
+      "status": "Standard",
+      "applies_to": "2024c",
+      "document": ""
+    }
+  },
+  "not_found": {
+    "correction_proposals": [],
+    "supplements": []
+  },
+  "retrieved_utc": "2026-08-03T01:33:32Z"
+}

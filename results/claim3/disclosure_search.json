@@ -1,0 +1,63 @@
+{
+  "company": "aycan",
+  "match": "case-insensitive substring",
+  "objects_searched": 109318,
+  "objects_in_the_measured_set": 35107,
+  "unit": "objects, one row per SOP instance read",
+  "objects_by_sop_class": {
+    "Comprehensive 3D SR Storage": 5408,
+    "Comprehensive SR Storage": 2118,
+    "Enhanced SR Storage": 74211,
+    "Grayscale Softcopy Presentation State Storage": 1086,
+    "Key Object Selection Document Storage": 40,
+    "Parametric Map Storage": 691,
+    "RT Structure Set Storage": 19358,
+    "Real World Value Mapping Storage": 20,
+    "Segmentation Storage": 6386
+  },
+  "attributes_searched": [
+    {
+      "name": "Manufacturer",
+      "tag": "(0008,0070)"
+    },
+    {
+      "name": "ManufacturerModelName",
+      "tag": "(0008,1090)"
+    },
+    {
+      "name": "SoftwareVersions",
+      "tag": "(0018,1020)"
+    },
+    {
+      "name": "DeviceSerialNumber",
+      "tag": "(0018,1000)"
+    },
+    {
+      "name": "SeriesDescription",
+      "tag": "(0008,103E)"
+    },
+    {
+      "name": "ContributingEquipmentSequence",
+      "tag": "(0018,A001)",
+      "note": "every value of every item, added because it is the carrier this study treats as equipment identity"
+    }
+  ],
+  "attributes_not_captured_by_this_study": [
+    {
+      "name": "InstitutionName",
+      "tag": "(0008,0080)",
+      "reason": "never read into the census or Phase 3 records, and the objects were deleted after validation, so it cannot be searched without re-fetching"
+    },
+    {
+      "name": "StationName",
+      "tag": "(0008,1010)",
+      "reason": "never read into the census or Phase 3 records, and the objects were deleted after validation, so it cannot be searched without re-fetching"
+    }
+  ],
+  "matching_objects": 0,
+  "matching_objects_by_sop_class": {},
+  "distinct_values_matched": 0,
+  "values_matched": {},
+  "matches_per_attribute": {},
+  "command": "python -m colophon.disclosure"
+}

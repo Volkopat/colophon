@@ -1,0 +1,30 @@
+stratum,SegmentAlgorithmType,segments
+QIICR Reporting via 3D Slicer / (null),SEMIAUTOMATIC,96
+QIICR Reporting via 3D Slicer / qin_lungct_seg,SEMIAUTOMATIC,378
+dcmqi / (null),MANUAL,899
+dcmqi / (null),AUTOMATIC,770
+dcmqi / (null),SEMIAUTOMATIC,325
+dcmqi / bamf_aimi_annotations,AUTOMATIC,771
+dcmqi / bamf_aimi_annotations,SEMIAUTOMATIC,88
+dcmqi / dicom_lidc_idri_nodules,MANUAL,384
+dcmqi / nlstseg,MANUAL,439
+dcmqi / nnu_net_bpr_annotations,AUTOMATIC,1536
+dcmqi / pancreas_ct_seg,MANUAL,80
+dcmqi / prostate_mri_us_biopsy_dicom_annotations,MANUAL,195
+dcmqi / prostate_mri_us_biopsy_dicom_annotations,SEMIAUTOMATIC,189
+dcmqi / prostatex_seg_hires,MANUAL,66
+dcmqi / prostatex_seg_zones,MANUAL,392
+dcmqi / rider_lungct_seg,MANUAL,59
+dcmqi / rider_lungct_seg,AUTOMATIC,58
+dcmqi / totalsegmentator_ct_segmentations,AUTOMATIC,29226
+highdicom / (null),MANUAL,384
+highdicom / eay131_tumor_annotations,AUTOMATIC,384
+not identifiable from index / (null),SEMIAUTOMATIC,330
+not identifiable from index / (null),MANUAL,41
+not identifiable from index / (null),SEMIAUTOMATED,25
+not identifiable from index / pan_cancer_nuclei_seg_dicom,AUTOMATIC,356
+not identifiable from index / qiba_volct_1b,SEMIAUTOMATIC,384
+not identifiable from index / rms_mutation_prediction_expert_annotations,AUTOMATIC,1044
+not identifiable from index / tcga_sbu_til_maps,AUTOMATIC,470
+pydicom-seg / (null),MANUAL,1806
+pydicom-seg / (null),SEMIAUTOMATIC,83

@@ -1,0 +1,37 @@
+sop_class_name,analysis_result_id,objects,first_level_identity_appears,level_name,identifying_value,version_at_that_level,version_value,version_found_in,in_object,level_1,level_2,level_3,level_4,level_5
+Comprehensive 3D SR Storage,nlst_sybil,970,1,equipment attributes,Sybil,no,,,yes,yes,no,no,no,no
+Parametric Map Storage,tcga_gbm360,691,1,equipment attributes,GBM360,no,,,yes,yes,no,no,yes,yes
+Grayscale Softcopy Presentation State Storage,qiba_volct_1b,624,1,equipment attributes,DIRS2,yes,2.3,2.3:Win64_072712,yes,yes,no,no,no,no
+Comprehensive SR Storage,(null),462,1,equipment attributes,DIRS2,no,,,yes,yes,no,no,no,no
+Segmentation Storage,qiba_volct_1b,384,1,equipment attributes,DIRS2,yes,2.3,2.3:Win64_072712,yes,yes,no,no,no,no
+Comprehensive SR Storage,qiba_volct_1b,364,1,equipment attributes,LocationDesignatorSynthesizer,yes,2.3,2.3:Win64_072712,yes,yes,no,no,no,no
+Segmentation Storage,pan_cancer_nuclei_seg_dicom,356,1,equipment attributes,Pan-Cancer-Nuclei-Seg,no,,,yes,yes,no,no,yes,no
+Segmentation Storage,rms_mutation_prediction_expert_annotations,261,1,equipment attributes,FNLCR_IVG_RMS_iou_0.7343_0.7175_epoch_60,no,,,yes,yes,no,no,yes,no
+Segmentation Storage,nnu_net_bpr_annotations,384,3,SeriesDescription and ContentCreatorName,3d_lowres-tta_nnU-Net_Segmentation,no,,,yes,no,no,yes,yes,no
+Segmentation Storage,totalsegmentator_ct_segmentations,384,3,SeriesDescription and ContentCreatorName,TotalSegmentator(v1.5.6) Segmentation of Series 5,yes,v1.5.6,TotalSegmentator(v1.5.6) Segmentation of Series 5,yes,no,no,yes,yes,yes
+Segmentation Storage,(null),1632,4,in-object algorithm carriers,nnUNet,no,,,yes,no,no,no,yes,no
+RT Structure Set Storage,eay131_tumor_annotations,14395,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+RT Structure Set Storage,(null),3115,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Comprehensive 3D SR Storage,nnu_net_bpr_annotations,2906,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Comprehensive SR Storage,dicom_sr_breast_clinical,1292,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Comprehensive 3D SR Storage,lung_pet_ct_dx_annotations,1091,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+RT Structure Set Storage,cptac_ccrcc_tumor_annotations,636,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+RT Structure Set Storage,cptac_ucec_tumor_annotations,617,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+RT Structure Set Storage,cptac_pda_tumor_annotations,536,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Grayscale Softcopy Presentation State Storage,(null),462,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Segmentation Storage,bamf_aimi_annotations,384,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Segmentation Storage,dicom_lidc_idri_nodules,384,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Segmentation Storage,eay131_tumor_annotations,384,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Segmentation Storage,nlstseg,384,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Segmentation Storage,prostate_mri_us_biopsy_dicom_annotations,384,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Segmentation Storage,tcga_sbu_til_maps,384,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Segmentation Storage,qin_lungct_seg,378,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Comprehensive 3D SR Storage,prostatex_targets,345,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Segmentation Storage,prostatex_seg_zones,98,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Comprehensive 3D SR Storage,rms_mutation_prediction_expert_annotations,96,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Segmentation Storage,pancreas_ct_seg,80,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Segmentation Storage,prostatex_seg_hires,66,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+RT Structure Set Storage,rider_lungct_seg,59,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Segmentation Storage,rider_lungct_seg,59,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Key Object Selection Document Storage,(null),40,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no
+Real World Value Mapping Storage,(null),20,none,identity does not appear at any level,,no,,,"not applicable, identity appears nowhere",no,no,no,no,no

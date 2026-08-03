@@ -1,0 +1,22 @@
+[
+  {
+    "id": "FIG-01",
+    "section": "FIG",
+    "section_title": "Figure set",
+    "claim": "Six figures are drawn, each from a single named artefact, and every value annotated on a figure traces to a ledger row.",
+    "status": "MEASURED",
+    "value": "figure1 from t33_recoverability_ladder.csv, rows C3T-03; figure2 from table2.csv, rows C3T-00+STD-04+STD-08; figure3 from figure3_objects.json, rows C3T-06+DEV-02+P3-01; figure4 from encoder_only_by_collection.csv, rows C3T-02; figure5 from phase1_variants.csv, rows B-02+B-03+B-05+B-10; figure6 from two_pass_comparison.csv, rows ADJ2-01+ADJ2-02",
+    "n": "6",
+    "denominator": "6",
+    "floor": "not applicable, this row describes the figure set rather than quoting a rate",
+    "dropped": "three figures were specified and are deliberately not drawn: a leaderboard of producing groups, any object-weighted figure where the analysis result is available, and Segmentation net conformance, which is unadjudicated",
+    "sop_class": "all",
+    "validator": "none",
+    "validator_version": "not applicable",
+    "command": "python -m colophon.figures",
+    "source_file": "results/manuscript/figures.md and results/figures/manifest.json",
+    "pinned_by_test": "tests/test_figures.py::test_every_annotated_value_is_in_the_ledger",
+    "status_note": "Regeneration is byte-identical and a test asserts it, so a reviewer regenerating from a clean checkout gets what the paper shipped. Vector PDF and 300 dpi PNG for each.",
+    "notes": "Reading the rendered output caught five defects no automated check detects, the worst being a hatched rectangle in figure 2 that read as a 100 percent bar and meant the opposite. All five are recorded in results/manuscript/figures.md."
+  }
+]

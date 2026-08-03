@@ -1,0 +1,20 @@
+sop_class_name,analysis_result_id,objects,objects_with_error_class,pct_error,objects_with_warning_class,pct_warning,objects_with_dubious_content_creator,pct_dubious_content_creator,class_complete,class_series_recorded,class_series_in_manifest
+RT Structure Set Storage,eay131_tumor_annotations,14391,14391,100.0,14391,100.0,0,0.0,False,18936,19358
+Comprehensive 3D SR Storage,nnu_net_bpr_annotations,2906,1438,49.48,2906,100.0,0,0.0,True,5408,5408
+RT Structure Set Storage,,2697,2697,100.0,2697,100.0,0,0.0,False,18936,19358
+Comprehensive SR Storage,dicom_sr_breast_clinical,1292,1,0.08,1292,100.0,0,0.0,True,2118,2118
+Comprehensive 3D SR Storage,lung_pet_ct_dx_annotations,1091,38,3.48,1091,100.0,0,0.0,True,5408,5408
+Comprehensive 3D SR Storage,nlst_sybil,970,325,33.51,970,100.0,0,0.0,True,5408,5408
+Parametric Map Storage,tcga_gbm360,691,691,100.0,691,100.0,0,0.0,True,691,691
+RT Structure Set Storage,cptac_ccrcc_tumor_annotations,636,636,100.0,636,100.0,0,0.0,False,18936,19358
+Grayscale Softcopy Presentation State Storage,qiba_volct_1b,624,51,8.17,624,100.0,0,0.0,True,1086,1086
+RT Structure Set Storage,cptac_ucec_tumor_annotations,617,617,100.0,617,100.0,0,0.0,False,18936,19358
+RT Structure Set Storage,cptac_pda_tumor_annotations,536,536,100.0,536,100.0,0,0.0,False,18936,19358
+Grayscale Softcopy Presentation State Storage,,462,462,100.0,462,100.0,0,0.0,True,1086,1086
+Comprehensive SR Storage,,462,462,100.0,462,100.0,0,0.0,True,2118,2118
+Comprehensive SR Storage,qiba_volct_1b,364,364,100.0,364,100.0,0,0.0,True,2118,2118
+Comprehensive 3D SR Storage,prostatex_targets,345,0,0.0,345,100.0,0,0.0,True,5408,5408
+Comprehensive 3D SR Storage,rms_mutation_prediction_expert_annotations,96,91,94.79,96,100.0,0,0.0,True,5408,5408
+RT Structure Set Storage,rider_lungct_seg,59,59,100.0,59,100.0,0,0.0,False,18936,19358
+Key Object Selection Document Storage,,40,40,100.0,40,100.0,0,0.0,True,40,40
+Real World Value Mapping Storage,,20,20,100.0,20,100.0,0,0.0,True,20,20

@@ -1,0 +1,19 @@
+[
+ {
+  "id": "PRE-01",
+  "section": "PRE",
+  "section_title": "Pre-registered interpretation",
+  "claim": "Pre-registered prediction. Claim 1 will return largely null: SR will pass cleanly because IDC validates its own SR with PixelMed, and SEG will pass cleanly because dcmqi wrote it. That is the control that makes claim 3 land, not a failure of the study.",
+  "status": "RETIRED",
+  "value": "predicted before any archive object was validated",
+  "status_note": "WRONG PREDICTION, recorded as such. PRE-01 predicted claim 1 would return largely null. Key Object Selection Document Storage clears PRE-05 on both registered conditions: net error-class rate 100.00 percent of 40 objects, collection-level median 100.00 percent. The defect is Manufacturer (0008,0070) absent, a Type 2 attribute of the General Equipment module, which PS3.3 Table A.35.4-1 gives Usage M in the Key Object Selection IOD. Two validators from different codebases, dciodvfy and dicom-validator, report it independently on all 40 objects, so it is not a validator artefact. Comprehensive SR is a second, partial counterexample: its class-level net error rate is 34.14 percent of 2,118 objects, above the registered 20 percent substantial band, and it escapes the PRE-05 verdict only because the conjunctive collection-median condition fails at 0.12 percent.",
+  "notes": "Not softened. The prediction was recorded before any archive object was fetched precisely so that it could fail this way, and the row is retired rather than amended so the original wording stays legible. Four of eight non-Segmentation classes are adjudicated: two return null, one returns a substantial failure, one returns a class-level failure that the clustering condition suppresses. The sentence PRE-01 proposed for the paper, that these objects are syntactically impeccable and still cannot say what produced them, does not survive as stated. What survives is narrower: for the classes adjudicated so far, conformance defects are rare but not absent, and where they occur they are concentrated in one producer group rather than spread across the archive.",
+  "sop_class": "all",
+  "command": "python -m colophon.merge_ledger",
+  "source_file": "results/phase2/net_rates_rwv_kos.md",
+  "floor": "to be established in Phase 1, per SOP class",
+  "dropped": "nothing, this is a prediction over the full Phase 2 and 3 population",
+  "derived_from": "PRE-05,C-KOS-05,C-CSR-11",
+  "retired_reason": "Falsified by measurement. Key Object Selection Document Storage returns a 100.00 percent net error-class rate against a predicted null, confirmed by two independent validators, with a cited Type 2 requirement behind it."
+ }
+]

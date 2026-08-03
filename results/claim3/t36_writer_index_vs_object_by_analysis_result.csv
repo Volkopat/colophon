@@ -1,0 +1,9 @@
+sop_class_name,analysis_result_id,writer_from_index,writer_from_object,deciding_carrier,objects,objects_in_cell,pct_of_cell
+Comprehensive 3D SR Storage,nnu_net_bpr_annotations,not identifiable from index,highdicom,ImplementationVersionName,2906,2906,100.0
+Comprehensive 3D SR Storage,lung_pet_ct_dx_annotations,not identifiable from index,highdicom,ContributingEquipmentSequence,1091,1091,100.0
+Comprehensive 3D SR Storage,nlst_sybil,not identifiable from index,highdicom,ContributingEquipmentSequence,970,970,100.0
+Parametric Map Storage,tcga_gbm360,not identifiable from index,highdicom,ContributingEquipmentSequence,691,691,100.0
+Segmentation Storage,tcga_sbu_til_maps,not identifiable from index,highdicom,ContributingEquipmentSequence,384,384,100.0
+Segmentation Storage,pan_cancer_nuclei_seg_dicom,not identifiable from index,highdicom,ImplementationVersionName,356,356,100.0
+Comprehensive 3D SR Storage,prostatex_targets,not identifiable from index,highdicom,ContributingEquipmentSequence,345,345,100.0
+Segmentation Storage,rms_mutation_prediction_expert_annotations,not identifiable from index,highdicom,ImplementationVersionName,261,261,100.0

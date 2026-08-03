@@ -1,0 +1,10 @@
+sop_class_name,series,instances,multi_instance_series,instances_missed,pct_of_series_multi_instance,pct_of_instances_missed
+Segmentation Storage,190146,213123,6170,22977,3.24,10.78
+Comprehensive 3D SR Storage,5408,5408,0,0,0.0,0.0
+Comprehensive SR Storage,2118,2118,0,0,0.0,0.0
+Grayscale Softcopy Presentation State Storage,1086,1086,0,0,0.0,0.0
+Enhanced SR Storage,262883,262883,0,0,0.0,0.0
+Key Object Selection Document Storage,40,40,0,0,0.0,0.0
+Parametric Map Storage,691,691,0,0,0.0,0.0
+RT Structure Set Storage,19358,19358,0,0,0.0,0.0
+Real World Value Mapping Storage,20,20,0,0,0.0,0.0

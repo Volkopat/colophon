@@ -1,0 +1,2 @@
+collection_id,analysis_result_id,license_short_name,Manufacturer,ManufacturerModelName,Modality,transfer_syntax_name,series,instances,patients,size_MB
+tcga_gbm,tcga_gbm360,CC BY 4.0,Gevaert Lab Converted By Imaging Data Commons,GBM360,OT,Explicit VR Little Endian,691,691,336,363.39053

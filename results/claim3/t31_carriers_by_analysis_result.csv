@@ -1,0 +1,325 @@
+sop_class_name,analysis_result_id,carrier,objects,absent,zero_length,non_empty,absent_or_zero_length,type1_here,type1_violation
+Comprehensive 3D SR Storage,lung_pet_ct_dx_annotations,Manufacturer,1091,0,0,1091,0,no,0
+Comprehensive 3D SR Storage,lung_pet_ct_dx_annotations,ManufacturerModelName,1091,1091,0,0,0,no,0
+Comprehensive 3D SR Storage,lung_pet_ct_dx_annotations,DeviceSerialNumber,1091,1091,0,0,0,no,0
+Comprehensive 3D SR Storage,lung_pet_ct_dx_annotations,SoftwareVersions,1091,1091,0,0,0,no,0
+Comprehensive 3D SR Storage,lung_pet_ct_dx_annotations,ImplementationVersionName,1091,0,0,1091,0,no,0
+Comprehensive 3D SR Storage,lung_pet_ct_dx_annotations,ImplementationClassUID,1091,0,0,1091,0,no,0
+Comprehensive 3D SR Storage,lung_pet_ct_dx_annotations,ContributingEquipmentSequence,1091,0,0,1091,0,no,0
+Comprehensive 3D SR Storage,lung_pet_ct_dx_annotations,ContentCreatorName,1091,1091,0,0,0,no,0
+Comprehensive 3D SR Storage,lung_pet_ct_dx_annotations,SeriesDescription,1091,0,0,1091,0,no,0
+Comprehensive 3D SR Storage,nlst_sybil,Manufacturer,970,0,0,970,0,no,0
+Comprehensive 3D SR Storage,nlst_sybil,ManufacturerModelName,970,970,0,0,0,no,0
+Comprehensive 3D SR Storage,nlst_sybil,DeviceSerialNumber,970,970,0,0,0,no,0
+Comprehensive 3D SR Storage,nlst_sybil,SoftwareVersions,970,970,0,0,0,no,0
+Comprehensive 3D SR Storage,nlst_sybil,ImplementationVersionName,970,0,0,970,0,no,0
+Comprehensive 3D SR Storage,nlst_sybil,ImplementationClassUID,970,0,0,970,0,no,0
+Comprehensive 3D SR Storage,nlst_sybil,ContributingEquipmentSequence,970,0,0,970,0,no,0
+Comprehensive 3D SR Storage,nlst_sybil,ContentCreatorName,970,970,0,0,0,no,0
+Comprehensive 3D SR Storage,nlst_sybil,SeriesDescription,970,0,0,970,0,no,0
+Comprehensive 3D SR Storage,nnu_net_bpr_annotations,Manufacturer,2906,0,0,2906,0,no,0
+Comprehensive 3D SR Storage,nnu_net_bpr_annotations,ManufacturerModelName,2906,2906,0,0,0,no,0
+Comprehensive 3D SR Storage,nnu_net_bpr_annotations,DeviceSerialNumber,2906,2906,0,0,0,no,0
+Comprehensive 3D SR Storage,nnu_net_bpr_annotations,SoftwareVersions,2906,2906,0,0,0,no,0
+Comprehensive 3D SR Storage,nnu_net_bpr_annotations,ImplementationVersionName,2906,0,0,2906,0,no,0
+Comprehensive 3D SR Storage,nnu_net_bpr_annotations,ImplementationClassUID,2906,0,0,2906,0,no,0
+Comprehensive 3D SR Storage,nnu_net_bpr_annotations,ContributingEquipmentSequence,2906,0,0,0,2906,no,0
+Comprehensive 3D SR Storage,nnu_net_bpr_annotations,ContentCreatorName,2906,2906,0,0,0,no,0
+Comprehensive 3D SR Storage,nnu_net_bpr_annotations,SeriesDescription,2906,0,0,2906,0,no,0
+Comprehensive 3D SR Storage,prostatex_targets,Manufacturer,345,0,0,345,0,no,0
+Comprehensive 3D SR Storage,prostatex_targets,ManufacturerModelName,345,345,0,0,0,no,0
+Comprehensive 3D SR Storage,prostatex_targets,DeviceSerialNumber,345,345,0,0,0,no,0
+Comprehensive 3D SR Storage,prostatex_targets,SoftwareVersions,345,345,0,0,0,no,0
+Comprehensive 3D SR Storage,prostatex_targets,ImplementationVersionName,345,0,0,345,0,no,0
+Comprehensive 3D SR Storage,prostatex_targets,ImplementationClassUID,345,0,0,345,0,no,0
+Comprehensive 3D SR Storage,prostatex_targets,ContributingEquipmentSequence,345,0,0,345,0,no,0
+Comprehensive 3D SR Storage,prostatex_targets,ContentCreatorName,345,345,0,0,0,no,0
+Comprehensive 3D SR Storage,prostatex_targets,SeriesDescription,345,0,0,345,0,no,0
+Comprehensive 3D SR Storage,rms_mutation_prediction_expert_annotations,Manufacturer,96,0,0,96,0,no,0
+Comprehensive 3D SR Storage,rms_mutation_prediction_expert_annotations,ManufacturerModelName,96,0,0,96,0,no,0
+Comprehensive 3D SR Storage,rms_mutation_prediction_expert_annotations,DeviceSerialNumber,96,0,0,96,0,no,0
+Comprehensive 3D SR Storage,rms_mutation_prediction_expert_annotations,SoftwareVersions,96,0,0,96,0,no,0
+Comprehensive 3D SR Storage,rms_mutation_prediction_expert_annotations,ImplementationVersionName,96,0,0,96,0,no,0
+Comprehensive 3D SR Storage,rms_mutation_prediction_expert_annotations,ImplementationClassUID,96,0,0,96,0,no,0
+Comprehensive 3D SR Storage,rms_mutation_prediction_expert_annotations,ContributingEquipmentSequence,96,0,0,0,96,no,0
+Comprehensive 3D SR Storage,rms_mutation_prediction_expert_annotations,ContentCreatorName,96,96,0,0,0,no,0
+Comprehensive 3D SR Storage,rms_mutation_prediction_expert_annotations,SeriesDescription,96,0,0,96,0,no,0
+Comprehensive SR Storage,(null),Manufacturer,462,0,0,462,0,no,0
+Comprehensive SR Storage,(null),ManufacturerModelName,462,0,0,462,0,no,0
+Comprehensive SR Storage,(null),DeviceSerialNumber,462,462,0,0,0,no,0
+Comprehensive SR Storage,(null),SoftwareVersions,462,462,0,0,0,no,0
+Comprehensive SR Storage,(null),ImplementationVersionName,462,0,0,462,0,no,0
+Comprehensive SR Storage,(null),ImplementationClassUID,462,0,0,462,0,no,0
+Comprehensive SR Storage,(null),ContributingEquipmentSequence,462,0,0,0,462,no,0
+Comprehensive SR Storage,(null),ContentCreatorName,462,462,0,0,0,no,0
+Comprehensive SR Storage,(null),SeriesDescription,462,0,0,462,0,no,0
+Comprehensive SR Storage,dicom_sr_breast_clinical,Manufacturer,1292,0,0,1292,0,no,0
+Comprehensive SR Storage,dicom_sr_breast_clinical,ManufacturerModelName,1292,0,0,1292,0,no,0
+Comprehensive SR Storage,dicom_sr_breast_clinical,DeviceSerialNumber,1292,0,447,845,0,no,0
+Comprehensive SR Storage,dicom_sr_breast_clinical,SoftwareVersions,1292,0,0,1292,0,no,0
+Comprehensive SR Storage,dicom_sr_breast_clinical,ImplementationVersionName,1292,0,0,1292,0,no,0
+Comprehensive SR Storage,dicom_sr_breast_clinical,ImplementationClassUID,1292,0,0,1292,0,no,0
+Comprehensive SR Storage,dicom_sr_breast_clinical,ContributingEquipmentSequence,1292,0,0,0,1292,no,0
+Comprehensive SR Storage,dicom_sr_breast_clinical,ContentCreatorName,1292,1292,0,0,0,no,0
+Comprehensive SR Storage,dicom_sr_breast_clinical,SeriesDescription,1292,0,0,1292,0,no,0
+Comprehensive SR Storage,qiba_volct_1b,Manufacturer,364,0,0,364,0,no,0
+Comprehensive SR Storage,qiba_volct_1b,ManufacturerModelName,364,0,0,364,0,no,0
+Comprehensive SR Storage,qiba_volct_1b,DeviceSerialNumber,364,260,0,104,0,no,0
+Comprehensive SR Storage,qiba_volct_1b,SoftwareVersions,364,0,0,364,0,no,0
+Comprehensive SR Storage,qiba_volct_1b,ImplementationVersionName,364,0,0,364,0,no,0
+Comprehensive SR Storage,qiba_volct_1b,ImplementationClassUID,364,0,0,364,0,no,0
+Comprehensive SR Storage,qiba_volct_1b,ContributingEquipmentSequence,364,0,0,0,364,no,0
+Comprehensive SR Storage,qiba_volct_1b,ContentCreatorName,364,364,0,0,0,no,0
+Comprehensive SR Storage,qiba_volct_1b,SeriesDescription,364,0,0,364,0,no,0
+Grayscale Softcopy Presentation State Storage,(null),Manufacturer,462,0,0,462,0,no,0
+Grayscale Softcopy Presentation State Storage,(null),ManufacturerModelName,462,462,0,0,0,no,0
+Grayscale Softcopy Presentation State Storage,(null),DeviceSerialNumber,462,462,0,0,0,no,0
+Grayscale Softcopy Presentation State Storage,(null),SoftwareVersions,462,462,0,0,0,no,0
+Grayscale Softcopy Presentation State Storage,(null),ImplementationVersionName,462,0,0,462,0,no,0
+Grayscale Softcopy Presentation State Storage,(null),ImplementationClassUID,462,0,0,462,0,no,0
+Grayscale Softcopy Presentation State Storage,(null),ContributingEquipmentSequence,462,0,0,0,462,no,0
+Grayscale Softcopy Presentation State Storage,(null),ContentCreatorName,462,0,462,0,0,no,0
+Grayscale Softcopy Presentation State Storage,(null),SeriesDescription,462,462,0,0,0,no,0
+Grayscale Softcopy Presentation State Storage,qiba_volct_1b,Manufacturer,624,0,104,520,0,no,0
+Grayscale Softcopy Presentation State Storage,qiba_volct_1b,ManufacturerModelName,624,104,0,520,0,no,0
+Grayscale Softcopy Presentation State Storage,qiba_volct_1b,DeviceSerialNumber,624,624,0,0,0,no,0
+Grayscale Softcopy Presentation State Storage,qiba_volct_1b,SoftwareVersions,624,104,0,520,0,no,0
+Grayscale Softcopy Presentation State Storage,qiba_volct_1b,ImplementationVersionName,624,0,0,624,0,no,0
+Grayscale Softcopy Presentation State Storage,qiba_volct_1b,ImplementationClassUID,624,0,0,624,0,no,0
+Grayscale Softcopy Presentation State Storage,qiba_volct_1b,ContributingEquipmentSequence,624,0,0,0,624,no,0
+Grayscale Softcopy Presentation State Storage,qiba_volct_1b,ContentCreatorName,624,0,560,64,0,no,0
+Grayscale Softcopy Presentation State Storage,qiba_volct_1b,SeriesDescription,624,624,0,0,0,no,0
+Key Object Selection Document Storage,(null),Manufacturer,40,40,0,0,0,no,0
+Key Object Selection Document Storage,(null),ManufacturerModelName,40,40,0,0,0,no,0
+Key Object Selection Document Storage,(null),DeviceSerialNumber,40,40,0,0,0,no,0
+Key Object Selection Document Storage,(null),SoftwareVersions,40,40,0,0,0,no,0
+Key Object Selection Document Storage,(null),ImplementationVersionName,40,0,0,40,0,no,0
+Key Object Selection Document Storage,(null),ImplementationClassUID,40,0,0,40,0,no,0
+Key Object Selection Document Storage,(null),ContributingEquipmentSequence,40,0,0,0,40,no,0
+Key Object Selection Document Storage,(null),ContentCreatorName,40,40,0,0,0,no,0
+Key Object Selection Document Storage,(null),SeriesDescription,40,0,0,40,0,no,0
+Parametric Map Storage,tcga_gbm360,Manufacturer,691,0,0,691,0,yes,0
+Parametric Map Storage,tcga_gbm360,ManufacturerModelName,691,0,0,691,0,yes,0
+Parametric Map Storage,tcga_gbm360,DeviceSerialNumber,691,0,0,691,0,yes,0
+Parametric Map Storage,tcga_gbm360,SoftwareVersions,691,0,0,691,0,yes,0
+Parametric Map Storage,tcga_gbm360,ImplementationVersionName,691,0,0,691,0,no,0
+Parametric Map Storage,tcga_gbm360,ImplementationClassUID,691,0,0,691,0,no,0
+Parametric Map Storage,tcga_gbm360,ContributingEquipmentSequence,691,0,0,691,0,no,0
+Parametric Map Storage,tcga_gbm360,ContentCreatorName,691,0,691,0,0,no,0
+Parametric Map Storage,tcga_gbm360,SeriesDescription,691,0,0,691,0,no,0
+RT Structure Set Storage,(null),Manufacturer,3115,0,275,2840,0,no,0
+RT Structure Set Storage,(null),ManufacturerModelName,3115,0,0,3115,0,no,0
+RT Structure Set Storage,(null),DeviceSerialNumber,3115,2579,152,384,0,no,0
+RT Structure Set Storage,(null),SoftwareVersions,3115,0,0,3115,0,no,0
+RT Structure Set Storage,(null),ImplementationVersionName,3115,0,0,3115,0,no,0
+RT Structure Set Storage,(null),ImplementationClassUID,3115,0,0,3115,0,no,0
+RT Structure Set Storage,(null),ContributingEquipmentSequence,3115,0,0,0,3115,no,0
+RT Structure Set Storage,(null),ContentCreatorName,3115,3115,0,0,0,no,0
+RT Structure Set Storage,(null),SeriesDescription,3115,1068,1,2046,0,no,0
+RT Structure Set Storage,cptac_ccrcc_tumor_annotations,Manufacturer,636,0,0,636,0,no,0
+RT Structure Set Storage,cptac_ccrcc_tumor_annotations,ManufacturerModelName,636,0,0,636,0,no,0
+RT Structure Set Storage,cptac_ccrcc_tumor_annotations,DeviceSerialNumber,636,636,0,0,0,no,0
+RT Structure Set Storage,cptac_ccrcc_tumor_annotations,SoftwareVersions,636,1,0,635,0,no,0
+RT Structure Set Storage,cptac_ccrcc_tumor_annotations,ImplementationVersionName,636,0,0,636,0,no,0
+RT Structure Set Storage,cptac_ccrcc_tumor_annotations,ImplementationClassUID,636,0,0,636,0,no,0
+RT Structure Set Storage,cptac_ccrcc_tumor_annotations,ContributingEquipmentSequence,636,0,0,0,636,no,0
+RT Structure Set Storage,cptac_ccrcc_tumor_annotations,ContentCreatorName,636,636,0,0,0,no,0
+RT Structure Set Storage,cptac_ccrcc_tumor_annotations,SeriesDescription,636,0,0,636,0,no,0
+RT Structure Set Storage,cptac_pda_tumor_annotations,Manufacturer,536,0,0,536,0,no,0
+RT Structure Set Storage,cptac_pda_tumor_annotations,ManufacturerModelName,536,0,0,536,0,no,0
+RT Structure Set Storage,cptac_pda_tumor_annotations,DeviceSerialNumber,536,536,0,0,0,no,0
+RT Structure Set Storage,cptac_pda_tumor_annotations,SoftwareVersions,536,198,0,338,0,no,0
+RT Structure Set Storage,cptac_pda_tumor_annotations,ImplementationVersionName,536,0,0,536,0,no,0
+RT Structure Set Storage,cptac_pda_tumor_annotations,ImplementationClassUID,536,0,0,536,0,no,0
+RT Structure Set Storage,cptac_pda_tumor_annotations,ContributingEquipmentSequence,536,0,0,0,536,no,0
+RT Structure Set Storage,cptac_pda_tumor_annotations,ContentCreatorName,536,536,0,0,0,no,0
+RT Structure Set Storage,cptac_pda_tumor_annotations,SeriesDescription,536,0,0,536,0,no,0
+RT Structure Set Storage,cptac_ucec_tumor_annotations,Manufacturer,617,0,0,617,0,no,0
+RT Structure Set Storage,cptac_ucec_tumor_annotations,ManufacturerModelName,617,0,0,617,0,no,0
+RT Structure Set Storage,cptac_ucec_tumor_annotations,DeviceSerialNumber,617,617,0,0,0,no,0
+RT Structure Set Storage,cptac_ucec_tumor_annotations,SoftwareVersions,617,208,0,409,0,no,0
+RT Structure Set Storage,cptac_ucec_tumor_annotations,ImplementationVersionName,617,0,0,617,0,no,0
+RT Structure Set Storage,cptac_ucec_tumor_annotations,ImplementationClassUID,617,0,0,617,0,no,0
+RT Structure Set Storage,cptac_ucec_tumor_annotations,ContributingEquipmentSequence,617,0,0,0,617,no,0
+RT Structure Set Storage,cptac_ucec_tumor_annotations,ContentCreatorName,617,617,0,0,0,no,0
+RT Structure Set Storage,cptac_ucec_tumor_annotations,SeriesDescription,617,0,0,617,0,no,0
+RT Structure Set Storage,eay131_tumor_annotations,Manufacturer,14395,0,0,14395,0,no,0
+RT Structure Set Storage,eay131_tumor_annotations,ManufacturerModelName,14395,0,0,14395,0,no,0
+RT Structure Set Storage,eay131_tumor_annotations,DeviceSerialNumber,14395,14395,0,0,0,no,0
+RT Structure Set Storage,eay131_tumor_annotations,SoftwareVersions,14395,791,0,13604,0,no,0
+RT Structure Set Storage,eay131_tumor_annotations,ImplementationVersionName,14395,0,0,14395,0,no,0
+RT Structure Set Storage,eay131_tumor_annotations,ImplementationClassUID,14395,0,0,14395,0,no,0
+RT Structure Set Storage,eay131_tumor_annotations,ContributingEquipmentSequence,14395,0,0,0,14395,no,0
+RT Structure Set Storage,eay131_tumor_annotations,ContentCreatorName,14395,14395,0,0,0,no,0
+RT Structure Set Storage,eay131_tumor_annotations,SeriesDescription,14395,0,0,14395,0,no,0
+RT Structure Set Storage,rider_lungct_seg,Manufacturer,59,0,0,59,0,no,0
+RT Structure Set Storage,rider_lungct_seg,ManufacturerModelName,59,0,0,59,0,no,0
+RT Structure Set Storage,rider_lungct_seg,DeviceSerialNumber,59,2,57,0,0,no,0
+RT Structure Set Storage,rider_lungct_seg,SoftwareVersions,59,0,0,59,0,no,0
+RT Structure Set Storage,rider_lungct_seg,ImplementationVersionName,59,0,0,59,0,no,0
+RT Structure Set Storage,rider_lungct_seg,ImplementationClassUID,59,0,0,59,0,no,0
+RT Structure Set Storage,rider_lungct_seg,ContributingEquipmentSequence,59,0,0,0,59,no,0
+RT Structure Set Storage,rider_lungct_seg,ContentCreatorName,59,59,0,0,0,no,0
+RT Structure Set Storage,rider_lungct_seg,SeriesDescription,59,0,0,59,0,no,0
+Real World Value Mapping Storage,(null),Manufacturer,20,0,0,20,0,no,0
+Real World Value Mapping Storage,(null),ManufacturerModelName,20,20,0,0,0,no,0
+Real World Value Mapping Storage,(null),DeviceSerialNumber,20,20,0,0,0,no,0
+Real World Value Mapping Storage,(null),SoftwareVersions,20,0,0,20,0,no,0
+Real World Value Mapping Storage,(null),ImplementationVersionName,20,0,0,20,0,no,0
+Real World Value Mapping Storage,(null),ImplementationClassUID,20,0,0,20,0,no,0
+Real World Value Mapping Storage,(null),ContributingEquipmentSequence,20,0,0,0,20,no,0
+Real World Value Mapping Storage,(null),ContentCreatorName,20,0,20,0,0,no,0
+Real World Value Mapping Storage,(null),SeriesDescription,20,0,0,20,0,no,0
+Segmentation Storage,(null),Manufacturer,1632,0,0,1632,0,yes,0
+Segmentation Storage,(null),ManufacturerModelName,1632,0,0,1632,0,yes,0
+Segmentation Storage,(null),DeviceSerialNumber,1632,876,397,359,0,yes,1273
+Segmentation Storage,(null),SoftwareVersions,1632,0,0,1632,0,yes,0
+Segmentation Storage,(null),ImplementationVersionName,1632,0,0,1632,0,no,0
+Segmentation Storage,(null),ImplementationClassUID,1632,0,0,1632,0,no,0
+Segmentation Storage,(null),ContributingEquipmentSequence,1632,1632,0,0,0,no,0
+Segmentation Storage,(null),ContentCreatorName,1632,0,1183,449,0,no,0
+Segmentation Storage,(null),SeriesDescription,1632,25,0,1607,0,no,0
+Segmentation Storage,bamf_aimi_annotations,Manufacturer,384,0,0,384,0,yes,0
+Segmentation Storage,bamf_aimi_annotations,ManufacturerModelName,384,0,0,384,0,yes,0
+Segmentation Storage,bamf_aimi_annotations,DeviceSerialNumber,384,0,0,384,0,yes,0
+Segmentation Storage,bamf_aimi_annotations,SoftwareVersions,384,0,0,384,0,yes,0
+Segmentation Storage,bamf_aimi_annotations,ImplementationVersionName,384,0,0,384,0,no,0
+Segmentation Storage,bamf_aimi_annotations,ImplementationClassUID,384,0,0,384,0,no,0
+Segmentation Storage,bamf_aimi_annotations,ContributingEquipmentSequence,384,384,0,0,0,no,0
+Segmentation Storage,bamf_aimi_annotations,ContentCreatorName,384,0,0,384,0,no,0
+Segmentation Storage,bamf_aimi_annotations,SeriesDescription,384,0,0,384,0,no,0
+Segmentation Storage,dicom_lidc_idri_nodules,Manufacturer,384,0,0,384,0,yes,0
+Segmentation Storage,dicom_lidc_idri_nodules,ManufacturerModelName,384,0,0,384,0,yes,0
+Segmentation Storage,dicom_lidc_idri_nodules,DeviceSerialNumber,384,0,0,384,0,yes,0
+Segmentation Storage,dicom_lidc_idri_nodules,SoftwareVersions,384,0,0,384,0,yes,0
+Segmentation Storage,dicom_lidc_idri_nodules,ImplementationVersionName,384,0,0,384,0,no,0
+Segmentation Storage,dicom_lidc_idri_nodules,ImplementationClassUID,384,0,0,384,0,no,0
+Segmentation Storage,dicom_lidc_idri_nodules,ContributingEquipmentSequence,384,384,0,0,0,no,0
+Segmentation Storage,dicom_lidc_idri_nodules,ContentCreatorName,384,0,0,384,0,no,0
+Segmentation Storage,dicom_lidc_idri_nodules,SeriesDescription,384,0,0,384,0,no,0
+Segmentation Storage,eay131_tumor_annotations,Manufacturer,384,0,0,384,0,yes,0
+Segmentation Storage,eay131_tumor_annotations,ManufacturerModelName,384,0,0,384,0,yes,0
+Segmentation Storage,eay131_tumor_annotations,DeviceSerialNumber,384,0,0,384,0,yes,0
+Segmentation Storage,eay131_tumor_annotations,SoftwareVersions,384,0,0,384,0,yes,0
+Segmentation Storage,eay131_tumor_annotations,ImplementationVersionName,384,0,0,384,0,no,0
+Segmentation Storage,eay131_tumor_annotations,ImplementationClassUID,384,0,0,384,0,no,0
+Segmentation Storage,eay131_tumor_annotations,ContributingEquipmentSequence,384,384,0,0,0,no,0
+Segmentation Storage,eay131_tumor_annotations,ContentCreatorName,384,0,384,0,0,no,0
+Segmentation Storage,eay131_tumor_annotations,SeriesDescription,384,0,0,384,0,no,0
+Segmentation Storage,nlstseg,Manufacturer,384,0,0,384,0,yes,0
+Segmentation Storage,nlstseg,ManufacturerModelName,384,0,0,384,0,yes,0
+Segmentation Storage,nlstseg,DeviceSerialNumber,384,0,0,384,0,yes,0
+Segmentation Storage,nlstseg,SoftwareVersions,384,0,0,384,0,yes,0
+Segmentation Storage,nlstseg,ImplementationVersionName,384,0,0,384,0,no,0
+Segmentation Storage,nlstseg,ImplementationClassUID,384,0,0,384,0,no,0
+Segmentation Storage,nlstseg,ContributingEquipmentSequence,384,384,0,0,0,no,0
+Segmentation Storage,nlstseg,ContentCreatorName,384,0,0,384,0,no,0
+Segmentation Storage,nlstseg,SeriesDescription,384,0,0,384,0,no,0
+Segmentation Storage,nnu_net_bpr_annotations,Manufacturer,384,0,0,384,0,yes,0
+Segmentation Storage,nnu_net_bpr_annotations,ManufacturerModelName,384,0,0,384,0,yes,0
+Segmentation Storage,nnu_net_bpr_annotations,DeviceSerialNumber,384,0,0,384,0,yes,0
+Segmentation Storage,nnu_net_bpr_annotations,SoftwareVersions,384,0,0,384,0,yes,0
+Segmentation Storage,nnu_net_bpr_annotations,ImplementationVersionName,384,0,0,384,0,no,0
+Segmentation Storage,nnu_net_bpr_annotations,ImplementationClassUID,384,0,0,384,0,no,0
+Segmentation Storage,nnu_net_bpr_annotations,ContributingEquipmentSequence,384,384,0,0,0,no,0
+Segmentation Storage,nnu_net_bpr_annotations,ContentCreatorName,384,0,0,384,0,no,0
+Segmentation Storage,nnu_net_bpr_annotations,SeriesDescription,384,0,0,384,0,no,0
+Segmentation Storage,pan_cancer_nuclei_seg_dicom,Manufacturer,356,0,0,356,0,yes,0
+Segmentation Storage,pan_cancer_nuclei_seg_dicom,ManufacturerModelName,356,0,0,356,0,yes,0
+Segmentation Storage,pan_cancer_nuclei_seg_dicom,DeviceSerialNumber,356,0,0,356,0,yes,0
+Segmentation Storage,pan_cancer_nuclei_seg_dicom,SoftwareVersions,356,0,0,356,0,yes,0
+Segmentation Storage,pan_cancer_nuclei_seg_dicom,ImplementationVersionName,356,0,0,356,0,no,0
+Segmentation Storage,pan_cancer_nuclei_seg_dicom,ImplementationClassUID,356,0,0,356,0,no,0
+Segmentation Storage,pan_cancer_nuclei_seg_dicom,ContributingEquipmentSequence,356,356,0,0,0,no,0
+Segmentation Storage,pan_cancer_nuclei_seg_dicom,ContentCreatorName,356,0,356,0,0,no,0
+Segmentation Storage,pan_cancer_nuclei_seg_dicom,SeriesDescription,356,356,0,0,0,no,0
+Segmentation Storage,pancreas_ct_seg,Manufacturer,80,0,0,80,0,yes,0
+Segmentation Storage,pancreas_ct_seg,ManufacturerModelName,80,0,0,80,0,yes,0
+Segmentation Storage,pancreas_ct_seg,DeviceSerialNumber,80,0,0,80,0,yes,0
+Segmentation Storage,pancreas_ct_seg,SoftwareVersions,80,0,0,80,0,yes,0
+Segmentation Storage,pancreas_ct_seg,ImplementationVersionName,80,0,0,80,0,no,0
+Segmentation Storage,pancreas_ct_seg,ImplementationClassUID,80,0,0,80,0,no,0
+Segmentation Storage,pancreas_ct_seg,ContributingEquipmentSequence,80,80,0,0,0,no,0
+Segmentation Storage,pancreas_ct_seg,ContentCreatorName,80,0,0,80,0,no,0
+Segmentation Storage,pancreas_ct_seg,SeriesDescription,80,0,0,80,0,no,0
+Segmentation Storage,prostate_mri_us_biopsy_dicom_annotations,Manufacturer,384,0,0,384,0,yes,0
+Segmentation Storage,prostate_mri_us_biopsy_dicom_annotations,ManufacturerModelName,384,0,0,384,0,yes,0
+Segmentation Storage,prostate_mri_us_biopsy_dicom_annotations,DeviceSerialNumber,384,0,0,384,0,yes,0
+Segmentation Storage,prostate_mri_us_biopsy_dicom_annotations,SoftwareVersions,384,0,0,384,0,yes,0
+Segmentation Storage,prostate_mri_us_biopsy_dicom_annotations,ImplementationVersionName,384,0,0,384,0,no,0
+Segmentation Storage,prostate_mri_us_biopsy_dicom_annotations,ImplementationClassUID,384,0,0,384,0,no,0
+Segmentation Storage,prostate_mri_us_biopsy_dicom_annotations,ContributingEquipmentSequence,384,384,0,0,0,no,0
+Segmentation Storage,prostate_mri_us_biopsy_dicom_annotations,ContentCreatorName,384,0,0,384,0,no,0
+Segmentation Storage,prostate_mri_us_biopsy_dicom_annotations,SeriesDescription,384,0,0,384,0,no,0
+Segmentation Storage,prostatex_seg_hires,Manufacturer,66,0,0,66,0,yes,0
+Segmentation Storage,prostatex_seg_hires,ManufacturerModelName,66,0,0,66,0,yes,0
+Segmentation Storage,prostatex_seg_hires,DeviceSerialNumber,66,0,0,66,0,yes,0
+Segmentation Storage,prostatex_seg_hires,SoftwareVersions,66,0,0,66,0,yes,0
+Segmentation Storage,prostatex_seg_hires,ImplementationVersionName,66,0,0,66,0,no,0
+Segmentation Storage,prostatex_seg_hires,ImplementationClassUID,66,0,0,66,0,no,0
+Segmentation Storage,prostatex_seg_hires,ContributingEquipmentSequence,66,66,0,0,0,no,0
+Segmentation Storage,prostatex_seg_hires,ContentCreatorName,66,0,0,66,0,no,0
+Segmentation Storage,prostatex_seg_hires,SeriesDescription,66,0,0,66,0,no,0
+Segmentation Storage,prostatex_seg_zones,Manufacturer,98,0,0,98,0,yes,0
+Segmentation Storage,prostatex_seg_zones,ManufacturerModelName,98,0,0,98,0,yes,0
+Segmentation Storage,prostatex_seg_zones,DeviceSerialNumber,98,0,0,98,0,yes,0
+Segmentation Storage,prostatex_seg_zones,SoftwareVersions,98,0,0,98,0,yes,0
+Segmentation Storage,prostatex_seg_zones,ImplementationVersionName,98,0,0,98,0,no,0
+Segmentation Storage,prostatex_seg_zones,ImplementationClassUID,98,0,0,98,0,no,0
+Segmentation Storage,prostatex_seg_zones,ContributingEquipmentSequence,98,98,0,0,0,no,0
+Segmentation Storage,prostatex_seg_zones,ContentCreatorName,98,0,0,98,0,no,0
+Segmentation Storage,prostatex_seg_zones,SeriesDescription,98,0,0,98,0,no,0
+Segmentation Storage,qiba_volct_1b,Manufacturer,384,0,0,384,0,yes,0
+Segmentation Storage,qiba_volct_1b,ManufacturerModelName,384,0,0,384,0,yes,0
+Segmentation Storage,qiba_volct_1b,DeviceSerialNumber,384,0,0,384,0,yes,0
+Segmentation Storage,qiba_volct_1b,SoftwareVersions,384,0,0,384,0,yes,0
+Segmentation Storage,qiba_volct_1b,ImplementationVersionName,384,0,0,384,0,no,0
+Segmentation Storage,qiba_volct_1b,ImplementationClassUID,384,0,0,384,0,no,0
+Segmentation Storage,qiba_volct_1b,ContributingEquipmentSequence,384,384,0,0,0,no,0
+Segmentation Storage,qiba_volct_1b,ContentCreatorName,384,0,0,384,0,no,0
+Segmentation Storage,qiba_volct_1b,SeriesDescription,384,384,0,0,0,no,0
+Segmentation Storage,qin_lungct_seg,Manufacturer,378,0,0,378,0,yes,0
+Segmentation Storage,qin_lungct_seg,ManufacturerModelName,378,0,0,378,0,yes,0
+Segmentation Storage,qin_lungct_seg,DeviceSerialNumber,378,90,0,288,0,yes,90
+Segmentation Storage,qin_lungct_seg,SoftwareVersions,378,0,0,378,0,yes,0
+Segmentation Storage,qin_lungct_seg,ImplementationVersionName,378,0,0,378,0,no,0
+Segmentation Storage,qin_lungct_seg,ImplementationClassUID,378,0,0,378,0,no,0
+Segmentation Storage,qin_lungct_seg,ContributingEquipmentSequence,378,378,0,0,0,no,0
+Segmentation Storage,qin_lungct_seg,ContentCreatorName,378,0,0,378,0,no,0
+Segmentation Storage,qin_lungct_seg,SeriesDescription,378,0,0,378,0,no,0
+Segmentation Storage,rider_lungct_seg,Manufacturer,59,0,0,59,0,yes,0
+Segmentation Storage,rider_lungct_seg,ManufacturerModelName,59,0,0,59,0,yes,0
+Segmentation Storage,rider_lungct_seg,DeviceSerialNumber,59,0,0,59,0,yes,0
+Segmentation Storage,rider_lungct_seg,SoftwareVersions,59,0,0,59,0,yes,0
+Segmentation Storage,rider_lungct_seg,ImplementationVersionName,59,0,0,59,0,no,0
+Segmentation Storage,rider_lungct_seg,ImplementationClassUID,59,0,0,59,0,no,0
+Segmentation Storage,rider_lungct_seg,ContributingEquipmentSequence,59,59,0,0,0,no,0
+Segmentation Storage,rider_lungct_seg,ContentCreatorName,59,0,0,59,0,no,0
+Segmentation Storage,rider_lungct_seg,SeriesDescription,59,0,0,59,0,no,0
+Segmentation Storage,rms_mutation_prediction_expert_annotations,Manufacturer,261,0,0,261,0,yes,0
+Segmentation Storage,rms_mutation_prediction_expert_annotations,ManufacturerModelName,261,0,0,261,0,yes,0
+Segmentation Storage,rms_mutation_prediction_expert_annotations,DeviceSerialNumber,261,0,0,261,0,yes,0
+Segmentation Storage,rms_mutation_prediction_expert_annotations,SoftwareVersions,261,0,0,261,0,yes,0
+Segmentation Storage,rms_mutation_prediction_expert_annotations,ImplementationVersionName,261,0,0,261,0,no,0
+Segmentation Storage,rms_mutation_prediction_expert_annotations,ImplementationClassUID,261,0,0,261,0,no,0
+Segmentation Storage,rms_mutation_prediction_expert_annotations,ContributingEquipmentSequence,261,261,0,0,0,no,0
+Segmentation Storage,rms_mutation_prediction_expert_annotations,ContentCreatorName,261,0,261,0,0,no,0
+Segmentation Storage,rms_mutation_prediction_expert_annotations,SeriesDescription,261,0,0,261,0,no,0
+Segmentation Storage,tcga_sbu_til_maps,Manufacturer,384,0,0,384,0,yes,0
+Segmentation Storage,tcga_sbu_til_maps,ManufacturerModelName,384,0,0,384,0,yes,0
+Segmentation Storage,tcga_sbu_til_maps,DeviceSerialNumber,384,0,0,384,0,yes,0
+Segmentation Storage,tcga_sbu_til_maps,SoftwareVersions,384,0,0,384,0,yes,0
+Segmentation Storage,tcga_sbu_til_maps,ImplementationVersionName,384,0,0,384,0,no,0
+Segmentation Storage,tcga_sbu_til_maps,ImplementationClassUID,384,0,0,384,0,no,0
+Segmentation Storage,tcga_sbu_til_maps,ContributingEquipmentSequence,384,0,0,384,0,no,0
+Segmentation Storage,tcga_sbu_til_maps,ContentCreatorName,384,0,384,0,0,no,0
+Segmentation Storage,tcga_sbu_til_maps,SeriesDescription,384,0,0,384,0,no,0
+Segmentation Storage,totalsegmentator_ct_segmentations,Manufacturer,384,0,0,384,0,yes,0
+Segmentation Storage,totalsegmentator_ct_segmentations,ManufacturerModelName,384,0,0,384,0,yes,0
+Segmentation Storage,totalsegmentator_ct_segmentations,DeviceSerialNumber,384,0,0,384,0,yes,0
+Segmentation Storage,totalsegmentator_ct_segmentations,SoftwareVersions,384,0,0,384,0,yes,0
+Segmentation Storage,totalsegmentator_ct_segmentations,ImplementationVersionName,384,0,0,384,0,no,0
+Segmentation Storage,totalsegmentator_ct_segmentations,ImplementationClassUID,384,0,0,384,0,no,0
+Segmentation Storage,totalsegmentator_ct_segmentations,ContributingEquipmentSequence,384,384,0,0,0,no,0
+Segmentation Storage,totalsegmentator_ct_segmentations,ContentCreatorName,384,0,0,384,0,no,0
+Segmentation Storage,totalsegmentator_ct_segmentations,SeriesDescription,384,0,0,384,0,no,0

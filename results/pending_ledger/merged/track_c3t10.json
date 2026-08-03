@@ -1,0 +1,23 @@
+[
+  {
+    "id": "C3T-10",
+    "section": "C3T",
+    "section_title": "Claim 3, complete tabulation",
+    "claim": "The object-weighted headline is concentrated in one class, and the leave-one-class-out sensitivity is reported beside it.",
+    "status": "MEASURED",
+    "value": "RT Structure Set Storage is 19,358 of 35,107 objects, 55.14 percent of the denominator, and is 100.00 percent conformant but uninformative with 0 informative and 0 non-conformant. Dropping it alone moves the archive-wide rate from 82.33 to 60.62 percent uninformative and from 13.67 to 30.47 percent informative over the remaining 15,749 objects. Dropping Segmentation instead moves it to 89.39 percent; no other class moves it by more than about 1.7 points.",
+    "n": "19,358",
+    "denominator": "35,107",
+    "floor": "not applicable, no validator is involved",
+    "dropped": "the sensitivity is reported for every class in Table 2 rather than for the largest alone",
+    "sop_class": "all measured classes",
+    "validator": "none",
+    "validator_version": "not applicable",
+    "command": "python -m colophon.manuscript_tables",
+    "source_file": "results/manuscript/table2.csv",
+    "derived_from": "C3T-00",
+    "pinned_by_test": "tests/test_manuscript_tables.py::test_leave_one_class_out_is_reported",
+    "status_note": "The paper argues that object-weighted rates are distorted by concentration and reports leave-one-collection-out reasoning elsewhere. Reporting its own headline over a denominator where one class carries the majority, without that sensitivity, would apply the argument to everyone except itself. The analysis-result unit is unaffected, which is the reason it is the stated lead.",
+    "notes": "RT Structure Set is 100 percent uninformative because its writers populate the equipment attributes with a viewer and a converter rather than with a producing analysis, which is the same finding the rest of the paper reports and not a separate one."
+  }
+]

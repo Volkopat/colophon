@@ -1,0 +1,18 @@
+tag,keyword,table,module,manuscript_relies_on,type_asserted,type_in_2026c,nested_in,reproduces
+"(0062,0008)",SegmentAlgorithmType,C.8.20-4,Segment Description Macro,"STD-03, P3-11",1,1,,yes
+"(0062,0009)",SegmentAlgorithmName,C.8.20.2,"Segmentation Image Module, inside Segment Sequence","STD-03, P3-05",1C,1C,"(0062,0002)/",yes
+"(0062,0007)",SegmentationAlgorithmIdentificationSequence,C.8.20.2,"Segmentation Image Module, inside Segment Sequence","STD-02, P3-01",3,3,"(0062,0002)/",yes
+"(0062,0007)",SegmentationAlgorithmIdentificationSequence,C.8.20.5,"Height Map Segmentation Image Module, not included by the Segmentation IOD",STD-02,1C,1C,"(0062,0002)/",yes
+"(0066,002F)",AlgorithmFamilyCodeSequence,10-19,Algorithm Identification Macro,"STD-01, P3-02",1,1,,yes
+"(0066,0036)",AlgorithmName,10-19,Algorithm Identification Macro,"STD-01, P3-02",1,1,,yes
+"(0066,0031)",AlgorithmVersion,10-19,Algorithm Identification Macro,"STD-01, P3-02",1,1,,yes
+"(0066,0030)",AlgorithmNameCodeSequence,10-19,Algorithm Identification Macro,STD-01,3,3,,yes
+"(0066,0032)",AlgorithmParameters,10-19,"Algorithm Identification Macro, tag corrected from the brief",STD-01,3,3,,yes
+"(0024,0202)",AlgorithmSource,10-19,"Algorithm Identification Macro, tag corrected from the brief",STD-01,3,3,,yes
+"(0008,0070)",Manufacturer,C.7.5.1,General Equipment Module,"STD-04, C3T-08",2,2,,yes
+"(0008,0070)",Manufacturer,C.7.5.2,Enhanced General Equipment Module,STD-04,1,1,,yes
+"(0008,1090)",ManufacturerModelName,C.7.5.2,Enhanced General Equipment Module,STD-04,1,1,,yes
+"(0018,1000)",DeviceSerialNumber,C.7.5.2,Enhanced General Equipment Module,"STD-04, C3T-08",1,1,,yes
+"(0018,1020)",SoftwareVersions,C.7.5.2,Enhanced General Equipment Module,STD-04,1,1,,yes
+"(0018,1020)",SoftwareVersions,C.7.5.1,General Equipment Module,STD-04,3,3,,yes
+"(0018,A001)",ContributingEquipmentSequence,C.12.1,SOP Common Module,"C3T-06, P3-06",3,3,,yes

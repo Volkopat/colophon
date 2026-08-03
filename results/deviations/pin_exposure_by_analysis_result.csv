@@ -1,0 +1,4 @@
+sop_class_name,analysis_result_id,condition,objects,objects_in_cell,pct_of_cell
+Segmentation Storage,tcga_sbu_til_maps,TILED_FULL,384,384,100.0
+Segmentation Storage,pan_cancer_nuclei_seg_dicom,TILED_FULL,356,356,100.0
+Segmentation Storage,rms_mutation_prediction_expert_annotations,TILED_FULL,261,261,100.0

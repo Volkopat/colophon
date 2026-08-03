@@ -1,0 +1,13 @@
+rule,category,distinct_spellings,series,spellings
+dcmqi,encoder,6,411865,"https://github.com/QIICR/dcmqi [380,712] || https://github.com/QIICR/dcmqi.git [16,668] || git@github.com:QIICR/dcmqi.git [13,478] || https://github.com/qiicr/dcmqi.git [720] || git://github.com/QIICR/dcmqi.git [197] || https://github.com/fedorov/dcmqi.git [90]"
+converted by IDC,conversion,2,21030,"TIL Inception-V4 2022 converted by Imaging Data Commons [15,868] || TIL Custom CNN 2018 converted by Imaging Data Commons [5,162]"
+OHIF,application,1,16184,"OHIF-XNAT Viewer 3.2.0 [16,184]"
+highdicom,encoder,3,2097,"https://github.com/ImagingDataCommons/highdicom.git [1,404] || https://github.com/imagingdatacommons/highdicom [597] || Aperio ImageScope converted with highdicom [96]"
+pydicom-seg,encoder,1,1991,"https://github.com/razorx89/pydicom-seg [1,991]"
+XSLT,encoder,1,1292,"XSLT from di3data csv extract [1,292]"
+ARIA,application,2,992,ARIA RadOnc [520] || ARIA RTM [472]
+Pinnacle,application,1,800,Pinnacle3 [800]
+MIM,application,1,563,MIM [563]
+GammaPlan,application,1,484,GammaPlan [484]
+QIICR Reporting,encoder,1,474,https://github.com/fedorov/Reporting [474]
+plastimatch,encoder,1,1,Plastimatch [1]

@@ -1,0 +1,693 @@
+{
+  "figure1": {
+    "source_artefact": "D:\\Radiology\\Colophon\\results\\claim3\\t33_recoverability_ladder.csv",
+    "ledger_rows": [
+      "C3T-03"
+    ],
+    "command": "python -m colophon.figures",
+    "title_for_the_legend": "Producer identity appears at no carrier level in 25 of 36 analysis-result cells.",
+    "key_for_the_legend": "",
+    "annotated_values": {
+      "cells": 36,
+      "none": 25,
+      "version": 4,
+      "level_1": 8,
+      "level_3": 2,
+      "level_4": 1
+    },
+    "pdf": "D:\\Radiology\\Colophon\\results\\figures\\figure1.pdf",
+    "png": "D:\\Radiology\\Colophon\\results\\figures\\figure1.png",
+    "sha256_pdf": "bafbfd6712d8f466"
+  },
+  "figure2": {
+    "source_artefact": "D:\\Radiology\\Colophon\\results\\manuscript\\table2.csv",
+    "ledger_rows": [
+      "C3T-00",
+      "STD-04",
+      "STD-08"
+    ],
+    "command": "python -m colophon.figures",
+    "title_for_the_legend": "Conformance and attribution are independent, and the ceiling is the standard's.",
+    "key_for_the_legend": "Filled square: Enhanced General Equipment binds four attributes at Type 1. Hatched square: it does not, so absence of model, serial or software version is legal there. Every class still binds Manufacturer at Type 2, which is why KOS is non-conformant while its square is unfilled.",
+    "annotated_values": {
+      "objects": 35107,
+      "iods_binding_type1": 2,
+      "iods_not_binding": 6
+    },
+    "pdf": "D:\\Radiology\\Colophon\\results\\figures\\figure2.pdf",
+    "png": "D:\\Radiology\\Colophon\\results\\figures\\figure2.png",
+    "sha256_pdf": "71626f23a3884770"
+  },
+  "figure3": {
+    "source_artefact": "D:\\Radiology\\Colophon\\results\\figures\\figure3_objects.json",
+    "ledger_rows": [
+      "C3T-06",
+      "DEV-02",
+      "FIG-02",
+      "P3-01",
+      "P3-05"
+    ],
+    "command": "python -m colophon.figures",
+    "title_for_the_legend": "All three record the serialiser exactly, and all three declare a non-MANUAL segment, so all three are compelled to supply a name. Supplying one is not the same as identifying anything.",
+    "key_for_the_legend": "",
+    "annotated_values": {
+      "dcmqi_sha": "7ae0873",
+      "dcmqi_algorithm_name": "TotalSegmentator v1.5.6",
+      "highdicom_algorithm_name": "Stony Brook TIL Segmentation Inception-V4 2022",
+      "silent_algorithm_type": "AUTOMATIC",
+      "silent_algorithm_name": "0"
+    },
+    "pdf": "D:\\Radiology\\Colophon\\results\\figures\\figure3.pdf",
+    "png": "D:\\Radiology\\Colophon\\results\\figures\\figure3.png",
+    "sha256_pdf": "50d7017f805b36ee"
+  },
+  "figure4": {
+    "source_artefact": "D:\\Radiology\\Colophon\\results\\phase1_variants.csv",
+    "ledger_rows": [
+      "B-02",
+      "B-03",
+      "B-05",
+      "B-10"
+    ],
+    "command": "python -m colophon.figures",
+    "title_for_the_legend": "The residue is the stable quantity. The Jaccard is not: it oscillates under one validator and holds under the other, so its value depends on which tool is asked.",
+    "key_for_the_legend": "",
+    "annotated_values": {
+      "rungs": 9,
+      "residue_dicom_validator_max": 1,
+      "residue_dciodvfy_max": 2
+    },
+    "pdf": "D:\\Radiology\\Colophon\\results\\figures\\figure4.pdf",
+    "png": "D:\\Radiology\\Colophon\\results\\figures\\figure4.png",
+    "sha256_pdf": "57abcf6ecd92e487"
+  },
+  "figure5": {
+    "source_artefact": "D:\\Radiology\\Colophon\\results\\adjudication2\\two_pass_comparison.csv",
+    "ledger_rows": [
+      "ADJ2-01",
+      "ADJ2-02"
+    ],
+    "command": "python -m colophon.figures",
+    "title_for_the_legend": "Two adjudication passes agree on the decision that reaches a rate. This is an intra-instrument check. a, the blind subset of 2,109 message classes, agreement 89.9 percent, Cohen's kappa 0.6241. b, the 147 pre-disclosed classes, excluded from the matrix.",
+    "key_for_the_legend": "",
+    "annotated_values": {
+      "blind_classes": 2109,
+      "kappa": 0.6241,
+      "agreement": 89.9,
+      "pre_disclosed": 147,
+      "total_classes": 2256
+    },
+    "pdf": "D:\\Radiology\\Colophon\\results\\figures\\figure5.pdf",
+    "png": "D:\\Radiology\\Colophon\\results\\figures\\figure5.png",
+    "sha256_pdf": "1eb808071c963062"
+  },
+  "figure6": {
+    "source_artefact": "D:\\Radiology\\Colophon\\results\\claim3\\encoder_only_by_collection.csv",
+    "ledger_rows": [
+      "C3T-02"
+    ],
+    "command": "python -m colophon.figures",
+    "title_for_the_legend": "Two point masses, not a spread: why no median is reported for these distributions.",
+    "key_for_the_legend": "",
+    "annotated_values": {
+      "collections": 83,
+      "at_zero": 44,
+      "at_hundred": 25,
+      "between": 14
+    },
+    "pdf": "D:\\Radiology\\Colophon\\results\\figures\\figure6.pdf",
+    "png": "D:\\Radiology\\Colophon\\results\\figures\\figure6.png",
+    "sha256_pdf": "837504de4bb9c90c"
+  },
+  "_contrast": {
+    "minimum_required": 4.5,
+    "pairs": [
+      {
+        "where": "figure3 column heads",
+        "fg": "#6e6e6e",
+        "bg": "#ffffff",
+        "ratio": 5.1
+      },
+      {
+        "where": "figure3 analysis result",
+        "fg": "#6e6e6e",
+        "bg": "#ffffff",
+        "ratio": 5.1
+      },
+      {
+        "where": "figure3 analysis result",
+        "fg": "#6e6e6e",
+        "bg": "#ffffff",
+        "ratio": 5.1
+      },
+      {
+        "where": "figure3 analysis result",
+        "fg": "#6e6e6e",
+        "bg": "#ffffff",
+        "ratio": 5.1
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#6e6e6e",
+        "bg": "#ffffff",
+        "ratio": 5.1
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#6e6e6e",
+        "bg": "#ffffff",
+        "ratio": 5.1
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#6e6e6e",
+        "bg": "#ffffff",
+        "ratio": 5.1
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#6e6e6e",
+        "bg": "#ffffff",
+        "ratio": 5.1
+      },
+      {
+        "where": "figure3 rule key",
+        "fg": "#6e6e6e",
+        "bg": "#ffffff",
+        "ratio": 5.1
+      },
+      {
+        "where": "figure4 mass label",
+        "fg": "#6e6e6e",
+        "bg": "#ffffff",
+        "ratio": 5.1
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#111111",
+        "bg": "#b8b8b8",
+        "ratio": 9.52
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#ffffff",
+        "bg": "#1b4965",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#ffffff",
+        "bg": "#1b4965",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#ffffff",
+        "bg": "#1b4965",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure1 version flag",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#ffffff",
+        "bg": "#1b4965",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#ffffff",
+        "bg": "#1b4965",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure1 version flag",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#ffffff",
+        "bg": "#1b4965",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure1 version flag",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#ffffff",
+        "bg": "#1b4965",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#ffffff",
+        "bg": "#1b4965",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#ffffff",
+        "bg": "#1b4965",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#ffffff",
+        "bg": "#1b4965",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure1 version flag",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure1 in-bar level label",
+        "fg": "#ffffff",
+        "bg": "#1b4965",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 column heads",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 column heads",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 value",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure4 mass label",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure4 between label",
+        "fg": "#1b4965",
+        "bg": "#ffffff",
+        "ratio": 9.6
+      },
+      {
+        "where": "figure3 column heads",
+        "fg": "#333333",
+        "bg": "#ffffff",
+        "ratio": 12.63
+      },
+      {
+        "where": "figure3 carrier label",
+        "fg": "#333333",
+        "bg": "#ffffff",
+        "ratio": 12.63
+      },
+      {
+        "where": "figure3 carrier label",
+        "fg": "#333333",
+        "bg": "#ffffff",
+        "ratio": 12.63
+      },
+      {
+        "where": "figure3 carrier label",
+        "fg": "#333333",
+        "bg": "#ffffff",
+        "ratio": 12.63
+      },
+      {
+        "where": "figure3 carrier label",
+        "fg": "#333333",
+        "bg": "#ffffff",
+        "ratio": 12.63
+      },
+      {
+        "where": "figure3 carrier label",
+        "fg": "#333333",
+        "bg": "#ffffff",
+        "ratio": 12.63
+      },
+      {
+        "where": "figure3 carrier label",
+        "fg": "#333333",
+        "bg": "#ffffff",
+        "ratio": 12.63
+      },
+      {
+        "where": "figure3 carrier label",
+        "fg": "#333333",
+        "bg": "#ffffff",
+        "ratio": 12.63
+      },
+      {
+        "where": "figure3 carrier label",
+        "fg": "#333333",
+        "bg": "#ffffff",
+        "ratio": 12.63
+      },
+      {
+        "where": "figure5 panel letter",
+        "fg": "#333333",
+        "bg": "#ffffff",
+        "ratio": 12.63
+      },
+      {
+        "where": "figure6 panel letter",
+        "fg": "#333333",
+        "bg": "#ffffff",
+        "ratio": 12.63
+      },
+      {
+        "where": "figure6 exclusion label",
+        "fg": "#333333",
+        "bg": "#ffffff",
+        "ratio": 12.63
+      },
+      {
+        "where": "figure6 matrix cell",
+        "fg": "#ffffff",
+        "bg": "(np.float64(0.03137254901960784), np.float64(0.18823529411764706), np.float64(0.4196078431372549), np.float64(1.0))",
+        "ratio": 12.76
+      },
+      {
+        "where": "figure6 matrix cell",
+        "fg": "#111111",
+        "bg": "(np.float64(0.8643137254901961), np.float64(0.9173856209150326), np.float64(0.9665359477124184), np.float64(1.0))",
+        "ratio": 15.42
+      },
+      {
+        "where": "figure6 matrix cell",
+        "fg": "#111111",
+        "bg": "(np.float64(0.8702191464821223), np.float64(0.9213225682429834), np.float64(0.9685044213763937), np.float64(1.0))",
+        "ratio": 15.58
+      },
+      {
+        "where": "figure6 matrix cell",
+        "fg": "#111111",
+        "bg": "(np.float64(0.9686274509803922), np.float64(0.984313725490196), np.float64(1.0), np.float64(1.0))",
+        "ratio": 18.16
+      },
+      {
+        "where": "figure1 row labels",
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21.0
+      },
+      {
+        "where": "figure2 axis and tick labels",
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21.0
+      },
+      {
+        "where": "figure5 axis and tick labels",
+        "fg": "#000000",
+        "bg": "#ffffff",
+        "ratio": 21.0
+      }
+    ],
+    "lowest": {
+      "where": "figure3 column heads",
+      "fg": "#6e6e6e",
+      "bg": "#ffffff",
+      "ratio": 5.1
+    },
+    "failing": [],
+    "clean": true
+  }
+}

@@ -1,0 +1,15 @@
+category,series,distinct_values,attribute,pct_of_derived
+encoder,417380,6,Manufacturer,86.638
+conversion,24972,3,Manufacturer,5.184
+institution,23526,5,Manufacturer,4.883
+acquisition_vendor,13446,13,Manufacturer,2.791
+application,1037,2,Manufacturer,0.215
+named_analysis,970,1,Manufacturer,0.201
+absent,419,0,Manufacturer,0.087
+encoder,417720,13,ManufacturerModelName,86.709
+conversion,21030,2,ManufacturerModelName,4.365
+application,19023,6,ManufacturerModelName,3.949
+unclassified,9286,30,ManufacturerModelName,1.928
+named_analysis,8728,5,ManufacturerModelName,1.812
+absent,5938,0,ManufacturerModelName,1.233
+acquisition_vendor,25,1,ManufacturerModelName,0.005

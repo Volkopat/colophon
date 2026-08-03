@@ -1,0 +1,29 @@
+SoftwareVersions_sha7,declared_repository,repository_class,sop_class_name,analysis_result_id,objects,resolved_commit_date,nearest_tag,resolution
+4e5b700,https://github.com/QIICR/dcmqi,"upstream, QIICR/dcmqi",Segmentation Storage,nlstseg,384,2025-04-07T15:55:16-04:00,v1.4.0,upstream
+f86b34f,https://github.com/QIICR/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,dicom_lidc_idri_nodules,384,2019-03-13T12:57:28-04:00,v1.2.1,upstream
+ef9e227,https://github.com/QIICR/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,prostate_mri_us_biopsy_dicom_annotations,384,2021-03-10T21:47:52-05:00,v1.2.4,upstream
+7ae0873,https://github.com/QIICR/dcmqi,"upstream, QIICR/dcmqi",Segmentation Storage,totalsegmentator_ct_segmentations,384,2023-11-19T21:30:51-05:00,v1.3.0,upstream
+1153738,git@github.com:QIICR/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,nnu_net_bpr_annotations,384,2022-07-18T13:47:26-04:00,v1.2.5,upstream
+451bf84,git@github.com:QIICR/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,bamf_aimi_annotations,346,2023-01-26T11:08:36-05:00,v1.2.5,upstream
+1e82977,https://github.com/qiicr/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,prostatex_seg_zones,98,2019-02-01T07:15:24Z,v1.2.1,upstream
+ef9e227,https://github.com/QIICR/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,(null),85,2021-03-10T21:47:52-05:00,v1.2.4,upstream
+81e9073,https://github.com/QIICR/dcmqi,"upstream, QIICR/dcmqi",Segmentation Storage,pancreas_ct_seg,80,2024-06-19T17:04:37-04:00,v1.3.3,upstream
+1922a09,https://github.com/QIICR/dcmqi,"upstream, QIICR/dcmqi",Segmentation Storage,(null),80,2024-01-04T11:22:33-05:00,v1.3.1,upstream
+3efde87,https://github.com/qiicr/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,(null),72,2020-06-02T17:04:55-04:00,v1.2.2,upstream
+1e82977,https://github.com/qiicr/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,prostatex_seg_hires,66,2019-02-01T07:15:24Z,v1.2.1,upstream
+55dc95e,git@github.com:QIICR/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,rider_lungct_seg,59,2019-03-06T12:58:45-05:00,v1.2.1,upstream
+1153738,git@github.com:QIICR/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,bamf_aimi_annotations,38,2022-07-18T13:47:26-04:00,v1.2.5,upstream
+ac7d0fe,git://github.com/QIICR/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,(null),32,2021-03-13T22:15:49-05:00,v1.2.4,upstream
+afa4912,https://github.com/QIICR/dcmqi,"upstream, QIICR/dcmqi",Segmentation Storage,(null),23,2025-07-17T13:56:02+02:00,v1.4.0,upstream
+eb8bc91,git@github.com:QIICR/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,(null),21,2022-03-12T22:33:09-05:00,v1.2.4,upstream
+3efde87,git@github.com:QIICR/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,(null),21,2020-06-02T17:04:55-04:00,v1.2.2,upstream
+451bf84,https://github.com/qiicr/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,(null),21,2023-01-26T11:08:36-05:00,v1.2.5,upstream
+4feafda,,"orphaned, no repository named",Real World Value Mapping Storage,(null),20,,,"orphaned, not in upstream history"
+9c0c7bf,NA,not a dcmqi repository URL,Segmentation Storage,(null),12,2020-03-04T14:53:35-05:00,v1.2.2,upstream
+1f92074,git@github.com:QIICR/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,(null),8,2022-03-23T17:13:52-04:00,v1.2.4,upstream
+f621a32,https://github.com/fedorov/dcmqi.git,"named fork, fedorov",Segmentation Storage,(null),8,2017-04-06T00:05:11-04:00,v1.0.5,upstream
+55dc95e,git@github.com:QIICR/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,(null),4,2019-03-06T12:58:45-05:00,v1.2.1,upstream
+d88b025,https://github.com/QIICR/dcmqi,"upstream, QIICR/dcmqi",Segmentation Storage,(null),3,2024-06-26T16:03:33-04:00,v1.3.4,upstream
+ee9711c,https://github.com/qiicr/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,(null),3,2020-12-28T15:09:41-05:00,v1.2.3,upstream
+a3c9e4a,git@github.com:QIICR/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,(null),2,2022-04-08T18:52:20-04:00,v1.2.4,upstream
+99192b7,git://github.com/QIICR/dcmqi.git,"upstream, QIICR/dcmqi",Segmentation Storage,(null),1,2020-11-06T15:23:33-05:00,v1.2.2,upstream

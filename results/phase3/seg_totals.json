@@ -1,0 +1,48 @@
+{
+  "population_absent": {
+    "field": "any_ident_absent",
+    "p_pct": 77.645,
+    "series": 5941,
+    "strata": 21,
+    "se_design_pct": 0.1,
+    "se_clustered_pct": 15.377,
+    "df_clustered": 90,
+    "collapsed_strata": 12,
+    "unmatched_strata_series": 0
+  },
+  "population_incomplete": {
+    "field": "any_ident_incomplete",
+    "p_pct": 0.0,
+    "series": 5941,
+    "strata": 21,
+    "se_design_pct": 0.0,
+    "se_clustered_pct": 0.0,
+    "df_clustered": 90,
+    "collapsed_strata": 12,
+    "unmatched_strata_series": 0
+  },
+  "dropped": {
+    "objects_read_failed": 0
+  },
+  "totals": {
+    "series_attempted": 5941,
+    "series_ok": 5941,
+    "objects": 6386,
+    "segments": 41258,
+    "segments_non_manual": 36488,
+    "segments_ident_absent": 34234,
+    "segments_ident_present_zero_items": 0,
+    "segments_ident_present_incomplete": 0,
+    "segments_ident_present_complete": 2254,
+    "objects_with_non_manual": 4213,
+    "objects_any_ident_absent": 2828,
+    "objects_any_ident_incomplete": 0,
+    "objects_any_ident_complete": 1385,
+    "segments_algorithm_name_absent": 12,
+    "segments_algorithm_name_empty": 0,
+    "segments_type_says_non_manual_name_says_manual": 384,
+    "objects_whose_writer_label_changed": 1001,
+    "segments_algorithm_type_out_of_enumeration": 25,
+    "segments_out_of_enumeration_flagged_by_dciodvfy": 25
+  }
+}

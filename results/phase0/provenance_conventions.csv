@@ -1,0 +1,10 @@
+convention,series,analysis_results,example_manufacturer,example_model,pct
+encoding library as manufacturer,417623,13,QIICR,git@github.com:QIICR/dcmqi.git,86.69
+producing lab plus model plus converter,21721,2,Stony Brook University converted by Imaging Data Commons,TIL Inception-V4 2022 converted by Imaging Data Commons,4.51
+viewer or workstation as manufacturer,19153,6,ADAC,Pinnacle3,3.98
+acquisition equipment as manufacturer,8687,0,GE MEDICAL SYSTEMS,Signa HDxt,1.8
+"institution as manufacturer, model named",6171,2,NCI/FNLCR,FNLCR_IVG_RMS_iou_0.7343_0.7175_epoch_60,1.28
+"manufacturer only, model absent",5034,3,QIICR,NA,1.04
+unclassified convention,2247,1,nan,Vision 7.3 - External Beam Planning,0.47
+"producing model as manufacturer, model field absent",970,1,Sybil,nan,0.2
+nothing declared,144,1,nan,nan,0.03

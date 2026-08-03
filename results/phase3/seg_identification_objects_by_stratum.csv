@@ -1,0 +1,22 @@
+stratum,series_validated,objects,objects_with_non_manual_segment,objects_any_ident_absent,pct_any_ident_absent_of_objects_with_non_manual,pct_any_ident_absent_lo,pct_any_ident_absent_hi,pct_any_ident_absent_of_all_objects,objects_all_ident_absent,pct_all_ident_absent_of_objects_with_non_manual,pct_all_ident_absent_of_all_objects,objects_any_ident_present_zero_items,pct_any_ident_present_zero_items_of_objects_with_non_manual,pct_any_ident_present_zero_items_of_all_objects,objects_any_ident_incomplete,pct_any_ident_incomplete_of_objects_with_non_manual,pct_any_ident_incomplete_lo,pct_any_ident_incomplete_hi,pct_any_ident_incomplete_of_all_objects,objects_all_ident_incomplete,pct_all_ident_incomplete_of_objects_with_non_manual,pct_all_ident_incomplete_of_all_objects,objects_any_ident_complete,pct_any_ident_complete_of_objects_with_non_manual,pct_any_ident_complete_of_all_objects,reporting_rule
+dcmqi / (null),384,384,170,170,100.0,97.79,100.0,44.27,170,100.0,44.27,0,0.0,0.0,0,0.0,0.0,2.21,0.0,0,0.0,0.0,0,0.0,0.0,rate with Wilson interval
+dcmqi / dicom_lidc_idri_nodules,384,384,0,0,,,,0.0,0,,0.0,0,,0.0,0,,,,0.0,0,,0.0,0,,0.0,rate with Wilson interval
+dcmqi / bamf_aimi_annotations,384,384,384,384,100.0,99.01,100.0,100.0,384,100.0,100.0,0,0.0,0.0,0,0.0,0.0,0.99,0.0,0,0.0,0.0,0,0.0,0.0,rate with Wilson interval
+dcmqi / nnu_net_bpr_annotations,384,384,384,384,100.0,99.01,100.0,100.0,384,100.0,100.0,0,0.0,0.0,0,0.0,0.0,0.99,0.0,0,0.0,0.0,0,0.0,0.0,rate with Wilson interval
+dcmqi / nlstseg,384,384,0,0,,,,0.0,0,,0.0,0,,0.0,0,,,,0.0,0,,0.0,0,,0.0,rate with Wilson interval
+pydicom-seg / (null),384,384,83,83,100.0,95.58,100.0,21.61,83,100.0,21.61,0,0.0,0.0,0,0.0,0.0,4.42,0.0,0,0.0,0.0,0,0.0,0.0,rate with Wilson interval
+not identifiable from index / tcga_sbu_til_maps,384,384,384,0,0.0,0.0,0.99,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0.99,0.0,0,0.0,0.0,384,100.0,100.0,rate with Wilson interval
+dcmqi / prostate_mri_us_biopsy_dicom_annotations,384,384,189,189,100.0,98.01,100.0,49.22,189,100.0,49.22,0,0.0,0.0,0,0.0,0.0,1.99,0.0,0,0.0,0.0,0,0.0,0.0,rate with Wilson interval
+dcmqi / totalsegmentator_ct_segmentations,384,384,384,384,100.0,99.01,100.0,100.0,384,100.0,100.0,0,0.0,0.0,0,0.0,0.0,0.99,0.0,0,0.0,0.0,0,0.0,0.0,rate with Wilson interval
+not identifiable from index / qiba_volct_1b,384,384,384,384,100.0,99.01,100.0,100.0,384,100.0,100.0,0,0.0,0.0,0,0.0,0.0,0.99,0.0,0,0.0,0.0,0,0.0,0.0,rate with Wilson interval
+not identifiable from index / (null),384,384,318,318,100.0,98.81,100.0,82.81,318,100.0,82.81,0,0.0,0.0,0,0.0,0.0,1.19,0.0,0,0.0,0.0,0,0.0,0.0,rate with Wilson interval
+highdicom / eay131_tumor_annotations,384,384,384,0,0.0,0.0,0.99,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0.99,0.0,0,0.0,0.0,384,100.0,100.0,rate with Wilson interval
+highdicom / (null),384,384,0,0,,,,0.0,0,,0.0,0,,0.0,0,,,,0.0,0,,0.0,0,,0.0,rate with Wilson interval
+QIICR Reporting via 3D Slicer / qin_lungct_seg,378,378,378,378,100.0,98.99,100.0,100.0,378,100.0,100.0,0,0.0,0.0,0,0.0,0.0,1.01,0.0,0,0.0,0.0,0,0.0,0.0,"rate with Wilson interval, below-registered-n flag"
+not identifiable from index / pan_cancer_nuclei_seg_dicom,75,356,356,0,0.0,0.0,1.07,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,1.07,0.0,0,0.0,0.0,356,100.0,100.0,"rate with Wilson interval, below-registered-n flag"
+not identifiable from index / rms_mutation_prediction_expert_annotations,97,261,261,0,0.0,0.0,1.45,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,1.45,0.0,0,0.0,0.0,261,100.0,100.0,"rate with Wilson interval, below-registered-n flag"
+dcmqi / prostatex_seg_zones,98,98,0,0,,,,0.0,0,,0.0,0,,0.0,0,,,,0.0,0,,0.0,0,,0.0,"rate with Wilson interval, below-registered-n flag"
+QIICR Reporting via 3D Slicer / (null),96,96,96,96,100.0,96.15,100.0,100.0,96,100.0,100.0,0,0.0,0.0,0,0.0,0.0,3.85,0.0,0,0.0,0.0,0,0.0,0.0,"rate with Wilson interval, below-registered-n flag"
+dcmqi / pancreas_ct_seg,80,80,0,0,,,,0.0,0,,0.0,0,,0.0,0,,,,0.0,0,,0.0,0,,0.0,"rate with Wilson interval, below-registered-n flag"
+dcmqi / prostatex_seg_hires,66,66,0,0,,,,0.0,0,,0.0,0,,0.0,0,,,,0.0,0,,0.0,0,,0.0,"rate with Wilson interval, below-registered-n flag"
+dcmqi / rider_lungct_seg,59,59,58,58,100.0,93.79,100.0,98.31,58,100.0,98.31,0,0.0,0.0,0,0.0,0.0,6.21,0.0,0,0.0,0.0,0,0.0,0.0,"rate with Wilson interval, below-registered-n flag"

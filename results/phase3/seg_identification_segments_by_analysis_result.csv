@@ -1,0 +1,18 @@
+analysis_result_id,series_validated,objects,segments,segments_non_manual,segments_ident_absent,pct_absent,pct_absent_lo,pct_absent_hi,segments_ident_present_zero_items,pct_present_zero_items,segments_ident_present_incomplete,pct_present_incomplete,pct_present_incomplete_lo,pct_present_incomplete_hi,segments_ident_present_complete,pct_present_complete,segments_algorithm_name_absent,segments_algorithm_name_empty,reporting_rule
+totalsegmentator_ct_segmentations,384,384,29226,29226,29226,100.0,99.99,100.0,0,0.0,0,0.0,0.0,0.01,0,0.0,0,0,rate with Wilson interval
+(null),1632,1632,4759,1604,1604,100.0,99.76,100.0,0,0.0,0,0.0,0.0,0.24,0,0.0,12,0,rate with Wilson interval
+nnu_net_bpr_annotations,384,384,1536,1536,1536,100.0,99.75,100.0,0,0.0,0,0.0,0.0,0.25,0,0.0,0,0,rate with Wilson interval
+rms_mutation_prediction_expert_annotations,97,261,1044,1044,0,0.0,0.0,0.37,0,0.0,0,0.0,0.0,0.37,1044,100.0,0,0,"rate with Wilson interval, below-registered-n flag"
+bamf_aimi_annotations,384,384,859,859,859,100.0,99.55,100.0,0,0.0,0,0.0,0.0,0.45,0,0.0,0,0,rate with Wilson interval
+tcga_sbu_til_maps,384,384,470,470,0,0.0,0.0,0.81,0,0.0,0,0.0,0.0,0.81,470,100.0,0,0,rate with Wilson interval
+qiba_volct_1b,384,384,384,384,384,100.0,99.01,100.0,0,0.0,0,0.0,0.0,0.99,0,0.0,0,0,rate with Wilson interval
+eay131_tumor_annotations,384,384,384,384,0,0.0,0.0,0.99,0,0.0,0,0.0,0.0,0.99,384,100.0,0,0,rate with Wilson interval
+qin_lungct_seg,378,378,378,378,378,100.0,98.99,100.0,0,0.0,0,0.0,0.0,1.01,0,0.0,0,0,"rate with Wilson interval, below-registered-n flag"
+pan_cancer_nuclei_seg_dicom,75,356,356,356,0,0.0,0.0,1.07,0,0.0,0,0.0,0.0,1.07,356,100.0,0,0,"rate with Wilson interval, below-registered-n flag"
+prostate_mri_us_biopsy_dicom_annotations,384,384,384,189,189,100.0,98.01,100.0,0,0.0,0,0.0,0.0,1.99,0,0.0,0,0,rate with Wilson interval
+rider_lungct_seg,59,59,117,58,58,100.0,93.79,100.0,0,0.0,0,0.0,0.0,6.21,0,0.0,0,0,"rate with Wilson interval, below-registered-n flag"
+dicom_lidc_idri_nodules,384,384,384,0,0,,,,0,,0,,,,0,,0,0,rate with Wilson interval
+pancreas_ct_seg,80,80,80,0,0,,,,0,,0,,,,0,,0,0,"rate with Wilson interval, below-registered-n flag"
+nlstseg,384,384,439,0,0,,,,0,,0,,,,0,,0,0,rate with Wilson interval
+prostatex_seg_hires,66,66,66,0,0,,,,0,,0,,,,0,,0,0,"rate with Wilson interval, below-registered-n flag"
+prostatex_seg_zones,98,98,392,0,0,,,,0,,0,,,,0,,0,0,"rate with Wilson interval, below-registered-n flag"

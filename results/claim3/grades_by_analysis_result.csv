@@ -1,0 +1,37 @@
+sop_class_name,analysis_result_id,objects,non-conformant,pct_non-conformant,conformant but uninformative,pct_conformant,informative,pct_informative,sum_pct
+Comprehensive 3D SR Storage,lung_pet_ct_dx_annotations,1091,0,0.0,1091,100.0,0,0.0,100.0
+Comprehensive 3D SR Storage,nlst_sybil,970,0,0.0,0,0.0,970,100.0,100.0
+Comprehensive 3D SR Storage,nnu_net_bpr_annotations,2906,0,0.0,2906,100.0,0,0.0,100.0
+Comprehensive 3D SR Storage,prostatex_targets,345,0,0.0,345,100.0,0,0.0,100.0
+Comprehensive 3D SR Storage,rms_mutation_prediction_expert_annotations,96,0,0.0,96,100.0,0,0.0,100.0
+Comprehensive SR Storage,(null),462,0,0.0,0,0.0,462,100.0,100.0
+Comprehensive SR Storage,dicom_sr_breast_clinical,1292,0,0.0,1292,100.0,0,0.0,100.0
+Comprehensive SR Storage,qiba_volct_1b,364,0,0.0,0,0.0,364,100.0,100.0
+Grayscale Softcopy Presentation State Storage,(null),462,0,0.0,462,100.0,0,0.0,100.0
+Grayscale Softcopy Presentation State Storage,qiba_volct_1b,624,0,0.0,104,16.67,520,83.33,100.0
+Key Object Selection Document Storage,(null),40,40,100.0,0,0.0,0,0.0,100.0
+Parametric Map Storage,tcga_gbm360,691,0,0.0,0,0.0,691,100.0,100.0
+RT Structure Set Storage,(null),3115,0,0.0,3115,100.0,0,0.0,100.0
+RT Structure Set Storage,cptac_ccrcc_tumor_annotations,636,0,0.0,636,100.0,0,0.0,100.0
+RT Structure Set Storage,cptac_pda_tumor_annotations,536,0,0.0,536,100.0,0,0.0,100.0
+RT Structure Set Storage,cptac_ucec_tumor_annotations,617,0,0.0,617,100.0,0,0.0,100.0
+RT Structure Set Storage,eay131_tumor_annotations,14395,0,0.0,14395,100.0,0,0.0,100.0
+RT Structure Set Storage,rider_lungct_seg,59,0,0.0,59,100.0,0,0.0,100.0
+Real World Value Mapping Storage,(null),20,0,0.0,20,100.0,0,0.0,100.0
+Segmentation Storage,(null),1632,1273,78.0,336,20.59,23,1.41,100.0
+Segmentation Storage,bamf_aimi_annotations,384,0,0.0,384,100.0,0,0.0,100.0
+Segmentation Storage,dicom_lidc_idri_nodules,384,0,0.0,384,100.0,0,0.0,100.0
+Segmentation Storage,eay131_tumor_annotations,384,0,0.0,384,100.0,0,0.0,100.0
+Segmentation Storage,nlstseg,384,0,0.0,384,100.0,0,0.0,100.0
+Segmentation Storage,nnu_net_bpr_annotations,384,0,0.0,0,0.0,384,100.0,100.0
+Segmentation Storage,pan_cancer_nuclei_seg_dicom,356,0,0.0,0,0.0,356,100.0,100.0
+Segmentation Storage,pancreas_ct_seg,80,0,0.0,80,100.0,0,0.0,100.0
+Segmentation Storage,prostate_mri_us_biopsy_dicom_annotations,384,0,0.0,384,100.0,0,0.0,100.0
+Segmentation Storage,prostatex_seg_hires,66,0,0.0,66,100.0,0,0.0,100.0
+Segmentation Storage,prostatex_seg_zones,98,0,0.0,98,100.0,0,0.0,100.0
+Segmentation Storage,qiba_volct_1b,384,0,0.0,0,0.0,384,100.0,100.0
+Segmentation Storage,qin_lungct_seg,378,90,23.81,288,76.19,0,0.0,100.0
+Segmentation Storage,rider_lungct_seg,59,0,0.0,59,100.0,0,0.0,100.0
+Segmentation Storage,rms_mutation_prediction_expert_annotations,261,0,0.0,0,0.0,261,100.0,100.0
+Segmentation Storage,tcga_sbu_til_maps,384,0,0.0,384,100.0,0,0.0,100.0
+Segmentation Storage,totalsegmentator_ct_segmentations,384,0,0.0,0,0.0,384,100.0,100.0

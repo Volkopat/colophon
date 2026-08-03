@@ -1,0 +1,19 @@
+sop_class_name,series,null,empty,populated,distinct_values,pct_populated,attribute
+Enhanced SR Storage,262883,0,0,262883,1,100.0,Manufacturer
+Segmentation Storage,190146,0,0,190146,15,100.0,Manufacturer
+RT Structure Set Storage,19358,275,0,19083,7,98.58,Manufacturer
+Comprehensive 3D SR Storage,5408,0,0,5408,4,100.0,Manufacturer
+Comprehensive SR Storage,2118,0,0,2118,3,100.0,Manufacturer
+Grayscale Softcopy Presentation State Storage,1086,104,0,982,5,90.42,Manufacturer
+Parametric Map Storage,691,0,0,691,1,100.0,Manufacturer
+Key Object Selection Document Storage,40,40,0,0,0,0.0,Manufacturer
+Real World Value Mapping Storage,20,0,0,20,1,100.0,Manufacturer
+Enhanced SR Storage,262883,0,0,262883,3,100.0,ManufacturerModelName
+Segmentation Storage,190146,0,0,190146,44,100.0,ManufacturerModelName
+RT Structure Set Storage,19358,0,0,19358,9,100.0,ManufacturerModelName
+Comprehensive 3D SR Storage,5408,5312,0,96,1,1.78,ManufacturerModelName
+Comprehensive SR Storage,2118,0,0,2118,3,100.0,ManufacturerModelName
+Grayscale Softcopy Presentation State Storage,1086,566,0,520,1,47.88,ManufacturerModelName
+Parametric Map Storage,691,0,0,691,1,100.0,ManufacturerModelName
+Key Object Selection Document Storage,40,40,0,0,0,0.0,ManufacturerModelName
+Real World Value Mapping Storage,20,20,0,0,0,0.0,ManufacturerModelName

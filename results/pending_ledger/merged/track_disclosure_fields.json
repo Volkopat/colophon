@@ -1,0 +1,22 @@
+[
+  {
+    "id": "SUB-14",
+    "section": "SUB",
+    "section_title": "Submission package",
+    "claim": "The competing-interests employment window is stated by the author, with dates, and names the two prior works it covers.",
+    "status": "VERIFIED",
+    "status_note": "Author-supplied fact, not measured here. The venue asks for interests within three years of beginning the work and for older ones where they could be perceived as influencing it; this one lies behind two cited works, so it is disclosed under either reading and the window does not change what is written. The first draft of the field named [18] and [19], which is the prior article and its own Zenodo archive rather than the two prior works the sentence names; corrected to [18] and [37].",
+    "value": "Employed at aycan Medical Systems LLC from June 2023 to February 2026, prior, ended before this study began. The study began August 2026, so there is no overlap. The employment covers the period of [18] and [37] and no part of this study.",
+    "sop_class": "not applicable",
+    "n": "2",
+    "denominator": "2",
+    "floor": "not applicable, this row records a declaration",
+    "dropped": "nothing. Reference numbers are computed from citation order and a number typed into a field is not renumbered with the rest, so the field could go stale in silence if the reference list moves; the test named below reads both the sentence and the field out of the shipped title page and fails if they disagree",
+    "validator": "none",
+    "validator_version": "not applicable",
+    "command": "python -m colophon.submission",
+    "source_file": "results/submission/fields.json and results/submission/01_title_page.md",
+    "pinned_by_test": "tests/test_submission.py::test_the_employment_disclosure_names_the_two_works_it_says_it_names",
+    "verified_on": "2026-08-03"
+  }
+]

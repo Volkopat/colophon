@@ -1,0 +1,10 @@
+{
+  "_comment": "The single source for the Correction Proposal's status. The Discussion, the abstract and the supplementary index all read from it through the {{CP_STATUS}} token, so filing the proposal is a change to this file and not an edit to three prose files. Allowed states are drafted_not_filed, filed_awaiting_number and assigned; the last two need filed_on, and assigned also needs number and status.",
+  "state": "drafted_not_filed",
+  "filed_on": "",
+  "number": "",
+  "status": "",
+  "sent_to": "dicom@dicomstandard.org",
+  "decision": "File it before submission. The reason is not that it strengthens the Discussion. It is that WG-06 is an external check on this paper's reading of Table C.8.20-2, and external checks are this project's method.",
+  "decided_on": "2026-08-03"
+}

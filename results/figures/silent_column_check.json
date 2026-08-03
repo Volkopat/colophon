@@ -1,0 +1,184 @@
+{
+  "silent_cells_total": 21,
+  "silent_cells_segmentation": 11,
+  "cells_all_manual": [
+    "dicom_lidc_idri_nodules",
+    "nlstseg",
+    "pancreas_ct_seg",
+    "prostatex_seg_hires",
+    "prostatex_seg_zones"
+  ],
+  "cells_with_non_manual_segments": [
+    "bamf_aimi_annotations",
+    "eay131_tumor_annotations",
+    "prostate_mri_us_biopsy_dicom_annotations",
+    "qin_lungct_seg",
+    "rider_lungct_seg",
+    "tcga_sbu_til_maps"
+  ],
+  "usable_exemplars": [
+    {
+      "analysis_result_id": "bamf_aimi_annotations",
+      "objects": 384,
+      "segments": 859,
+      "segments_non_manual": 859,
+      "distinct_algorithm_names": 11,
+      "algorithm_names": "BAMF-Brain-MR (362); BAMF-Breast-Tumor-MRI (143); BAMF-Lung-CT-v2 (110); BAMF-Prostate-MR (58)",
+      "identification_states": "absent (859)",
+      "Manufacturer": "QIICR [384]",
+      "ManufacturerModelName": "git@github.com:QIICR/dcmqi.git [384]",
+      "SoftwareVersions": "451bf84 [346] (+1 more)",
+      "ContentCreatorName": "BAMFHealth^AI [340] (+12 more)",
+      "ContributingEquipmentSequence": "absent [384]"
+    },
+    {
+      "analysis_result_id": "prostate_mri_us_biopsy_dicom_annotations",
+      "objects": 384,
+      "segments": 384,
+      "segments_non_manual": 189,
+      "distinct_algorithm_names": 1,
+      "algorithm_names": "PROFUSE (189)",
+      "identification_states": "absent (189)",
+      "Manufacturer": "QIICR [384]",
+      "ManufacturerModelName": "https://github.com/QIICR/dcmqi.git [384]",
+      "SoftwareVersions": "ef9e227 [384]",
+      "ContentCreatorName": "Imaging Data Commons [384]",
+      "ContributingEquipmentSequence": "absent [384]"
+    },
+    {
+      "analysis_result_id": "qin_lungct_seg",
+      "objects": 378,
+      "segments": 378,
+      "segments_non_manual": 378,
+      "distinct_algorithm_names": 122,
+      "algorithm_names": "alg03_run1 (31); alg03_run2 (30); alg03_run3 (30); alg01_run1 (29)",
+      "identification_states": "absent (378)",
+      "Manufacturer": "3D Slicer Community [378]",
+      "ManufacturerModelName": "https://github.com/fedorov/Reporting [378]",
+      "SoftwareVersions": "Slicer 4.3.1-2014-09-09 r23663 Reporting 56c71a2 [276] (+1 more)",
+      "ContentCreatorName": "3DSlicer [378]",
+      "ContributingEquipmentSequence": "absent [378]"
+    },
+    {
+      "analysis_result_id": "rider_lungct_seg",
+      "objects": 59,
+      "segments": 117,
+      "segments_non_manual": 58,
+      "distinct_algorithm_names": 1,
+      "algorithm_names": "0 (58)",
+      "identification_states": "absent (58)",
+      "Manufacturer": "QIICR [59]",
+      "ManufacturerModelName": "git@github.com:QIICR/dcmqi.git [59]",
+      "SoftwareVersions": "55dc95e [59]",
+      "ContentCreatorName": "RiderCollectionOwner [59]",
+      "ContributingEquipmentSequence": "absent [59]"
+    }
+  ],
+  "silent_in_the_ladder_but_carrying_a_complete_macro": [
+    {
+      "analysis_result_id": "eay131_tumor_annotations",
+      "objects": 384,
+      "segments": 384,
+      "segments_non_manual": 384,
+      "distinct_algorithm_names": 1,
+      "algorithm_names": "Manual Segmentation (384)",
+      "identification_states": "present_complete (384)",
+      "Manufacturer": "highdicom [384]",
+      "ManufacturerModelName": "https://github.com/ImagingDataCommons/highdicom.git [384]",
+      "SoftwareVersions": "0.22.0 [384]",
+      "ContentCreatorName": "(empty) [384]",
+      "ContributingEquipmentSequence": "absent [384]"
+    },
+    {
+      "analysis_result_id": "tcga_sbu_til_maps",
+      "objects": 384,
+      "segments": 470,
+      "segments_non_manual": 470,
+      "distinct_algorithm_names": 2,
+      "algorithm_names": "Stony Brook TIL Segmentation Inception-V4 2022 (298); Stony Brook TIL Segmentation CNN 2018 (172)",
+      "identification_states": "present_complete (470)",
+      "Manufacturer": "Stony Brook University converted by Imaging Data Commons [384]",
+      "ManufacturerModelName": "TIL Inception-V4 2022 converted by Imaging Data Commons [298] (+1 more)",
+      "SoftwareVersions": "github.com/ImagingDataCommons/idc-sm-annotations-conversion [384]",
+      "ContentCreatorName": "(empty) [384]",
+      "ContributingEquipmentSequence": "non_empty [384]"
+    }
+  ],
+  "all_manual_rows": [
+    {
+      "analysis_result_id": "dicom_lidc_idri_nodules",
+      "objects": 384,
+      "segments": 384,
+      "segments_non_manual": 0,
+      "distinct_algorithm_names": 0,
+      "algorithm_names": "",
+      "identification_states": "",
+      "Manufacturer": "QIICR [384]",
+      "ManufacturerModelName": "https://github.com/QIICR/dcmqi.git [384]",
+      "SoftwareVersions": "f86b34f [384]",
+      "ContentCreatorName": "Reader1 [384]",
+      "ContributingEquipmentSequence": "absent [384]"
+    },
+    {
+      "analysis_result_id": "nlstseg",
+      "objects": 384,
+      "segments": 439,
+      "segments_non_manual": 0,
+      "distinct_algorithm_names": 0,
+      "algorithm_names": "",
+      "identification_states": "",
+      "Manufacturer": "QIICR [384]",
+      "ManufacturerModelName": "https://github.com/QIICR/dcmqi [384]",
+      "SoftwareVersions": "4e5b700 [384]",
+      "ContentCreatorName": "IDC [384]",
+      "ContributingEquipmentSequence": "absent [384]"
+    },
+    {
+      "analysis_result_id": "pancreas_ct_seg",
+      "objects": 80,
+      "segments": 80,
+      "segments_non_manual": 0,
+      "distinct_algorithm_names": 0,
+      "algorithm_names": "",
+      "identification_states": "",
+      "Manufacturer": "QIICR [80]",
+      "ManufacturerModelName": "https://github.com/QIICR/dcmqi [80]",
+      "SoftwareVersions": "81e9073 [80]",
+      "ContentCreatorName": "Anonymous [80]",
+      "ContributingEquipmentSequence": "absent [80]"
+    },
+    {
+      "analysis_result_id": "prostatex_seg_hires",
+      "objects": 66,
+      "segments": 66,
+      "segments_non_manual": 0,
+      "distinct_algorithm_names": 0,
+      "algorithm_names": "",
+      "identification_states": "",
+      "Manufacturer": "QIICR [66]",
+      "ManufacturerModelName": "https://github.com/qiicr/dcmqi.git [66]",
+      "SoftwareVersions": "1e82977 [66]",
+      "ContentCreatorName": "Reader1 [66]",
+      "ContributingEquipmentSequence": "absent [66]"
+    },
+    {
+      "analysis_result_id": "prostatex_seg_zones",
+      "objects": 98,
+      "segments": 392,
+      "segments_non_manual": 0,
+      "distinct_algorithm_names": 0,
+      "algorithm_names": "",
+      "identification_states": "",
+      "Manufacturer": "QIICR [98]",
+      "ManufacturerModelName": "https://github.com/qiicr/dcmqi.git [98]",
+      "SoftwareVersions": "1e82977 [98]",
+      "ContentCreatorName": "Reader1 [98]",
+      "ContributingEquipmentSequence": "absent [98]"
+    }
+  ],
+  "currently_drawn": "dicom_lidc_idri_nodules",
+  "source": {
+    "records": "D:\\Radiology\\Colophon\\_cache\\phase3\\records.jsonl",
+    "ladder": "D:\\Radiology\\Colophon\\results\\claim3\\t33_recoverability_ladder.csv"
+  }
+}

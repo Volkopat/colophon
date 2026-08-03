@@ -1,0 +1,37 @@
+stratum,proxy,collections,series,rate_pct,rho,m0
+QIICR Reporting via 3D Slicer / qin_lungct_seg,BodyPartExamined empty,4,378,100.0,,
+QIICR Reporting via 3D Slicer / qin_lungct_seg,SeriesDescription empty,4,378,0.0,,
+QIICR Reporting via 3D Slicer / qin_lungct_seg,PatientSex empty,4,378,33.33,0.7921,94.3
+QIICR Reporting via 3D Slicer / qin_lungct_seg,PatientAge empty,4,378,100.0,,
+dcmqi / (null),BodyPartExamined empty,13,2357,8.27,0.9903,171.3
+dcmqi / (null),SeriesDescription empty,13,2357,0.0,,
+dcmqi / (null),PatientSex empty,13,2357,22.1,0.9302,171.3
+dcmqi / (null),PatientAge empty,13,2357,48.37,0.8276,171.3
+dcmqi / bamf_aimi_annotations,BodyPartExamined empty,22,8202,0.0,,
+dcmqi / bamf_aimi_annotations,SeriesDescription empty,22,8202,0.0,,
+dcmqi / bamf_aimi_annotations,PatientSex empty,22,8202,20.69,0.8933,336.3
+dcmqi / bamf_aimi_annotations,PatientAge empty,22,8202,23.29,0.848,336.3
+dcmqi / nnu_net_bpr_annotations,BodyPartExamined empty,2,2281,0.0,,
+dcmqi / nnu_net_bpr_annotations,SeriesDescription empty,2,2281,0.0,,
+dcmqi / nnu_net_bpr_annotations,PatientSex empty,2,2281,45.55,1.0,1131.5
+dcmqi / nnu_net_bpr_annotations,PatientAge empty,2,2281,57.65,0.7625,1131.5
+not identifiable from index / (null),BodyPartExamined empty,8,8977,6.04,1.0,971.3
+not identifiable from index / (null),SeriesDescription empty,8,8977,5.15,1.0,971.3
+not identifiable from index / (null),PatientSex empty,8,8977,2.29,0.5078,971.3
+not identifiable from index / (null),PatientAge empty,8,8977,62.78,0.919,971.3
+not identifiable from index / pan_cancer_nuclei_seg_dicom,BodyPartExamined empty,14,6074,100.0,,
+not identifiable from index / pan_cancer_nuclei_seg_dicom,SeriesDescription empty,14,6074,100.0,,
+not identifiable from index / pan_cancer_nuclei_seg_dicom,PatientSex empty,14,6074,100.0,,
+not identifiable from index / pan_cancer_nuclei_seg_dicom,PatientAge empty,14,6074,100.0,,
+not identifiable from index / qiba_volct_1b,BodyPartExamined empty,2,520,100.0,,
+not identifiable from index / qiba_volct_1b,SeriesDescription empty,2,520,100.0,,
+not identifiable from index / qiba_volct_1b,PatientSex empty,2,520,80.77,0.5635,246.2
+not identifiable from index / qiba_volct_1b,PatientAge empty,2,520,100.0,,
+not identifiable from index / tcga_sbu_til_maps,BodyPartExamined empty,23,21030,100.0,,
+not identifiable from index / tcga_sbu_til_maps,SeriesDescription empty,23,21030,0.0,,
+not identifiable from index / tcga_sbu_til_maps,PatientSex empty,23,21030,100.0,,
+not identifiable from index / tcga_sbu_til_maps,PatientAge empty,23,21030,100.0,,
+pydicom-seg / (null),BodyPartExamined empty,3,1991,18.83,1.0,469.1
+pydicom-seg / (null),SeriesDescription empty,3,1991,0.0,,
+pydicom-seg / (null),PatientSex empty,3,1991,18.83,1.0,469.1
+pydicom-seg / (null),PatientAge empty,3,1991,100.0,,

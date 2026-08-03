@@ -1,0 +1,18 @@
+stratum,PurposeOfReference,Manufacturer,ManufacturerModelName,SoftwareVersions,items
+not identifiable from index / tcga_sbu_til_maps,"109102,DCM,Processing Equipment",Highdicom open-source contributors,highdicom,0.27.0,384
+not identifiable from index / tcga_sbu_til_maps,"109101,DCM,Acquisition Equipment",Leica Biosystems,Aperio converted by com.pixelmed.convert.TIFFToDicom,"['v10.2.41', 'Sat May 28 11:42:06 EDT 2022']",115
+not identifiable from index / tcga_sbu_til_maps,"109101,DCM,Acquisition Equipment",Leica Biosystems,Aperio converted by com.pixelmed.convert.TIFFToDicom,"['v12.0.15', 'Sat May 28 11:42:06 EDT 2022']",86
+not identifiable from index / tcga_sbu_til_maps,"109101,DCM,Acquisition Equipment",Leica Biosystems,Aperio converted by com.pixelmed.convert.TIFFToDicom,"['vFS90 01', 'Sat May 28 11:42:06 EDT 2022']",76
+not identifiable from index / tcga_sbu_til_maps,"109101,DCM,Acquisition Equipment",Leica Biosystems,Aperio converted by com.pixelmed.convert.TIFFToDicom,"['v12.0.11', 'Sat May 28 11:42:06 EDT 2022']",41
+not identifiable from index / tcga_sbu_til_maps,"109101,DCM,Acquisition Equipment",Carl Zeiss,Mirax converted by com.pixelmed.convert.TIFFToDicom,Thu Feb 15 07:25:54 EST 2024,19
+not identifiable from index / tcga_sbu_til_maps,"109101,DCM,Acquisition Equipment",Leica Biosystems,Aperio converted by com.pixelmed.convert.TIFFToDicom,"['v10.2.20', 'Sat May 28 11:42:06 EDT 2022']",9
+not identifiable from index / tcga_sbu_til_maps,"109101,DCM,Acquisition Equipment",Hamamatsu,NanoZoomer converted by com.pixelmed.convert.TIFFToDicom,Thu Feb 15 07:25:54 EST 2024,9
+not identifiable from index / tcga_sbu_til_maps,"109101,DCM,Acquisition Equipment",Leica Biosystems,Aperio converted by com.pixelmed.convert.TIFFToDicom,"['v10.2.23', 'Sat May 28 11:42:06 EDT 2022']",9
+not identifiable from index / tcga_sbu_til_maps,"109101,DCM,Acquisition Equipment",Leica Biosystems,Aperio converted by com.pixelmed.convert.TIFFToDicom,"['v10.0.50', 'Sat May 28 11:42:06 EDT 2022']",5
+not identifiable from index / tcga_sbu_til_maps,"109101,DCM,Acquisition Equipment",Leica Biosystems,Aperio converted by com.pixelmed.convert.TIFFToDicom,"['v12.1.3', 'Sat May 28 11:42:06 EDT 2022']",5
+not identifiable from index / tcga_sbu_til_maps,"109101,DCM,Acquisition Equipment",Leica Biosystems,Aperio converted by com.pixelmed.convert.TIFFToDicom,"['v10.2.24', 'Sat May 28 11:42:06 EDT 2022']",3
+not identifiable from index / tcga_sbu_til_maps,"109101,DCM,Acquisition Equipment",Leica Biosystems,Aperio converted by com.pixelmed.convert.TIFFToDicom,"['v9.1.4', 'Sat May 28 11:42:06 EDT 2022']",3
+not identifiable from index / tcga_sbu_til_maps,"109101,DCM,Acquisition Equipment",Leica Biosystems,Aperio converted by com.pixelmed.convert.TIFFToDicom,"['v11.0.37', 'Sat May 28 11:42:06 EDT 2022']",1
+not identifiable from index / tcga_sbu_til_maps,"109101,DCM,Acquisition Equipment",Leica Biosystems,Aperio converted by com.pixelmed.convert.TIFFToDicom,"['v12.0.11   123008', 'Sat May 28 11:42:06 EDT 2022']",1
+not identifiable from index / tcga_sbu_til_maps,"109101,DCM,Acquisition Equipment",Leica Biosystems,Aperio converted by com.pixelmed.convert.TIFFToDicom,"['v12.0.11   112096', 'Sat May 28 11:42:06 EDT 2022']",1
+not identifiable from index / tcga_sbu_til_maps,"109101,DCM,Acquisition Equipment",Leica Biosystems,Aperio converted by com.pixelmed.convert.TIFFToDicom,"['v11.1.6', 'Sat May 28 11:42:06 EDT 2022']",1

@@ -1,0 +1,73 @@
+sop_class_name,carrier,state,objects
+Comprehensive 3D SR Storage,ContentCreatorName,absent,5408
+Comprehensive 3D SR Storage,DeviceSerialNumber,absent,5312
+Comprehensive 3D SR Storage,DeviceSerialNumber,non_empty,96
+Comprehensive 3D SR Storage,ImplementationClassUID,non_empty,5408
+Comprehensive 3D SR Storage,ImplementationVersionName,non_empty,5408
+Comprehensive 3D SR Storage,Manufacturer,non_empty,5408
+Comprehensive 3D SR Storage,ManufacturerModelName,absent,5312
+Comprehensive 3D SR Storage,ManufacturerModelName,non_empty,96
+Comprehensive 3D SR Storage,SeriesDescription,non_empty,5408
+Comprehensive 3D SR Storage,SoftwareVersions,absent,5312
+Comprehensive 3D SR Storage,SoftwareVersions,non_empty,96
+Comprehensive SR Storage,ContentCreatorName,absent,2118
+Comprehensive SR Storage,DeviceSerialNumber,absent,722
+Comprehensive SR Storage,DeviceSerialNumber,empty,447
+Comprehensive SR Storage,DeviceSerialNumber,non_empty,949
+Comprehensive SR Storage,ImplementationClassUID,non_empty,2118
+Comprehensive SR Storage,ImplementationVersionName,non_empty,2118
+Comprehensive SR Storage,Manufacturer,non_empty,2118
+Comprehensive SR Storage,ManufacturerModelName,non_empty,2118
+Comprehensive SR Storage,SeriesDescription,non_empty,2118
+Comprehensive SR Storage,SoftwareVersions,absent,462
+Comprehensive SR Storage,SoftwareVersions,non_empty,1656
+Grayscale Softcopy Presentation State Storage,ContentCreatorName,empty,1022
+Grayscale Softcopy Presentation State Storage,ContentCreatorName,non_empty,64
+Grayscale Softcopy Presentation State Storage,DeviceSerialNumber,absent,1086
+Grayscale Softcopy Presentation State Storage,ImplementationClassUID,non_empty,1086
+Grayscale Softcopy Presentation State Storage,ImplementationVersionName,non_empty,1086
+Grayscale Softcopy Presentation State Storage,Manufacturer,empty,104
+Grayscale Softcopy Presentation State Storage,Manufacturer,non_empty,982
+Grayscale Softcopy Presentation State Storage,ManufacturerModelName,absent,566
+Grayscale Softcopy Presentation State Storage,ManufacturerModelName,non_empty,520
+Grayscale Softcopy Presentation State Storage,SeriesDescription,absent,1086
+Grayscale Softcopy Presentation State Storage,SoftwareVersions,absent,566
+Grayscale Softcopy Presentation State Storage,SoftwareVersions,non_empty,520
+Key Object Selection Document Storage,ContentCreatorName,absent,40
+Key Object Selection Document Storage,DeviceSerialNumber,absent,40
+Key Object Selection Document Storage,ImplementationClassUID,non_empty,40
+Key Object Selection Document Storage,ImplementationVersionName,non_empty,40
+Key Object Selection Document Storage,Manufacturer,absent,40
+Key Object Selection Document Storage,ManufacturerModelName,absent,40
+Key Object Selection Document Storage,SeriesDescription,non_empty,40
+Key Object Selection Document Storage,SoftwareVersions,absent,40
+Parametric Map Storage,ContentCreatorName,empty,691
+Parametric Map Storage,DeviceSerialNumber,non_empty,691
+Parametric Map Storage,ImplementationClassUID,non_empty,691
+Parametric Map Storage,ImplementationVersionName,non_empty,691
+Parametric Map Storage,Manufacturer,non_empty,691
+Parametric Map Storage,ManufacturerModelName,non_empty,691
+Parametric Map Storage,SeriesDescription,non_empty,691
+Parametric Map Storage,SoftwareVersions,non_empty,691
+RT Structure Set Storage,ContentCreatorName,absent,18936
+RT Structure Set Storage,DeviceSerialNumber,absent,18701
+RT Structure Set Storage,DeviceSerialNumber,empty,209
+RT Structure Set Storage,DeviceSerialNumber,non_empty,26
+RT Structure Set Storage,ImplementationClassUID,non_empty,18936
+RT Structure Set Storage,ImplementationVersionName,non_empty,18936
+RT Structure Set Storage,Manufacturer,empty,275
+RT Structure Set Storage,Manufacturer,non_empty,18661
+RT Structure Set Storage,ManufacturerModelName,non_empty,18936
+RT Structure Set Storage,SeriesDescription,absent,962
+RT Structure Set Storage,SeriesDescription,empty,1
+RT Structure Set Storage,SeriesDescription,non_empty,17973
+RT Structure Set Storage,SoftwareVersions,absent,1198
+RT Structure Set Storage,SoftwareVersions,non_empty,17738
+Real World Value Mapping Storage,ContentCreatorName,empty,20
+Real World Value Mapping Storage,DeviceSerialNumber,absent,20
+Real World Value Mapping Storage,ImplementationClassUID,non_empty,20
+Real World Value Mapping Storage,ImplementationVersionName,non_empty,20
+Real World Value Mapping Storage,Manufacturer,non_empty,20
+Real World Value Mapping Storage,ManufacturerModelName,absent,20
+Real World Value Mapping Storage,SeriesDescription,non_empty,20
+Real World Value Mapping Storage,SoftwareVersions,non_empty,20

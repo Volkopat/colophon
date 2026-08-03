@@ -1,0 +1,31 @@
+[
+  {
+    "id": "SUB-02",
+    "section": "SUB",
+    "section_title": "Submission package",
+    "claim": "The venue requirements the package is built against were read from the venue's own guidelines on a stated date, and two of them bind hard enough to change the paper.",
+    "status": "VERIFIED",
+    "status_note": "A package built against remembered requirements is a package built against the requirements of some other journal. The extracted guideline text is kept in the package so the requirements this was built against can be read as they stood, rather than refetched later against a page that has since changed.",
+    "value": "Journal of Imaging Informatics in Medicine, guidelines read 2026-08-03. Double-blind review, so two manuscript files are required. Abstract 150 to 250 words. 4 to 6 keywords. No more than 3 displayed heading levels. References numbered in order of first citation, in the venue's own style. Figures named Fig1 onward, EPS preferred for vector graphics, fonts embedded. Declarations before the reference list. LLM use documented in the Methods.",
+    "sop_class": "not applicable",
+    "n": "",
+    "denominator": "",
+    "floor": "not applicable, documentary",
+    "dropped": "the backup venue's requirements are not encoded; the checklist names which items would change",
+    "validator": "none, documentary",
+    "validator_version": "not applicable",
+    "command": "curl https://link.springer.com/journal/10278/submission-guidelines",
+    "source_file": "results/submission/07_checklist.md and results/submission/venue_guidelines_read_2026-08-03.txt",
+    "derived_from": "",
+    "external_source": "https://link.springer.com/journal/10278/submission-guidelines, retrieved 2026-08-03",
+    "pinned_by_test": "",
+    "supersedes": "",
+    "superseded_by": "",
+    "retired_reason": "",
+    "idc_index_version": "v24",
+    "date": "2026-08-03T02:52:56Z",
+    "verified_on": "2026-08-03",
+    "hardware": "",
+    "notes": "The two that bind hardest are the ones that were not anticipated: the review model is double-blind, and the abstract limit is a third of what the repository abstract runs to."
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "SUB-06",
+    "section": "SUB",
+    "section_title": "Submission package",
+    "claim": "The assembled manuscript body is long for an Original Paper, the venue sets no ceiling, and the length is reported rather than cut to pre-empt an editor.",
+    "status": "DERIVED",
+    "status_note": "DECIDED: keep the length. The venue publishes no ceiling, and the movable block is the message-class normalisation, the adjudication disclosures and the pin deviations, which is the paper's answer to how a reader knows the rates are right. Moving it would leave a reader taking the rates on trust, which is the one thing this paper is built not to ask. The block stays named in this row so it can be moved if a reviewer asks for it.",
+    "value": "11,958 words in the assembled body, of which 3,470 are Materials and Methods; sections 2.6 to 2.10 are about 1,484 words and are the block that could move to supplementary material",
+    "sop_class": "not applicable",
+    "n": "11,958",
+    "denominator": "no venue limit is published",
+    "floor": "not applicable, this row counts words and not validator findings",
+    "dropped": "nothing has been cut. What moving Methods 2.6 to 2.10 would cost is stated in the checklist: a reader who cannot see the message-class normalisation, the adjudication disclosures and the pin deviations in the body has to take the rates on trust",
+    "validator": "none",
+    "validator_version": "not applicable",
+    "command": "python -m colophon.submission",
+    "source_file": "results/submission/07_checklist.md and results/submission/manifest.json",
+    "derived_from": "",
+    "external_source": "",
+    "pinned_by_test": "tests/test_submission.py::test_every_number_in_the_package_is_backed",
+    "supersedes": "",
+    "superseded_by": "",
+    "retired_reason": "",
+    "idc_index_version": "v24",
+    "date": "2026-08-03T04:39:47Z",
+    "verified_on": "2026-08-03",
+    "hardware": "",
+    "notes": "Movable block, if a reviewer asks: Methods 2.6 message-class normalisation and exit status, 2.7 adjudication and its reliability, 2.8 the floor, 2.9 statistical treatment, 2.10 pre-registration and every deviation from it. About 1,484 words."
+  }
+]

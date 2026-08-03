@@ -1,0 +1,22 @@
+{
+  "tool": "dcmqi",
+  "true_total": 411865,
+  "distinct_spellings": 6,
+  "most_common_spelling": "https://github.com/QIICR/dcmqi",
+  "exact_match_recall_n": 380712,
+  "exact_match_recall_pct": 92.44,
+  "missed_by_exact_match": 31153,
+  "distinct_after_normalisation": 2,
+  "normalised_groups": {
+    "github.com/qiicr/dcmqi": 411775,
+    "github.com/fedorov/dcmqi": 90
+  },
+  "spellings": {
+    "https://github.com/QIICR/dcmqi": 380712,
+    "https://github.com/QIICR/dcmqi.git": 16668,
+    "git@github.com:QIICR/dcmqi.git": 13478,
+    "https://github.com/qiicr/dcmqi.git": 720,
+    "git://github.com/QIICR/dcmqi.git": 197,
+    "https://github.com/fedorov/dcmqi.git": 90
+  }
+}

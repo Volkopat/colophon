@@ -1,0 +1,27 @@
+{
+  "ran": true,
+  "formats": {
+    "eps": {
+      "files": 6,
+      "identical": 6,
+      "differing": 0,
+      "reproducible": true
+    },
+    "pdf": {
+      "files": 12,
+      "identical": 12,
+      "differing": 0,
+      "reproducible": true
+    },
+    "png": {
+      "files": 12,
+      "identical": 12,
+      "differing": 0,
+      "reproducible": true
+    }
+  },
+  "differing_files": [],
+  "all_reproducible": true,
+  "method": "two builds in two subprocesses into two temporary directories, compared byte for byte",
+  "command": "python -m colophon.reproducibility"
+}

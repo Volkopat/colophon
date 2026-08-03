@@ -1,0 +1,9 @@
+sop_class_name,analysis_result_id,objects,encoder_only,pct_encoder_only,producer_and_converter,pct_producer_and_converter,other,pct_other,absent,pct_absent,sum_pct,objects_all_sentinel
+Comprehensive 3D SR Storage,(all),5408,96,1.78,0,0.0,0,0.0,5312,98.22,100.0,0
+Comprehensive SR Storage,(all),2118,0,0.0,0,0.0,2118,100.0,0,0.0,100.0,0
+Grayscale Softcopy Presentation State Storage,(all),1086,0,0.0,0,0.0,520,47.88,566,52.12,100.0,0
+Key Object Selection Document Storage,(all),40,0,0.0,0,0.0,0,0.0,40,100.0,100.0,0
+Parametric Map Storage,(all),691,0,0.0,691,100.0,0,0.0,0,0.0,100.0,0
+RT Structure Set Storage,(all),19358,0,0.0,0,0.0,19358,100.0,0,0.0,100.0,0
+Real World Value Mapping Storage,(all),20,0,0.0,0,0.0,0,0.0,20,100.0,100.0,0
+Segmentation Storage,(all),6386,4617,72.3,384,6.01,1373,21.5,12,0.19,100.0,4143

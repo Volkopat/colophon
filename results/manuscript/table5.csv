@@ -1,0 +1,5 @@
+quantity,baseline,across the nine variant rungs,stable
+"Jaccard between the two writers' floor sets, SEG BINARY, dciodvfy",0.0000,"oscillates 0.0000 to 0.8571, no trend",**no**
+"Jaccard, SEG BINARY, dicom-validator",0.8571,0.8571 to 0.8750,"yes, but at a different value from dciodvfy"
+"residue: message classes held by one writer only, dciodvfy",1,"1 at eight rungs, 2 at V9","**yes, except V9**"
+"residue, dicom-validator",1,1 at all nine,**yes**

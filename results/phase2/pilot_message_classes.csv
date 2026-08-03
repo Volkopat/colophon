@@ -1,0 +1,19 @@
+validator,message_class_id,message_template,severity_as_emitted,objects
+dciodvfy,815f5dab3ba7,Warning - Missing attribute or value that would be needed to build DICOMDIR - Study ID,Warning,10
+dciodvfy,4a71864409dc,Warning - Missing attribute or value that would be needed to build DICOMDIR - Study Time,Warning,7
+dciodvfy,3cc801c58c5f,Warning - Value dubious for this VR - (TAG) PN Content Creator's Name PN [1] = <IDC> - Retired Person Name form,Warning,4
+dciodvfy,4f1c684b72ff,Warning - Value dubious for this VR - (TAG) PN Content Creator's Name PN [1] = <Imaging Data Commons> - Retired Person Name form,Warning,2
+dciodvfy,74637eecf0ac,Warning - Value dubious for this VR - (TAG) PN Content Creator's Name PN [1] = <Reader1> - Retired Person Name form,Warning,2
+dciodvfy,76ab0c6981d2,Warning - CodingSchemeDesignator is deprecated - attribute <CodingSchemeDesignator> = <SRT>,Warning,2
+dciodvfy,9ee22e1c2108,Warning - Unrecognized defined term <GEIIS> for value 1 of attribute <Coding Scheme Designator>,Warning,2
+dciodvfy,c3858e46e8c5,Warning - Value dubious for this VR - (TAG) PN Patient's Name PN [1] = <Prostate-MRI-US-Biopsy-1149> - Retired Person Name form,Warning,2
+dciodvfy,0507257941dd,Warning - Value is zero for value 1 of attribute <Patient's Size>,Warning,1
+dciodvfy,0786a34e0c26,Warning - Value is zero for value 1 of attribute <Patient's Weight>,Warning,1
+dciodvfy,8c857ef640a3,Warning - Value dubious for this VR - (TAG) PN Patient's Name PN [1] = <UPENN-GBM-00201> - Retired Person Name form,Warning,1
+dciodvfy,fa52cde9c940,Warning - Value dubious for this VR - (TAG) PN Patient's Name PN [1] = <TCGA-KM-8639> - Retired Person Name form,Warning,1
+dicom-validator,380880930b44,Module <Multi-frame Functional Groups> (TAG) (Per-Frame Functional Groups Sequence) Tag (TAG) (Plane Position Sequence) is unexpected,ERROR,10
+dicom-validator,6f01abd4f319,Module <Multi-frame Functional Groups> (TAG) (Shared Functional Groups Sequence) Tag (TAG) (Plane Orientation Sequence) is unexpected,ERROR,10
+dicom-validator,972394b5bb82,Module <Multi-frame Functional Groups> (TAG) (Per-Frame Functional Groups Sequence) Tag (TAG) (Segment Identification Sequence) is unexpected,ERROR,10
+dicom-validator,d0eabe730084,Module <Multi-frame Functional Groups> (TAG) (Per-Frame Functional Groups Sequence) Tag (TAG) (Frame Content Sequence) is unexpected,ERROR,10
+dicom-validator,d81147d20e87,Module <Multi-frame Functional Groups> (TAG) (Shared Functional Groups Sequence) Tag (TAG) (Pixel Measures Sequence) is unexpected,ERROR,10
+dicom-validator,f782376ec325,Module <Multi-frame Functional Groups> (TAG) (Per-Frame Functional Groups Sequence) Tag (TAG) (Derivation Image Sequence) is unexpected,ERROR,10

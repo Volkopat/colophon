@@ -1,0 +1,90 @@
+attribute,value,series,pct_of_derived,category,rule
+Manufacturer,QIICR,412075,85.5371,encoder,QIICR
+Manufacturer,Stony Brook University converted by Imaging Data Commons,21030,4.3653,conversion,converted by IDC
+Manufacturer,Open Health Imaging Foundation,16184,3.3594,institution,Open Health Imaging Foundation
+Manufacturer,Stony Brook University,6074,1.2608,institution,Stony Brook University
+Manufacturer,GE MEDICAL SYSTEMS,5853,1.2149,acquisition_vendor,GE
+Manufacturer,IDC,3251,0.6748,conversion,IDC
+Manufacturer,highdicom,2001,0.4154,encoder,highdicom
+Manufacturer,pydicom-seg,1991,0.4133,encoder,pydicom-seg
+Manufacturer,SIEMENS,1838,0.3815,acquisition_vendor,Siemens
+Manufacturer,Siemens Corporate Research,1762,0.3657,acquisition_vendor,Siemens
+Manufacturer,PixelMed,1292,0.2682,encoder,PixelMed
+Manufacturer,Expert annotation from TCIA,1091,0.2265,institution,TCIA expert annotation
+Manufacturer,Varian Medical Systems,992,0.2059,acquisition_vendor,Varian
+Manufacturer,Sybil,970,0.2013,named_analysis,Sybil
+Manufacturer,ADAC,834,0.1731,acquisition_vendor,ADAC
+Manufacturer,Philips Medical Systems,762,0.1582,acquisition_vendor,Philips
+Manufacturer,Gevaert Lab Converted By Imaging Data Commons,691,0.1434,conversion,converted by IDC
+Manufacturer,MIM Software Inc.,563,0.1169,application,MIM
+Manufacturer,Philips,504,0.1046,acquisition_vendor,Philips
+Manufacturer,Elekta,484,0.1005,acquisition_vendor,Elekta
+Manufacturer,3D Slicer Community,474,0.0984,application,3D Slicer
+Manufacturer,(null),419,0.087,absent,null
+Manufacturer,TOSHIBA,168,0.0349,acquisition_vendor,Toshiba
+Manufacturer,"CoreLab Partners, Inc.",104,0.0216,acquisition_vendor,CoreLab Partners
+Manufacturer,NCI/FNLCR,97,0.0201,institution,NCI/FNLCR
+Manufacturer,Leica Biosystems,96,0.0199,acquisition_vendor,Leica
+Manufacturer,Stanford University,80,0.0166,institution,Stanford
+Manufacturer,PMOD Technologies,25,0.0052,acquisition_vendor,PMOD
+Manufacturer,Philips Healthcare,24,0.005,acquisition_vendor,Philips
+Manufacturer,https://github.com/QIICR/Slicer-SUVFactorCalculator,20,0.0042,encoder,SUVFactorCalculator
+Manufacturer,Plastimatch,1,0.0002,encoder,plastimatch
+ManufacturerModelName,https://github.com/QIICR/dcmqi,380712,79.0269,encoder,dcmqi
+ManufacturerModelName,https://github.com/QIICR/dcmqi.git,16668,3.4599,encoder,dcmqi
+ManufacturerModelName,OHIF-XNAT Viewer 3.2.0,16184,3.3594,application,OHIF
+ManufacturerModelName,TIL Inception-V4 2022 converted by Imaging Data Commons,15868,3.2938,conversion,converted by IDC
+ManufacturerModelName,git@github.com:QIICR/dcmqi.git,13478,2.7977,encoder,dcmqi
+ManufacturerModelName,Pan-Cancer-Nuclei-Seg,6074,1.2608,named_analysis,Pan-Cancer-Nuclei-Seg
+ManufacturerModelName,(null),5938,1.2326,absent,null
+ManufacturerModelName,TIL Custom CNN 2018 converted by Imaging Data Commons,5162,1.0715,conversion,converted by IDC
+ManufacturerModelName,Signa HDxt,2858,0.5933,unclassified,Signa HDxt
+ManufacturerModelName,GENESIS_SIGNA,2308,0.4791,unclassified,GENESIS_SIGNA
+ManufacturerModelName,https://github.com/razorx89/pydicom-seg,1991,0.4133,encoder,pydicom-seg
+ManufacturerModelName,DIRS2,1762,0.3657,named_analysis,DIRS2
+ManufacturerModelName,https://github.com/ImagingDataCommons/highdicom.git,1404,0.2914,encoder,highdicom
+ManufacturerModelName,XSLT from di3data csv extract,1292,0.2682,encoder,XSLT
+ManufacturerModelName,Pinnacle3,800,0.1661,application,Pinnacle
+ManufacturerModelName,https://github.com/qiicr/dcmqi.git,720,0.1495,encoder,dcmqi
+ManufacturerModelName,GBM360,691,0.1434,named_analysis,GBM360
+ManufacturerModelName,https://github.com/imagingdatacommons/highdicom,597,0.1239,encoder,highdicom
+ManufacturerModelName,Avanto,578,0.12,unclassified,Avanto
+ManufacturerModelName,MIM,563,0.1169,application,MIM
+ManufacturerModelName,ARIA RadOnc,520,0.1079,application,ARIA
+ManufacturerModelName,GammaPlan,484,0.1005,application,GammaPlan
+ManufacturerModelName,https://github.com/fedorov/Reporting,474,0.0984,encoder,QIICR Reporting
+ManufacturerModelName,ARIA RTM,472,0.098,application,ARIA
+ManufacturerModelName,Achieva,440,0.0913,unclassified,Achieva
+ManufacturerModelName,Sonata,338,0.0702,unclassified,Sonata
+ManufacturerModelName,Vision 7.3 - External Beam Planning,309,0.0641,unclassified,Vision 7.3 - External Beam Planning
+ManufacturerModelName,Intera,266,0.0552,unclassified,Intera
+ManufacturerModelName,MAGNETOM VISION,246,0.0511,unclassified,MAGNETOM VISION
+ManufacturerModelName,NA,210,0.0436,unclassified,NA
+ManufacturerModelName,git://github.com/QIICR/dcmqi.git,197,0.0409,encoder,dcmqi
+ManufacturerModelName,SIGNA EXCITE,186,0.0386,unclassified,SIGNA EXCITE
+ManufacturerModelName,Optima MR450w,151,0.0313,unclassified,Optima MR450w
+ManufacturerModelName,Verio,142,0.0295,unclassified,Verio
+ManufacturerModelName,SymphonyTim,141,0.0293,unclassified,SymphonyTim
+ManufacturerModelName,DISCOVERY MR750w,116,0.0241,unclassified,DISCOVERY MR750w
+ManufacturerModelName,LocationDesignatorSynthesizer,104,0.0216,named_analysis,LocationDesignatorSynthesizer
+ManufacturerModelName,FNLCR_IVG_RMS_iou_0.7343_0.7175_epoch_60,97,0.0201,named_analysis,FNLCR RMS model
+ManufacturerModelName,Aperio ImageScope converted with highdicom,96,0.0199,encoder,highdicom
+ManufacturerModelName,Symphony,91,0.0189,unclassified,Symphony
+ManufacturerModelName,https://github.com/fedorov/dcmqi.git,90,0.0187,encoder,dcmqi
+ManufacturerModelName,TrioTim,86,0.0179,unclassified,TrioTim
+ManufacturerModelName,Aquilion,84,0.0174,unclassified,Aquilion
+ManufacturerModelName,Discovery CT750 HD,84,0.0174,unclassified,Discovery CT750 HD
+ManufacturerModelName,Mx8000 IDT 16,84,0.0174,unclassified,Mx8000 IDT 16
+ManufacturerModelName,Brilliance 64,84,0.0174,unclassified,Brilliance 64
+ManufacturerModelName,GEMINI TF TOF 16,84,0.0174,unclassified,GEMINI TF TOF 16
+ManufacturerModelName,ePAD,80,0.0166,unclassified,ePAD
+ManufacturerModelName,MAGNETOM VISION plus,64,0.0133,unclassified,MAGNETOM VISION plus
+ManufacturerModelName,Gyroscan Intera,56,0.0116,unclassified,Gyroscan Intera
+ManufacturerModelName,Prisma_fit,49,0.0102,unclassified,Prisma_fit
+ManufacturerModelName,DISCOVERY MR750,44,0.0091,unclassified,DISCOVERY MR750
+ManufacturerModelName,Sensation 64,42,0.0087,unclassified,Sensation 64
+ManufacturerModelName,PMOD,25,0.0052,acquisition_vendor,PMOD
+ManufacturerModelName,Ingenia,24,0.005,unclassified,Ingenia
+ManufacturerModelName,SIGNA HDx,22,0.0046,unclassified,SIGNA HDx
+ManufacturerModelName,Espree,19,0.0039,unclassified,Espree
+ManufacturerModelName,Plastimatch,1,0.0002,encoder,plastimatch

@@ -1,0 +1,26 @@
+[
+ {
+  "id": "PRE-05",
+  "section": "V",
+  "section_title": "Panel design, fixed before Phase 1",
+  "claim": "Claim 1 threshold, set before the data. PRE-01 predicted a largely null result without a number. The number is fixed here, per object class, above floor.",
+  "status": "PENDING",
+  "status_note": "Outcome recorded for four of the eight classes, from the Phase 2 census adjudication. Real World Value Mapping: net error rate 0.00 percent of 20, collection median 0.00, null band. Key Object Selection: net error rate 100.00 percent of 40, collection median 100.00, SUBSTANTIAL, both conditions cleared. Grayscale Softcopy Presentation State: net 0.00 percent of 1,086, collection median 0.00, null band. Parametric Map: net 0.00 percent of 691, collection median 0.00 over a single cluster, null band. Comprehensive SR: class-level net 34.14 percent of 2,118 but collection median 0.12 percent across seven collections, so the conjunction fails and the class is NOT substantial under the registered rule. The row stays PENDING because Comprehensive 3D SR, RT Structure Set, Enhanced SR and Segmentation are not adjudicated.",
+  "value": "null is defined as a post-floor failure rate at or below 5 percent of series in a class; substantial is defined as above 20 percent; the band between is reported as indeterminate and neither claim is made",
+  "sop_class": "per class",
+  "n": "",
+  "denominator": "",
+  "floor": "not applicable, this row defines the instrument rather than quoting a rate",
+  "dropped": "nothing, the full panel is enumerated including tools considered and excluded",
+  "validator": "",
+  "validator_version": "",
+  "command": "python -m colophon.validate",
+  "source_file": "results/phase2/net_rates_rwv_kos.md, results/phase2/net_rates_gsps.md, results/phase2/net_rates_parametric_map.md, results/phase2/net_rates_comprehensive_sr.md, results/phase2/net_rates_comprehensive_3d_sr.md",
+  "derived_from": "C-KOS-05,C-GSPS-09,C-PM-09,C-CSR-11,C-C3D-12",
+  "external_source": "",
+  "pinned_by_test": "",
+  "retired_reason": "",
+  "verified_on": "",
+  "notes": "Consolidated by the orchestrator from two competing track proposals, because merge_ledger replaces a row whole and would otherwise have discarded one. The threshold text and value are reproduced from the registered row unchanged. Two calls are worth a reader's attention and both are recorded in the class files rather than buried: the Comprehensive SR conjunction failing while the class rate is 34.14 percent, and the GSPS DisplayedAreaSelectionSequence class adjudicated PLAUSIBILITY, which if read as NET would put GSPS at 14.00 percent with a 10.68 percent collection median and clear the rule."
+ }
+]

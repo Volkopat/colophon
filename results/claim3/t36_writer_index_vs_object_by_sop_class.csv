@@ -1,0 +1,9 @@
+sop_class_name,analysis_result_id,objects,relabelled,pct_relabelled,index_says_unidentifiable,object_says_unidentifiable
+RT Structure Set Storage,(all),19358,0,0.0,3173,3173
+Segmentation Storage,(all),6386,1001,15.67,1769,768
+Comprehensive 3D SR Storage,(all),5408,5312,98.22,5312,0
+Comprehensive SR Storage,(all),2118,0,0.0,826,826
+Grayscale Softcopy Presentation State Storage,(all),1086,0,0.0,1086,1086
+Parametric Map Storage,(all),691,691,100.0,691,0
+Key Object Selection Document Storage,(all),40,0,0.0,40,40
+Real World Value Mapping Storage,(all),20,0,0.0,0,0

@@ -1,0 +1,9 @@
+collection_id,analysis_result_id,source_DOI,license_short_name,Manufacturer,ManufacturerModelName,series,instances,patients,studies,size_MB,modalities,init_idc
+rider_lung_ct,qiba_volct_1b,10.7937/tcia.2020.1c3h-vp70,CC BY 4.0,Siemens Corporate Research,DIRS2,320,320,32,46,0.5055000000000001,PR,15
+qiba_ct_1c,(null),10.7937/k9/tcia.2016.yxgr4blu,CC BY 3.0,Philips,,252,252,1,3,0.321832,PR,2
+rider_pilot,qiba_volct_1b,10.7937/tcia.2020.1c3h-vp70,CC BY 4.0,Siemens Corporate Research,DIRS2,200,200,8,17,0.28574,PR,15
+qiba_ct_1c,(null),10.7937/k9/tcia.2016.yxgr4blu,CC BY 3.0,GE MEDICAL SYSTEMS,,84,84,1,1,0.11089,PR,2
+qiba_ct_1c,(null),10.7937/k9/tcia.2016.yxgr4blu,CC BY 3.0,TOSHIBA,,84,84,1,1,0.11134999999999999,PR,2
+rider_lung_ct,qiba_volct_1b,10.7937/tcia.2020.1c3h-vp70,CC BY 4.0,,,64,64,32,46,0.100778,PR,15
+qiba_ct_1c,(null),10.7937/k9/tcia.2016.yxgr4blu,CC BY 3.0,SIEMENS,,42,42,1,1,0.056358000000000005,PR,2
+rider_pilot,qiba_volct_1b,10.7937/tcia.2020.1c3h-vp70,CC BY 4.0,,,40,40,8,17,0.05638,PR,15

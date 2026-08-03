@@ -1,0 +1,6 @@
+writing_toolkit,objects,segments,segments_non_manual,seg_absent,pct_seg_absent,seg_present_incomplete,pct_seg_present_incomplete,seg_present_zero_items,seg_present_complete,objects_with_non_manual,objects_any_absent,objects_any_incomplete,objects_any_complete,grade
+dcmqi,2991,35477,32963,32963,100.0,0,0.0,0,0,1569,1569,0,0,conformant but uninformative
+not identifiable from index,1769,2650,2584,714,27.63,0,0.0,0,1870,1703,702,0,1001,conformant but uninformative
+QIICR Reporting via 3D Slicer,474,474,474,474,100.0,0,0.0,0,0,474,474,0,0,conformant but uninformative
+highdicom,768,768,384,0,0.0,0,0.0,0,384,384,0,0,384,informative
+pydicom-seg,384,1889,83,83,100.0,0,0.0,0,0,83,83,0,0,conformant but uninformative

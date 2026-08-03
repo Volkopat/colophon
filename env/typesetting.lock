@@ -1,0 +1,9 @@
+# Typesetting only. Declared apart from env/requirements.lock on purpose.
+#
+# Nothing here touches a measurement. No module under colophon/ that produces a
+# number imports any of it, and results/environment.json says so. The measurement
+# environment is unchanged by this file existing.
+#
+# Installed into env/typesetting/, a virtual environment of its own.
+# Verified: pandoc 3.6.1, reported by pypandoc.get_pandoc_version().
+pypandoc_binary==1.15

@@ -1,0 +1,22 @@
+stratum,writer,analysis_result,series,instances,size_MB,size_GB,mean_MB,sd_MB,collections,largest_collection_pct,patients,has_floor,floor_measured
+dcmqi / totalsegmentator_ct_segmentations,dcmqi,totalsegmentator_ct_segmentations,126051,126051,14187096.758054,13854.586677787109,112.5504498818256,41.47057734529096,1,100.0,26194,True,yes
+not identifiable from index / tcga_sbu_til_maps,not identifiable from index,tcga_sbu_til_maps,21030,21030,2041.908918,1.994051677734375,0.09709505078459345,0.08936684439513416,23,14.92,7600,False,no
+not identifiable from index / (null),not identifiable from index,(null),8977,8977,47937.229546,46.81370072851563,5.340005519215774,6.048337994701441,8,29.94,1666,False,no
+dcmqi / bamf_aimi_annotations,dcmqi,bamf_aimi_annotations,8202,8202,26878.723582,26.248753498046874,3.2770938285783955,3.9430900263848963,22,29.07,4226,True,yes
+dcmqi / dicom_lidc_idri_nodules,dcmqi,dicom_lidc_idri_nodules,6859,6859,1358.147576,1.3263159921875,0.19800956057734365,0.16591133632609842,1,100.0,875,True,yes
+not identifiable from index / pan_cancer_nuclei_seg_dicom,not identifiable from index,pan_cancer_nuclei_seg_dicom,6074,28887,5146239.801514,5025.624806166015,847.2571289947316,511.5837449970262,14,17.88,5184,False,no
+dcmqi / (null),dcmqi,(null),2357,2357,23255.998959999997,22.710936484374997,9.866779363597793,14.372883199271206,13,21.76,1963,True,yes
+dcmqi / prostate_mri_us_biopsy_dicom_annotations,dcmqi,prostate_mri_us_biopsy_dicom_annotations,2328,2328,1414.714818,1.381557439453125,0.607695368556701,0.32903318933757053,1,100.0,842,True,yes
+dcmqi / nnu_net_bpr_annotations,dcmqi,nnu_net_bpr_annotations,2281,2281,21334.022015999995,20.834005874999995,9.352925039894782,2.786528206416106,2,54.45,985,True,yes
+pydicom-seg / (null),pydicom-seg,(null),1991,1991,8222.040396,8.02933632421875,4.129603413360121,1.8690176710684625,3,69.21,34,False,no
+highdicom / eay131_tumor_annotations,highdicom,eay131_tumor_annotations,1404,1404,692.2456679999999,0.6760211601562499,0.49305247008547004,0.6202316797090409,1,100.0,438,True,yes
+dcmqi / nlstseg,dcmqi,nlstseg,601,601,249.62578000000002,0.24377517578125002,0.4153507154742097,0.4003213615810518,1,100.0,601,True,yes
+highdicom / (null),highdicom,(null),597,597,502.609332,0.49082942578125,0.8418916783919598,0.8147322912228441,1,100.0,378,True,yes
+not identifiable from index / qiba_volct_1b,not identifiable from index,qiba_volct_1b,520,520,353.210692,0.34493231640625,0.6792513307692307,1.5866198783166325,2,61.54,40,False,no
+QIICR Reporting via 3D Slicer / qin_lungct_seg,QIICR Reporting via 3D Slicer,qin_lungct_seg,378,378,2834.014604,2.76759238671875,7.497393132275132,2.535716474286271,4,28.57,31,False,no
+dcmqi / prostatex_seg_zones,dcmqi,prostatex_seg_zones,98,98,149.443556,0.14594097265625,1.5249342448979593,0.3110464553415743,1,100.0,98,True,yes
+not identifiable from index / rms_mutation_prediction_expert_annotations,not identifiable from index,rms_mutation_prediction_expert_annotations,97,261,6973.395996,6.80995702734375,71.89068037113402,77.76207695128019,1,100.0,96,False,no
+QIICR Reporting via 3D Slicer / (null),QIICR Reporting via 3D Slicer,(null),96,96,816.4321180000001,0.7972969902343751,8.504501229166667,4.0090587257416805,1,100.0,96,False,no
+dcmqi / pancreas_ct_seg,dcmqi,pancreas_ct_seg,80,80,229.507418,0.224128337890625,2.868842725,0.5358867300135185,1,100.0,80,True,yes
+dcmqi / prostatex_seg_hires,dcmqi,prostatex_seg_hires,66,66,125.17020400000001,0.12223652734375001,1.8965182424242426,0.44644578366506,1,100.0,66,True,yes
+dcmqi / rider_lungct_seg,dcmqi,rider_lungct_seg,59,59,945.9505740000001,0.9237798574218751,16.033060576271186,1.8035019672151278,1,100.0,31,True,yes

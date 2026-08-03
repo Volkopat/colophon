@@ -1,0 +1,886 @@
+{
+  "retrieved_utc": "2026-08-03T02:28:08Z",
+  "source": "https://api.crossref.org/works/<doi>",
+  "records": {
+    "10.1038/s42256-024-00878-8": {
+      "doi": "10.1038/s42256-024-00878-8",
+      "title": "A large-scale audit of dataset licensing and attribution in AI",
+      "subtitle": "",
+      "container": "Nature Machine Intelligence",
+      "short_container": "Nat Mach Intell",
+      "volume": "6",
+      "issue": "8",
+      "page": "975-987",
+      "article_number": "",
+      "year": 2024,
+      "type": "journal-article",
+      "publisher": "Springer Science and Business Media LLC",
+      "authors": [
+        {
+          "family": "Longpre",
+          "given": "Shayne"
+        },
+        {
+          "family": "Mahari",
+          "given": "Robert"
+        },
+        {
+          "family": "Chen",
+          "given": "Anthony"
+        },
+        {
+          "family": "Obeng-Marnu",
+          "given": "Naana"
+        },
+        {
+          "family": "Sileo",
+          "given": "Damien"
+        },
+        {
+          "family": "Brannon",
+          "given": "William"
+        },
+        {
+          "family": "Muennighoff",
+          "given": "Niklas"
+        },
+        {
+          "family": "Khazam",
+          "given": "Nathan"
+        },
+        {
+          "family": "Kabbara",
+          "given": "Jad"
+        },
+        {
+          "family": "Perisetla",
+          "given": "Kartik"
+        },
+        {
+          "family": "Wu",
+          "given": "Xinyi"
+        },
+        {
+          "family": "Shippole",
+          "given": "Enrico"
+        },
+        {
+          "family": "Bollacker",
+          "given": "Kurt"
+        },
+        {
+          "family": "Wu",
+          "given": "Tongshuang"
+        },
+        {
+          "family": "Villa",
+          "given": "Luis"
+        },
+        {
+          "family": "Pentland",
+          "given": "Sandy"
+        },
+        {
+          "family": "Hooker",
+          "given": "Sara"
+        }
+      ]
+    },
+    "10.1186/s13059-025-03725-0": {
+      "doi": "10.1186/s13059-025-03725-0",
+      "title": "The systematic assessment of completeness of public metadata accompanying omics studies in the Gene Expression Omnibus data repository",
+      "subtitle": "",
+      "container": "Genome Biology",
+      "short_container": "Genome Biol",
+      "volume": "26",
+      "issue": "1",
+      "page": "",
+      "article_number": "274",
+      "year": 2025,
+      "type": "journal-article",
+      "publisher": "Springer Science and Business Media LLC",
+      "authors": [
+        {
+          "family": "Huang",
+          "given": "Yu-Ning"
+        },
+        {
+          "family": "Jaiswal",
+          "given": "Pooja Vinod"
+        },
+        {
+          "family": "Rajes",
+          "given": "Anushka"
+        },
+        {
+          "family": "Yadav",
+          "given": "Anushka"
+        },
+        {
+          "family": "Yu",
+          "given": "Dottie"
+        },
+        {
+          "family": "Liu",
+          "given": "Fangyun"
+        },
+        {
+          "family": "Scheg",
+          "given": "Grace"
+        },
+        {
+          "family": "Shih",
+          "given": "Emma"
+        },
+        {
+          "family": "Boldirev",
+          "given": "Grigore"
+        },
+        {
+          "family": "Nakashidze",
+          "given": "Irina"
+        },
+        {
+          "family": "Sarkar",
+          "given": "Aditya"
+        },
+        {
+          "family": "Mehta",
+          "given": "Jay Himanshu"
+        },
+        {
+          "family": "Wang",
+          "given": "Ke"
+        },
+        {
+          "family": "Patel",
+          "given": "Khooshbu Kantibhai"
+        },
+        {
+          "family": "Mirza",
+          "given": "Mustafa Ali Baig"
+        },
+        {
+          "family": "Hapani",
+          "given": "Kunali Chetan"
+        },
+        {
+          "family": "Peng",
+          "given": "Qiushi"
+        },
+        {
+          "family": "Ayyala",
+          "given": "Ram"
+        },
+        {
+          "family": "Guo",
+          "given": "Ruiwei"
+        },
+        {
+          "family": "Kapur",
+          "given": "Shaunak"
+        },
+        {
+          "family": "Ramesh",
+          "given": "Tejasvene"
+        },
+        {
+          "family": "Ciorbă",
+          "given": "Dumitru"
+        },
+        {
+          "family": "Munteanu",
+          "given": "Viorel"
+        },
+        {
+          "family": "Bostan",
+          "given": "Viorel"
+        },
+        {
+          "family": "Dimian",
+          "given": "Mihai"
+        },
+        {
+          "family": "Abedalthagafi",
+          "given": "Malak S."
+        },
+        {
+          "family": "Mangul",
+          "given": "Serghei"
+        }
+      ]
+    },
+    "10.1007/s10278-013-9622-7": {
+      "doi": "10.1007/s10278-013-9622-7",
+      "title": "The Cancer Imaging Archive (TCIA): Maintaining and Operating a Public Information Repository",
+      "subtitle": "",
+      "container": "Journal of Digital Imaging",
+      "short_container": "J Digit Imaging",
+      "volume": "26",
+      "issue": "6",
+      "page": "1045-1057",
+      "article_number": "",
+      "year": 2013,
+      "type": "journal-article",
+      "publisher": "Springer Science and Business Media LLC",
+      "authors": [
+        {
+          "family": "Clark",
+          "given": "Kenneth"
+        },
+        {
+          "family": "Vendt",
+          "given": "Bruce"
+        },
+        {
+          "family": "Smith",
+          "given": "Kirk"
+        },
+        {
+          "family": "Freymann",
+          "given": "John"
+        },
+        {
+          "family": "Kirby",
+          "given": "Justin"
+        },
+        {
+          "family": "Koppel",
+          "given": "Paul"
+        },
+        {
+          "family": "Moore",
+          "given": "Stephen"
+        },
+        {
+          "family": "Phillips",
+          "given": "Stanley"
+        },
+        {
+          "family": "Maffitt",
+          "given": "David"
+        },
+        {
+          "family": "Pringle",
+          "given": "Michael"
+        },
+        {
+          "family": "Tarbox",
+          "given": "Lawrence"
+        },
+        {
+          "family": "Prior",
+          "given": "Fred"
+        }
+      ]
+    },
+    "10.1038/sdata.2017.124": {
+      "doi": "10.1038/sdata.2017.124",
+      "title": "The public cancer radiology imaging collections of The Cancer Imaging Archive",
+      "subtitle": "",
+      "container": "Scientific Data",
+      "short_container": "Sci Data",
+      "volume": "4",
+      "issue": "1",
+      "page": "",
+      "article_number": "170124",
+      "year": 2017,
+      "type": "journal-article",
+      "publisher": "Springer Science and Business Media LLC",
+      "authors": [
+        {
+          "family": "Prior",
+          "given": "Fred"
+        },
+        {
+          "family": "Smith",
+          "given": "Kirk"
+        },
+        {
+          "family": "Sharma",
+          "given": "Ashish"
+        },
+        {
+          "family": "Kirby",
+          "given": "Justin"
+        },
+        {
+          "family": "Tarbox",
+          "given": "Lawrence"
+        },
+        {
+          "family": "Clark",
+          "given": "Ken"
+        },
+        {
+          "family": "Bennett",
+          "given": "William"
+        },
+        {
+          "family": "Nolan",
+          "given": "Tracy"
+        },
+        {
+          "family": "Freymann",
+          "given": "John"
+        }
+      ]
+    },
+    "10.1007/s10278-018-0097-4": {
+      "doi": "10.1007/s10278-018-0097-4",
+      "title": "Reengineering Workflow for Curation of DICOM Datasets",
+      "subtitle": "",
+      "container": "Journal of Digital Imaging",
+      "short_container": "J Digit Imaging",
+      "volume": "31",
+      "issue": "6",
+      "page": "783-791",
+      "article_number": "",
+      "year": 2018,
+      "type": "journal-article",
+      "publisher": "Springer Science and Business Media LLC",
+      "authors": [
+        {
+          "family": "Bennett",
+          "given": "William"
+        },
+        {
+          "family": "Smith",
+          "given": "Kirk"
+        },
+        {
+          "family": "Jarosz",
+          "given": "Quasar"
+        },
+        {
+          "family": "Nolan",
+          "given": "Tracy"
+        },
+        {
+          "family": "Bosch",
+          "given": "Walter"
+        }
+      ]
+    },
+    "10.1158/0008-5472.can-21-0950": {
+      "doi": "10.1158/0008-5472.can-21-0950",
+      "title": "NCI Imaging Data Commons",
+      "subtitle": "",
+      "container": "Cancer Research",
+      "short_container": "",
+      "volume": "81",
+      "issue": "16",
+      "page": "4188-4193",
+      "article_number": "",
+      "year": 2021,
+      "type": "journal-article",
+      "publisher": "American Association for Cancer Research (AACR)",
+      "authors": [
+        {
+          "family": "Fedorov",
+          "given": "Andrey"
+        },
+        {
+          "family": "Longabaugh",
+          "given": "William J.R."
+        },
+        {
+          "family": "Pot",
+          "given": "David"
+        },
+        {
+          "family": "Clunie",
+          "given": "David A."
+        },
+        {
+          "family": "Pieper",
+          "given": "Steve"
+        },
+        {
+          "family": "Aerts",
+          "given": "Hugo J.W.L."
+        },
+        {
+          "family": "Homeyer",
+          "given": "André"
+        },
+        {
+          "family": "Lewis",
+          "given": "Rob"
+        },
+        {
+          "family": "Akbarzadeh",
+          "given": "Afshin"
+        },
+        {
+          "family": "Bontempi",
+          "given": "Dennis"
+        },
+        {
+          "family": "Clifford",
+          "given": "William"
+        },
+        {
+          "family": "Herrmann",
+          "given": "Markus D."
+        },
+        {
+          "family": "Höfener",
+          "given": "Henning"
+        },
+        {
+          "family": "Octaviano",
+          "given": "Igor"
+        },
+        {
+          "family": "Osborne",
+          "given": "Chad"
+        },
+        {
+          "family": "Paquette",
+          "given": "Suzanne"
+        },
+        {
+          "family": "Petts",
+          "given": "James"
+        },
+        {
+          "family": "Punzo",
+          "given": "Davide"
+        },
+        {
+          "family": "Reyes",
+          "given": "Madelyn"
+        },
+        {
+          "family": "Schacherer",
+          "given": "Daniela P."
+        },
+        {
+          "family": "Tian",
+          "given": "Mi"
+        },
+        {
+          "family": "White",
+          "given": "George"
+        },
+        {
+          "family": "Ziegler",
+          "given": "Erik"
+        },
+        {
+          "family": "Shmulevich",
+          "given": "Ilya"
+        },
+        {
+          "family": "Pihl",
+          "given": "Todd"
+        },
+        {
+          "family": "Wagner",
+          "given": "Ulrike"
+        },
+        {
+          "family": "Farahani",
+          "given": "Keyvan"
+        },
+        {
+          "family": "Kikinis",
+          "given": "Ron"
+        }
+      ]
+    },
+    "10.1118/1.3611983": {
+      "doi": "10.1118/1.3611983",
+      "title": "SU‐E‐T‐33: Pydicom: An Open Source DICOM Library",
+      "subtitle": "",
+      "container": "Medical Physics",
+      "short_container": "Medical Physics",
+      "volume": "38",
+      "issue": "6Part10",
+      "page": "3493-3493",
+      "article_number": "",
+      "year": 2011,
+      "type": "journal-article",
+      "publisher": "Wiley",
+      "authors": [
+        {
+          "family": "Mason",
+          "given": "D"
+        }
+      ]
+    },
+    "10.1007/s10278-022-00683-y": {
+      "doi": "10.1007/s10278-022-00683-y",
+      "title": "Highdicom: a Python Library for Standardized Encoding of Image Annotations and Machine Learning Model Outputs in Pathology and Radiology",
+      "subtitle": "",
+      "container": "Journal of Digital Imaging",
+      "short_container": "J Digit Imaging",
+      "volume": "35",
+      "issue": "6",
+      "page": "1719-1737",
+      "article_number": "",
+      "year": 2022,
+      "type": "journal-article",
+      "publisher": "Springer Science and Business Media LLC",
+      "authors": [
+        {
+          "family": "Bridge",
+          "given": "Christopher P."
+        },
+        {
+          "family": "Gorman",
+          "given": "Chris"
+        },
+        {
+          "family": "Pieper",
+          "given": "Steven"
+        },
+        {
+          "family": "Doyle",
+          "given": "Sean W."
+        },
+        {
+          "family": "Lennerz",
+          "given": "Jochen K."
+        },
+        {
+          "family": "Kalpathy-Cramer",
+          "given": "Jayashree"
+        },
+        {
+          "family": "Clunie",
+          "given": "David A."
+        },
+        {
+          "family": "Fedorov",
+          "given": "Andriy Y."
+        },
+        {
+          "family": "Herrmann",
+          "given": "Markus D."
+        }
+      ]
+    },
+    "10.1158/0008-5472.can-17-0336": {
+      "doi": "10.1158/0008-5472.can-17-0336",
+      "title": "<i>dcmqi</i>\n                    : An Open Source Library for Standardized Communication of Quantitative Image Analysis Results Using DICOM",
+      "subtitle": "",
+      "container": "Cancer Research",
+      "short_container": "",
+      "volume": "77",
+      "issue": "21",
+      "page": "e87-e90",
+      "article_number": "",
+      "year": 2017,
+      "type": "journal-article",
+      "publisher": "American Association for Cancer Research (AACR)",
+      "authors": [
+        {
+          "family": "Herz",
+          "given": "Christian"
+        },
+        {
+          "family": "Fillion-Robin",
+          "given": "Jean-Christophe"
+        },
+        {
+          "family": "Onken",
+          "given": "Michael"
+        },
+        {
+          "family": "Riesmeier",
+          "given": "Jörg"
+        },
+        {
+          "family": "Lasso",
+          "given": "Andras"
+        },
+        {
+          "family": "Pinter",
+          "given": "Csaba"
+        },
+        {
+          "family": "Fichtinger",
+          "given": "Gabor"
+        },
+        {
+          "family": "Pieper",
+          "given": "Steve"
+        },
+        {
+          "family": "Clunie",
+          "given": "David"
+        },
+        {
+          "family": "Kikinis",
+          "given": "Ron"
+        },
+        {
+          "family": "Fedorov",
+          "given": "Andriy"
+        }
+      ]
+    },
+    "10.1038/s41597-024-03977-8": {
+      "doi": "10.1038/s41597-024-03977-8",
+      "title": "AI-Generated Annotations Dataset for Diverse Cancer Radiology Collections in NCI Image Data Commons",
+      "subtitle": "",
+      "container": "Scientific Data",
+      "short_container": "Sci Data",
+      "volume": "11",
+      "issue": "1",
+      "page": "",
+      "article_number": "1165",
+      "year": 2024,
+      "type": "journal-article",
+      "publisher": "Springer Science and Business Media LLC",
+      "authors": [
+        {
+          "family": "Murugesan",
+          "given": "Gowtham Krishnan"
+        },
+        {
+          "family": "McCrumb",
+          "given": "Diana"
+        },
+        {
+          "family": "Aboian",
+          "given": "Mariam"
+        },
+        {
+          "family": "Verma",
+          "given": "Tej"
+        },
+        {
+          "family": "Soni",
+          "given": "Rahul"
+        },
+        {
+          "family": "Memon",
+          "given": "Fatima"
+        },
+        {
+          "family": "Farahani",
+          "given": "Keyvan"
+        },
+        {
+          "family": "Pei",
+          "given": "Linmin"
+        },
+        {
+          "family": "Wagner",
+          "given": "Ulrike"
+        },
+        {
+          "family": "Fedorov",
+          "given": "Andrey Y."
+        },
+        {
+          "family": "Clunie",
+          "given": "David"
+        },
+        {
+          "family": "Moore",
+          "given": "Stephen"
+        },
+        {
+          "family": "Van Oss",
+          "given": "Jeff"
+        }
+      ]
+    },
+    "10.1109/msec.2023.3302956": {
+      "doi": "10.1109/msec.2023.3302956",
+      "title": "Challenges of Producing Software Bill of Materials for Java",
+      "subtitle": "",
+      "container": "IEEE Security &amp; Privacy",
+      "short_container": "IEEE Secur. Privacy",
+      "volume": "21",
+      "issue": "6",
+      "page": "12-23",
+      "article_number": "",
+      "year": 2023,
+      "type": "journal-article",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "authors": [
+        {
+          "family": "Balliu",
+          "given": "Musard"
+        },
+        {
+          "family": "Baudry",
+          "given": "Benoit"
+        },
+        {
+          "family": "Bobadilla",
+          "given": "Sofia"
+        },
+        {
+          "family": "Ekstedt",
+          "given": "Mathias"
+        },
+        {
+          "family": "Monperrus",
+          "given": "Martin"
+        },
+        {
+          "family": "Ron",
+          "given": "Javier"
+        },
+        {
+          "family": "Sharma",
+          "given": "Aman"
+        },
+        {
+          "family": "Skoglund",
+          "given": "Gabriel"
+        },
+        {
+          "family": "Soto-Valero",
+          "given": "César"
+        },
+        {
+          "family": "Wittlinger",
+          "given": "Martin"
+        }
+      ]
+    },
+    "10.7717/peerj.2057": {
+      "doi": "10.7717/peerj.2057",
+      "title": "DICOM for quantitative imaging biomarker development: a standards based approach to sharing clinical data and structured PET/CT analysis results in head and neck cancer research",
+      "subtitle": "",
+      "container": "PeerJ",
+      "short_container": "",
+      "volume": "4",
+      "issue": "",
+      "page": "e2057",
+      "article_number": "e2057",
+      "year": 2016,
+      "type": "journal-article",
+      "publisher": "PeerJ",
+      "authors": [
+        {
+          "family": "Fedorov",
+          "given": "Andriy"
+        },
+        {
+          "family": "Clunie",
+          "given": "David"
+        },
+        {
+          "family": "Ulrich",
+          "given": "Ethan"
+        },
+        {
+          "family": "Bauer",
+          "given": "Christian"
+        },
+        {
+          "family": "Wahle",
+          "given": "Andreas"
+        },
+        {
+          "family": "Brown",
+          "given": "Bartley"
+        },
+        {
+          "family": "Onken",
+          "given": "Michael"
+        },
+        {
+          "family": "Riesmeier",
+          "given": "Jörg"
+        },
+        {
+          "family": "Pieper",
+          "given": "Steve"
+        },
+        {
+          "family": "Kikinis",
+          "given": "Ron"
+        },
+        {
+          "family": "Buatti",
+          "given": "John"
+        },
+        {
+          "family": "Beichel",
+          "given": "Reinhard R."
+        }
+      ]
+    },
+    "10.1145/2810103.2813707": {
+      "doi": "10.1145/2810103.2813707",
+      "title": "Imperfect Forward Secrecy",
+      "subtitle": "How Diffie-Hellman Fails in Practice",
+      "container": "Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security",
+      "short_container": "",
+      "volume": "",
+      "issue": "",
+      "page": "5-17",
+      "article_number": "",
+      "year": 2015,
+      "type": "proceedings-article",
+      "publisher": "ACM",
+      "authors": [
+        {
+          "family": "Adrian",
+          "given": "David"
+        },
+        {
+          "family": "Bhargavan",
+          "given": "Karthikeyan"
+        },
+        {
+          "family": "Durumeric",
+          "given": "Zakir"
+        },
+        {
+          "family": "Gaudry",
+          "given": "Pierrick"
+        },
+        {
+          "family": "Green",
+          "given": "Matthew"
+        },
+        {
+          "family": "Halderman",
+          "given": "J. Alex"
+        },
+        {
+          "family": "Heninger",
+          "given": "Nadia"
+        },
+        {
+          "family": "Springall",
+          "given": "Drew"
+        },
+        {
+          "family": "Thomé",
+          "given": "Emmanuel"
+        },
+        {
+          "family": "Valenta",
+          "given": "Luke"
+        },
+        {
+          "family": "VanderSloot",
+          "given": "Benjamin"
+        },
+        {
+          "family": "Wustrow",
+          "given": "Eric"
+        },
+        {
+          "family": "Zanella-Béguelin",
+          "given": "Santiago"
+        },
+        {
+          "family": "Zimmermann",
+          "given": "Paul"
+        }
+      ]
+    }
+  }
+}
