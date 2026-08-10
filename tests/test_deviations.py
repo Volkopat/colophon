@@ -6,6 +6,8 @@ from pathlib import Path
 
 import pytest
 
+from conftest import need_census
+
 from colophon import deviations
 
 
@@ -20,6 +22,7 @@ def test_the_three_changelog_entries_are_the_whole_difference():
 
 
 def test_pin_exposure_is_measured():
+    need_census()
     frame, summary = deviations.dicom3tools_exposure()
     assert summary["measured_objects"] > 0
     # The two conditions are counted apart, never as one number.
@@ -32,6 +35,7 @@ def test_pin_exposure_is_measured():
 
 
 def test_exposure_is_reported_per_class_and_analysis_result():
+    need_census()
     frame, _ = deviations.dicom3tools_exposure()
     if len(frame):
         for column in ("sop_class_name", "analysis_result_id", "condition",
@@ -42,6 +46,7 @@ def test_exposure_is_reported_per_class_and_analysis_result():
 def test_highdicom_is_not_in_the_measurement_path():
     """The whole DEV-02 argument. If a measurement module ever starts calling a
     highdicom reader, the pin stops being inconsequential."""
+    need_census()
     hd = deviations.highdicom_exposure()
     for module, flags in hd["imported_by_measurement_modules"].items():
         assert not flags["used_as_an_instrument"], module

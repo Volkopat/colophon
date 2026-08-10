@@ -9,4 +9,4 @@ A measurement study. It trains nothing, fixes nothing, and counts things.
 # derive from this and a test asserts they agree. The self-citation
 # said 0.1.0 while the tag said v1.0.0, which would have cited a
 # version that never existed.
-__version__ = "1.0.0"
+__version__ = "1.0.1"

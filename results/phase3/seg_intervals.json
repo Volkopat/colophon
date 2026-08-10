@@ -1,0 +1,40 @@
+{
+  "unit": "object",
+  "objects": 6386,
+  "series": 5941,
+  "collections": 67,
+  "mean_series_per_collection": 88.67,
+  "planning_icc": 0.919,
+  "design_effect_at_planning_icc": 81.6,
+  "effective_series_at_planning_icc": 72.8,
+  "grades": {
+    "non-conformant": {
+      "k": 1363,
+      "n": 6386,
+      "pct": 21.34,
+      "lo": 20.36,
+      "hi": 22.37,
+      "half_width": 1.0
+    },
+    "conformant but uninformative": {
+      "k": 3231,
+      "n": 6386,
+      "pct": 50.6,
+      "lo": 49.37,
+      "hi": 51.82,
+      "half_width": 1.23
+    },
+    "informative": {
+      "k": 1792,
+      "n": 6386,
+      "pct": 28.06,
+      "lo": 26.97,
+      "hi": 29.18,
+      "half_width": 1.1
+    }
+  },
+  "method": "Wilson 95 percent, unadjusted for clustering",
+  "not_done": "no outcome-specific intracluster correlation, because per-series conformance outcomes are aggregated to the stratum in the shipped artefacts; the planning ICC is not substituted for one",
+  "census_classes": "the other seven classes are complete enumerations and carry no interval, because they have no sampling error",
+  "command": "python -m colophon.seg_intervals"
+}

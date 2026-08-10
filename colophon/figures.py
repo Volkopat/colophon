@@ -652,6 +652,19 @@ def _write_figure3_objects() -> Path:
             break
     OUT.mkdir(parents=True, exist_ok=True)
     path = OUT / "figure3_objects.json"
+    # Refuse to overwrite a good artefact with an empty one. On a checkout
+    # without the Phase 3 cache this loop finds nothing, and the previous form
+    # wrote `{}` over the committed file, so running the tests destroyed the
+    # figure's source and every figure test then failed on the wreckage rather
+    # than on the missing cache. Silent truncation reading as a result is the
+    # thing this project exists to measure.
+    if len(found) != 3:
+        if path.exists():
+            return path
+        raise FileNotFoundError(
+            "figure 3 needs 3 exemplars and the Phase 3 records yielded %d. "
+            "Run `python -m colophon.phase3` to build the cache; this refuses "
+            "to write a partial artefact." % len(found))
     path.write_text(json.dumps(found, indent=2, sort_keys=True), encoding="utf-8")
     return path
 

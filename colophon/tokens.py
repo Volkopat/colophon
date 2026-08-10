@@ -153,7 +153,22 @@ def resolve(text: str, final: bool = False) -> str:
         if kind == "CP_STATUS_SHORT":
             return cp_sentence(short=True)
         raise KeyError(kind)
-    return TOKEN.sub(sub, text)
+
+    # A field value may itself name a field: `signature_block` is
+    # "Digvijay Patil, {{FIELD:affiliation}}". A single substitution pass
+    # inserted that value and stopped, so the marker shipped verbatim in the
+    # cover letter signature while the field it named was filled. Substitute to
+    # a fixed point, with a depth cap so a field that names itself fails loudly
+    # rather than hanging the build.
+    for _ in range(8):
+        after = TOKEN.sub(sub, text)
+        if after == text:
+            return after
+        text = after
+    raise RecursionError(
+        "a field value still contains a marker after 8 substitution passes, "
+        "which means two fields name each other: %s"
+        % sorted({m.group(0) for m in TOKEN.finditer(text)}))
 
 
 def surviving_markers(text: str) -> list[str]:

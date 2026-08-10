@@ -16,6 +16,8 @@ from pathlib import Path
 
 import pytest
 
+from conftest import need_phase3, need_submission
+
 from colophon import figures, ledger
 
 MANIFEST = figures.OUT / "manifest.json"
@@ -48,6 +50,7 @@ def test_regeneration_is_byte_identical():
     """QA step 1. A figure that changes on every run cannot be checked against
     anything, and a reviewer regenerating from a clean checkout must get what
     the paper shipped."""
+    need_phase3()
     before = _manifest()
     rebuilt = {k: v for k, v in figures.build().items()
                if not k.startswith("_")}
@@ -118,6 +121,7 @@ def test_no_figure_draws_a_title_or_a_caption():
     carried a two-line caption along its bottom edge. The sentence is returned
     for the legend instead, and this checks the drawn object rather than the
     source, because a title can be set in more than one way."""
+    need_phase3()
     figures.build()
     for n in sorted(figures.FIGURES):
         fig, values = figures.FIGURES[n]()
@@ -137,6 +141,7 @@ def test_every_lettering_pair_clears_the_contrast_minimum():
     computed: white on the medium grey at 1.98, and the light accent on white at
     3.54. The checklist row that used to cover this read `manual, not
     measured`."""
+    need_phase3()
     figures.build()
     report = figures.contrast_report()
     assert report["pairs"], "nothing logged a text colour"
@@ -157,6 +162,7 @@ def test_figure_width_is_measured_off_the_shipped_file_not_the_canvas():
     `colophon.assertions`; this asserts the two disagree, which is the fact
     that made the old test worthless.
     """
+    need_submission()
     from colophon import assertions
     result = assertions.figures_measured_from_the_shipped_file()
     assert result.passed, result.detail
@@ -181,6 +187,7 @@ def test_the_contrast_guard_can_fail():
 def test_figure3_uses_real_object_values():
     """The point of figure 3 is that the strings are precise, so a schematic
     placeholder would invert its meaning."""
+    need_phase3()
     p = figures.OUT / "figure3_objects.json"
     if not p.exists():
         pytest.skip("figures not drawn")

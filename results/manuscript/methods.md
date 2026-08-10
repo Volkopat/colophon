@@ -345,12 +345,17 @@ floor set, where highdicom is a writer. The changelog diff between the two
 releases requires network access and is unresolved; the completing command is
 recorded.
 
-**No interval is reported.** Section 2.9 specifies a stratified design-based
-variance and a Taylor-linearised clustered variance and says the clustered
-interval is the one that would be quoted. Neither was computed. Every rate in
-this paper is exact over the objects measured, and no rate carries a bound. The
-Segmentation figures are therefore descriptive of the sample rather than
-estimates of the archive, and are never labelled otherwise.
+**The clustered interval is not reported; the unclustered one is.** Section 2.9
+specifies a stratified design-based variance and a Taylor-linearised clustered
+variance and says the clustered interval is the one that would be quoted. It was
+not computed, because an outcome-specific intracluster correlation cannot be
+derived from the shipped artefacts, in which per-series conformance outcomes are
+aggregated to the stratum. What is quoted for Segmentation, the one class drawn
+as a sample, is the Wilson interval unadjusted for clustering, reported in 3.6
+as a lower bound on width with the design effect implied by the frame's
+registered planning value stated beside it. That planning value is not
+substituted for an outcome correlation. The seven censused classes carry no
+interval and need none, being complete enumerations with no sampling error.
 
 **PRE-07 is deferred.** The manual verification sample, order 400 series
 inspected by hand against cited Part 3 or Part 16 text, has not been run. It is

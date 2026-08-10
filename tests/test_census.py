@@ -6,6 +6,8 @@ import csv
 
 import pytest
 
+from conftest import need_census
+
 from colophon import census
 from colophon.paths import RESULTS
 
@@ -36,6 +38,7 @@ def test_class_order_is_the_eight_non_seg_classes():
 def test_no_partial_class_is_reported():
     """Ledger P2C-01. Only classes whose validated count reaches the manifest
     count may appear in the write-up."""
+    need_census()
     md = RESULTS / "phase2_census.md"
     if not md.exists():
         pytest.skip("no census write-up yet")

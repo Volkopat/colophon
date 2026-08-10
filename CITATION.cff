@@ -20,7 +20,7 @@ keywords:
   - medical imaging informatics
   - measurement study
 repository-code: "https://github.com/Volkopat/colophon"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-08-03"
 references:
   - type: software

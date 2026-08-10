@@ -331,3 +331,37 @@ def test_no_identifier_of_any_shape_reaches_the_blinded_copy():
 
     orcids = re.findall(r"\b\d{4}-\d{4}-\d{4}-\d{3}[\dX]\b", blinded)
     assert not orcids, "unmasked ORCID in the blinded copy: %s" % orcids
+
+
+def test_the_one_sampled_class_carries_an_interval_and_the_censuses_do_not():
+    """An interval on a complete enumeration is not conservative, it is wrong.
+
+    Seven classes are censuses and carry none. Segmentation is a PRE-06 draw,
+    so every proportion on it is an estimate, and the paper previously quoted
+    those proportions bare while Methods promised an interval twice. The
+    interval is quoted now, unadjusted, with the deficit named rather than
+    papered over with the frame's planning ICC.
+    """
+    from colophon import seg_intervals
+    report = seg_intervals.compute()
+    body = (submission.OUT / "02_manuscript_full.md").read_text(encoding="utf-8")
+    # Markdown wraps prose, so an interval can straddle a newline. Line
+    # wrapping is cosmetic and the test should not force the paragraph to
+    # bend around it.
+    flat = " ".join(body.split())
+
+    for label, g in report["grades"].items():
+        pair = "%.2f to %.2f" % (g["lo"], g["hi"])
+        assert pair in flat, (
+            "the %s interval %s is not in the shipped manuscript" % (label, pair))
+        assert g["lo"] < g["pct"] < g["hi"], (label, g)
+
+    # The deficit is named, not hidden: the interval is declared a lower bound
+    # and the implied design effect is stated beside it.
+    assert "lower bound on width" in flat
+    assert "%.1f" % report["design_effect_at_planning_icc"] in flat
+    # And the planning value is explicitly not used to widen anything.
+    assert "not used to widen" in flat
+
+    # No interval is attached to a censused class.
+    assert "carry no interval and need none" in flat

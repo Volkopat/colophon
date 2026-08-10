@@ -1,0 +1,41 @@
+[
+  {
+    "id": "REL-05",
+    "section": "REL",
+    "section_title": "Release",
+    "claim": "The archived release exists and the manuscript cites the version DOI, not the concept DOI.",
+    "status": "VERIFIED",
+    "status_note": "Zenodo mints two DOIs that differ by one in the final digit and the GitHub badge shows the concept one, so the pair is easy to transpose. Read from the Zenodo API rather than from the badge: recid 21781779 carries doi 10.5281/zenodo.21781779 and conceptdoi 10.5281/zenodo.21781778, with metadata.version v1.0.0 and relations.version is_last true.",
+    "value": "version DOI 10.5281/zenodo.21781779, concept DOI 10.5281/zenodo.21781778, tag v1.0.0, both cited on the title page and in the manuscript.",
+    "sop_class": "not applicable",
+    "n": "2",
+    "denominator": "2",
+    "floor": "not applicable, this row records identifiers",
+    "dropped": "nothing. The archive holds the harness and the measured artefacts and not the submission package, which README states",
+    "validator": "none, Zenodo API",
+    "validator_version": "not applicable",
+    "command": "python -m colophon.submit --final",
+    "source_file": "results/submission/fields.json",
+    "verified_on": "2026-08-03"
+  },
+  {
+    "id": "SUB-18",
+    "section": "SUB",
+    "section_title": "Submission package",
+    "claim": "The refusal to emit a final package with an unfilled field is demonstrated on every run, including runs where nothing is unfilled.",
+    "status": "MEASURED",
+    "status_note": "The test skipped once every field was filled, which is the moment the package is ready to ship and therefore the moment the guard most needs to be known to work. A guard that goes quiet exactly when the thing it guards is about to happen is not evidence.",
+    "value": "The test empties one field in a copy of the store and asserts the final build raises. It runs on a filled store rather than skipping.",
+    "sop_class": "not applicable",
+    "n": "1",
+    "denominator": "1",
+    "floor": "not applicable, this row records a guard",
+    "dropped": "nothing",
+    "validator": "none",
+    "validator_version": "not applicable",
+    "command": "python -m pytest tests/test_addendum04.py",
+    "source_file": "tests/test_addendum04.py",
+    "pinned_by_test": "tests/test_addendum04.py::test_a_final_package_refuses_while_a_field_is_empty",
+    "verified_on": "2026-08-03"
+  }
+]

@@ -13,6 +13,7 @@ from pathlib import Path
 import pytest
 
 from colophon import ledger
+from colophon import archive
 from colophon.paths import ENV, LEDGER, REPO, RESULTS
 
 ROWS = ledger.load()
@@ -80,6 +81,12 @@ def test_source_files_exist():
         for token in re.split(r"\s+and\s+|[;,]\s*", r["source_file"]):
             token = token.strip()
             if not token or "*" in token:
+                continue
+            if archive.excluded(token):
+                # Absent by design, not missing. The public archive does not
+                # carry this path and colophon.archive records why. The ledger
+                # row still names where the claim came from, which is the point
+                # of the column.
                 continue
             assert (REPO / token).exists(), (
                 "%s points at %s which does not exist" % (r["id"], token))

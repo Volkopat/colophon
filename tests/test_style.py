@@ -9,6 +9,7 @@ from __future__ import annotations
 import pytest
 
 from colophon.paths import REPO
+from colophon import archive
 
 SKIP_DIRS = {".git", "_cache", "__pycache__", ".pytest_cache", "env"}
 CHECKED = (".py", ".md", ".cff", ".toml", ".yml", ".yaml")
@@ -52,6 +53,8 @@ def test_the_verbatim_exemption_is_narrow():
     """A widening exemption list is how a style rule stops being a rule."""
     assert VERBATIM == {"COLOPHON_BRIEF.md"}
     for name in VERBATIM:
+        if archive.excluded(name):
+            continue
         assert (REPO / name).exists(), "%s is exempted but does not exist" % name
 
 

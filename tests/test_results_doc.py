@@ -18,6 +18,8 @@ import re
 
 import pytest
 
+from conftest import need_census
+
 from colophon import census
 from colophon.paths import REPO, LEDGER, RESULTS
 
@@ -142,6 +144,7 @@ def test_no_partial_class_carries_a_rate():
     applied to the manuscript. Naming the class with its coverage counts is
     allowed and required; putting a percentage on the same line is not.
     """
+    need_census()
     text = _doc()
     complete, counts = _complete_classes()
     partial = [n for n in counts if n not in complete]
@@ -157,6 +160,7 @@ def test_no_partial_class_carries_a_rate():
 
 def test_partial_classes_are_absent_from_the_rate_sections():
     """Not even a bare count, once the document starts reporting rates."""
+    need_census()
     body = _rate_sections(_doc())
     complete, counts = _complete_classes()
     for name in counts:
@@ -174,6 +178,7 @@ def test_unadjudicated_class_carries_no_rate():
     to quote a rate against, and the project rule is that a rate without its
     floor is not a number.
     """
+    need_census()
     text = _doc()
     body = _rate_sections(text)
     complete, _ = _complete_classes()
@@ -191,6 +196,7 @@ def test_unadjudicated_class_carries_no_rate():
 
 def test_every_class_reported_with_a_rate_is_complete_and_adjudicated():
     """The positive form, so the guard cannot pass by the document going empty."""
+    need_census()
     body = _rate_sections(_doc())
     reportable = _reportable()
     assert reportable, "no class is both complete and adjudicated"
@@ -376,6 +382,7 @@ def test_no_pre_row_is_proposed():
 
 def test_the_guard_can_fail():
     """A guard that cannot fail is not a guard."""
+    need_census()
     complete, counts = _complete_classes()
     assert set(counts) - complete, (
         "every class is complete, so the partial-class guards are vacuous and "

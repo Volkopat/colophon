@@ -1,13 +1,13 @@
 # Claims map: every claim, its ledger row, and the artefact that carries it
 
-Generated 2026-08-03T15:27:42Z by `python -m colophon.claims_map`. Snapshot: **297 ledger rows**, 255 files under
-`results/`, 210 of them scanned as possible carriers.
+Generated 2026-08-10T03:13:10Z by `python -m colophon.claims_map`. Snapshot: **303 ledger rows**, 259 files under
+`results/`, 211 of them scanned as possible carriers.
 
 Parallel tracks write into `results/` while this runs, so the map describes the
 repository at the timestamp above. A regeneration that differs is explained by
 the timestamp before it is read as drift.
 
-Status counts in this snapshot: DERIVED 19, LITERATURE 11, MEASURED 184, PENDING 25, RETIRED 8, VERIFIED 50.
+Status counts in this snapshot: DERIVED 18, LITERATURE 11, MEASURED 190, PENDING 25, RETIRED 8, VERIFIED 51.
 
 ## How to read this
 
@@ -17,7 +17,7 @@ opens to check it. `source_file` is the artefact the row itself names.
 text, which is a different and weaker thing: a write-up can rest on a number
 without ever naming the row it came from.
 
-The third leg is `results/manuscript/`, which holds 24 file(s): `absence_claims.csv`, `absence_claims.md`, `abstract.md`, `abstract_venue.md`, `citation_check.json`, `discussion.md`, `figures.md`, `front_matter.md`, `introduction.md`, `methods.md`, `references.md`, `references_crossref.json`, `results.md`, `table1.csv`, `table1_writers.csv`, `table1_writers.md`, `table2.csv`, `table2_floor_set.csv`, `table2_floor_set.md`, `table3.csv`, `table4.csv`, `table5.csv`, `table6.csv`, `tables.md`. **65 of the 297 claim ids are
+The third leg is `results/manuscript/`, which holds 24 file(s): `absence_claims.csv`, `absence_claims.md`, `abstract.md`, `abstract_venue.md`, `citation_check.json`, `discussion.md`, `figures.md`, `front_matter.md`, `introduction.md`, `methods.md`, `references.md`, `references_crossref.json`, `results.md`, `table1.csv`, `table1_writers.csv`, `table1_writers.md`, `table2.csv`, `table2_floor_set.csv`, `table2_floor_set.md`, `table3.csv`, `table4.csv`, `table5.csv`, `table6.csv`, `tables.md`. **65 of the 303 claim ids are
 named inside it.** The rest are carried by a results write-up or by a CSV table
 and have no manuscript location yet. Files there whose name marks them as a
 numbered table or figure: `table1.csv`, `table1_writers.csv`, `table1_writers.md`, `table2.csv`, `table2_floor_set.csv`, `table2_floor_set.md`, `table3.csv`, `table4.csv`, `table5.csv`, `table6.csv`. A claim named in one of those has a table to point
@@ -317,11 +317,11 @@ prose through the file that lists it.
 | FIG-06 | FIG | MEASURED | No figure is drawn wider than the venue's text column, s ... | results/submission/manifest.json | yes | results/ai_use.md |
 | C3T-11 | C3T | MEASURED | The version column of the recoverability ladder carries ... | results/claim3/t33_recoverability_ladder.csv and results/manuscript/table3.csv | yes | results/ai_use.md |
 | DEV-03 | DEV | MEASURED | What the caller writes into SoftwareVersions on highdico ... | results/deviations/pin_deviations.json | yes | results/ai_use.md |
-| FIG-07 | FIG | DERIVED | The rule-ordering undercount recorded at FIG-03 is discl ... | results/manuscript/results.md and results/figures/silent_column_check.json | yes | results/ai_use.md |
+| FIG-07 | FIG | MEASURED | The figure 3 writer refuses to overwrite a good artefact ... | colophon/figures.py | yes | results/ai_use.md |
 | SUB-06 | SUB | DERIVED | The assembled manuscript body is long for an Original Pa ... | results/submission/07_checklist.md and results/submission/manifest.json | yes | (nothing) |
 | SUB-07 | SUB | MEASURED | The figure set regenerates byte-identical in every forma ... | results/figures/reproducibility.json | yes | (nothing) |
 | SUB-08 | SUB | MEASURED | Every row of the checklist's computed table reports some ... | results/submission/07_checklist.md | yes | (nothing) |
-| DISC-01 | DISC | MEASURED | No object in the measured set is written by the disclose ... | results/claim3/disclosure_search.json | yes | results/manuscript/absence_claims.csv; results/manuscript/absence_claims.md; results/submission/00_cover_letter.md; results/submission/01_title_page.md; results/submission/02_manuscript_full.md |
+| DISC-01 | DISC | MEASURED | No object in the measured set is written by the disclose ... | results/claim3/disclosure_search.json | yes | results/manuscript/absence_claims.csv; results/manuscript/absence_claims.md; results/submission/01_title_page.md; results/submission/02_manuscript_full.md |
 | DISC-02 | DISC | MEASURED | Absence and universal claims across the package were swe ... | results/manuscript/absence_claims.md and results/manuscript/absence_claims.csv | yes | (nothing) |
 | SUB-09 | SUB | MEASURED | Every placeholder in the package is a key in one JSON fi ... | results/submission/fields.json | yes | (nothing) |
 | SUB-10 | SUB | MEASURED | The archived snapshot contains the code and the generate ... | results/release/snapshot.json and results/release/RELEASE_NOTES.md | yes | (nothing) |
@@ -334,13 +334,19 @@ prose through the file that lists it.
 | SUB-14 | SUB | VERIFIED | The competing-interests employment window is stated by t ... | results/submission/fields.json and results/submission/01_title_page.md | yes | (nothing) |
 | REL-04 | REL | MEASURED | Every version string in the package derives from one sou ... | colophon/__init__.py and results/submission/02_manuscript_full.md | yes | (nothing) |
 | SUB-15 | SUB | MEASURED | No identifier of any shape reaches the blinded copy, che ... | results/submission/03_manuscript_blinded.md | yes | (nothing) |
+| SUB-16 | SUB | MEASURED | No placeholder, internal note or unresolved marker reach ... | results/submission/00_cover_letter.md | yes | (nothing) |
+| SUB-17 | SUB | MEASURED | The cover letter reads as a letter: a date, an addressee ... | results/submission/00_cover_letter.md | yes | (nothing) |
+| REL-05 | REL | VERIFIED | The archived release exists and the manuscript cites the ... | results/submission/fields.json | yes | (nothing) |
+| SUB-18 | SUB | MEASURED | The refusal to emit a final package with an unfilled fie ... | tests/test_addendum04.py | yes | (nothing) |
+| ARC-01 | REL | MEASURED | The public archive's own test suite passes on a clean cl ... | colophon/archive.py and tests/conftest.py | yes | (nothing) |
+| STAT-01 | STAT | MEASURED | The one class drawn as a sample carries an interval; the ... | results/phase3/seg_intervals.json | yes | (nothing) |
 
 ## 1. Orphan claims
 
 A claim nothing carries is a claim that will not survive review. Two failures,
 counted apart because they are not equally bad.
 
-**No artefact behind the row: 13 of 297.** The row names no source file, or names
+**No artefact behind the row: 13 of 303.** The row names no source file, or names
 one that is not on disk.
 
 | id | status | why |
@@ -359,11 +365,11 @@ one that is not on disk.
 | C-PM-08 | MEASURED | source file missing: results/phase2/adjudication_parametric_map.csv; results/phase2/net_rates_parametric_map.md; no results markdown names the id |
 | C-PM-09 | DERIVED | source file missing: results/phase2/adjudication_parametric_map.csv; results/phase2/net_rates_parametric_map.md |
 
-**No results markdown names the id: 196 of 297.** The evidence file exists, but no
+**No results markdown names the id: 202 of 303.** The evidence file exists, but no
 write-up refers to the claim by id, so the route from prose to ledger row is one
 a reader has to reconstruct.
 
-Under the union of the two conditions, **198 of 297 rows are orphans**.
+Under the union of the two conditions, **204 of 303 rows are orphans**.
 
 | id | status | source_file | why |
 |---|---|---|---|
@@ -565,10 +571,16 @@ Under the union of the two conditions, **198 of 297 rows are orphans**.
 | SUB-14 | VERIFIED | results/submission/fields.json and results/submission/01_title_page.md | no results markdown names the id |
 | REL-04 | MEASURED | colophon/__init__.py and results/submission/02_manuscript_full.md | no results markdown names the id |
 | SUB-15 | MEASURED | results/submission/03_manuscript_blinded.md | no results markdown names the id |
+| SUB-16 | MEASURED | results/submission/00_cover_letter.md | no results markdown names the id |
+| SUB-17 | MEASURED | results/submission/00_cover_letter.md | no results markdown names the id |
+| REL-05 | VERIFIED | results/submission/fields.json | no results markdown names the id |
+| SUB-18 | MEASURED | tests/test_addendum04.py | no results markdown names the id |
+| ARC-01 | MEASURED | colophon/archive.py and tests/conftest.py | no results markdown names the id |
+| STAT-01 | MEASURED | results/phase3/seg_intervals.json | no results markdown names the id |
 
 ## 2. Uncited artefacts
 
-Files under `results/` that no ledger row's `source_file` points at. **85 of 210
+Files under `results/` that no ledger row's `source_file` points at. **84 of 211
 scanned files.** An artefact no claim rests on is either dead weight or an
 unrecorded claim, and the two are told apart by opening the file, not by this
 table. Where a parallel track has already proposed a row naming the file, the
@@ -627,7 +639,6 @@ note says so: those stop being uncited when
 | results/phase3/seg_identification_segments_by_analysis_result.csv |  |
 | results/phase3/seg_series_status.csv |  |
 | results/release/COMMANDS.md |  |
-| results/submission/00_cover_letter.md |  |
 | results/submission/04_tables.md |  |
 | results/submission/05_figure_legends.md |  |
 | results/submission/06_supplementary.md |  |
@@ -717,7 +728,7 @@ The project rule is that a failure rate quoted without its floor is not a
 number. Which rows quote a rate is decided by
 `colophon.ledger.rates_without_floor`, not by a second copy of the rule here.
 
-**108 MEASURED rows quote a rate. 0 of them name no floor.** A rate with no
+**110 MEASURED rows quote a rate. 0 of them name no floor.** A rate with no
 floor is not a number, so the second figure is the one that has to stay at zero.
 
 | id | status | value | floor named | floor |
@@ -778,11 +789,11 @@ floor is not a number, so the second figure is the one that has to stay at zero.
 | F2-06 | MEASURED | Jaccard 0.8571, 6 shared of 7 in the unio ... | yes | this table is the floor; it does not quote a rate against on ... |
 | F2-07 | MEASURED | dciodvfy e4c7fa2d56f7: Grayscale Softcopy Presentation State Storage 4 ... | yes | this table is the floor; it does not quote a rate against on ... |
 | F2-08 | MEASURED | complete: Real World Value Mapping Storage 20 series; Key Object Selec ... | yes | not applicable, no validator involve ... |
-| F3-02 | MEASURED | 13 of 296 rows have no artefact on disk; 195 of 296 are named by no re ... | yes | not applicable, no validator is involved and no conformance ... |
-| F3-03 | MEASURED | 85 of 210 scanned files are named by no source_file in the ledge ... | yes | not applicable, no validator is involved and no conformance ... |
+| F3-02 | MEASURED | 13 of 301 rows have no artefact on disk; 200 of 301 are named by no re ... | yes | not applicable, no validator is involved and no conformance ... |
+| F3-03 | MEASURED | 84 of 210 scanned files are named by no source_file in the ledge ... | yes | not applicable, no validator is involved and no conformance ... |
 | F3-05 | MEASURED | 8 RETIRED rows, 8 carry a reason, 6 name a successor, 6 of those succe ... | yes | not applicable, no validator is involved and no conformance ... |
-| F3-07 | MEASURED | 108 rows quote a rate by the ledger's own rule, 0 of them name no floo ... | yes | not applicable, no validator is involved and no conformance ... |
-| F3-08 | MEASURED | 160 of 296 rows name a test, 142 distinct tests, 0 name a test that do ... | yes | not applicable, no validator is involved and no conformance ... |
+| F3-07 | MEASURED | 109 rows quote a rate by the ledger's own rule, 0 of them name no floo ... | yes | not applicable, no validator is involved and no conformance ... |
+| F3-08 | MEASURED | 162 of 301 rows name a test, 143 distinct tests, 0 name a test that do ... | yes | not applicable, no validator is involved and no conformance ... |
 | G2-02 | MEASURED | 5 of 138 query rows carry a hit count captured at search time; 133 do ... | yes | not applicable, no validator involve ... |
 | G2-03 | MEASURED | condition (a) met for 5 of 138 query rows; condition (b) met for 4 scr ... | yes | not applicable, no validator involve ... |
 | G2-04 | MEASURED | 132 of 138 query rows were issued against a general web search whose e ... | yes | not applicable, no validator involve ... |
@@ -830,11 +841,13 @@ floor is not a number, so the second figure is the one that has to stay at zero.
 | SUB-11 | MEASURED | 11 assertions, up from 10. Strengthened: N-of-M pairs recompute from t ... | yes | not applicable, this row counts assertion ... |
 | SUB-12 | MEASURED | 6 of 6 figures cited in both manuscript copies, first-citation order 1 ... | yes | not applicable, this row counts citation ... |
 | SUB-13 | MEASURED | 7 of 7 documents converted with pypandoc-binary 1.15 carrying pandoc 3 ... | yes | not applicable, this row reports format checks and not a val ... |
+| SUB-18 | MEASURED | The test empties one field in a copy of the store and asserts the fina ... | yes | not applicable, this row records a guar ... |
+| STAT-01 | MEASURED | Segmentation over 6,386 objects: non-conformant 21.34 percent (95 perc ... | yes | the intervals are quoted on the same graded counts the floor ... |
 
 ## 7. Test coverage
 
 `pinned_by_test` is what stops a claim regressing silently, so the field is
-worth only as much as the test behind it. **161 rows name a test, 143 distinct
+worth only as much as the test behind it. **163 rows name a test, 144 distinct
 tests, 0 rows name a test that does not exist, 0 rows whose test did not
 pass.**
 
@@ -1001,6 +1014,8 @@ pass.**
 | SUB-14 | tests/test_submission.py::test_the_employment_disclosure_names_the_two_works_it_says_it_names | yes | PASSED |
 | REL-04 | tests/test_references.py::test_every_version_string_derives_from_one_source | yes | PASSED |
 | SUB-15 | tests/test_submission.py::test_no_identifier_of_any_shape_reaches_the_blinded_copy | yes | PASSED |
+| SUB-18 | tests/test_addendum04.py::test_a_final_package_refuses_while_a_field_is_empty | yes | PASSED |
+| STAT-01 | tests/test_submission.py::test_the_one_sampled_class_carries_an_interval_and_the_censuses_do_not | yes | PASSED |
 
 Tests were not run in this pass, so 3 rows report their result as not run.
 

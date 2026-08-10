@@ -1,7 +1,7 @@
 {
   "tracked": {
-    "files": 354,
-    "bytes": 15287219,
+    "files": 362,
+    "bytes": 15330401,
     "megabytes": 15.3,
     "dicom_files": 0
   },
@@ -41,6 +41,6 @@
     },
     "non_commercial_series": 1012
   },
-  "version": "1.0.0",
-  "tag": "v1.0.0"
+  "version": "1.0.1",
+  "tag": "v1.0.1"
 }

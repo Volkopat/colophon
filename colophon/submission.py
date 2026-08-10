@@ -34,12 +34,14 @@ Reproduce with `python -m colophon.submission`.
 from __future__ import annotations
 
 import hashlib
+import datetime as _dt
 import json
 import re
 import shutil
 from pathlib import Path
 
 from . import citations, references, tokens
+from .tokens import load_fields
 from .paths import RESULTS, REPO
 
 MANUSCRIPT = RESULTS / "manuscript"
@@ -463,13 +465,37 @@ def _ladder_headline() -> str:
     return "%d of %d" % (int((lvl == "none").sum()), len(ladder))
 
 
+def _letter_date() -> str:
+    """The date on the letter, stamped at build.
+
+    `cover_letter_date` held the string "stamped at final build", which is a
+    description of what should happen rather than a date, and it printed at the
+    head of the letter exactly as written. A field whose value is an instruction
+    is not a field. The date is stamped here; the field still overrides it if it
+    is set to something that looks like a date.
+    """
+    override = str(load_fields().get("cover_letter_date", {}).get("value", ""))
+    if re.search(r"\d{4}", override):
+        return override.strip()
+    return _dt.date.today().strftime("%d %B %Y").lstrip("0")
+
+
+def _aycan_denominator() -> str:
+    """The searched-object count on its own, without the method clause.
+
+    The full sentence belongs on the title page, where the attributes searched
+    and the two that cannot be searched are stated beside it."""
+    m = re.search(r"of ([\d,]+) objects searched", tokens.measured("aycan_objects"))
+    return m.group(1) if m else "the searched set"
+
+
 def cover_letter() -> str:
     return """# Cover letter
 
-{{FIELD:cover_letter_date}}
+<<LETTER_DATE>>
 
-{{FIELD:editor_name}}
-Editor-in-Chief, <<VENUE>>
+The Editor-in-Chief
+<<VENUE>>
 
 Dear Editor,
 
@@ -517,18 +543,20 @@ The manuscript is original, is not under consideration elsewhere, and has not
 been published previously. I have no competing interests bearing on this study.
 One prior commercial relationship is disclosed on the title page because it lies
 behind two cited prior works, and the disclosure is split into what was measured
-and what I state. **Measured:** {{MEASURED:aycan_objects}}. **Stated:** this
-study was not carried out at that company and used none of its data, code,
-hardware, network, licences or working time.
+and what I state. **Measured:** no object in the measured set is written by that
+company, 0 of <<SEARCHED_N>> objects searched; the attributes searched and the two
+that could not be searched are stated on the title page. **Stated:** this study
+was not carried out at that company and used none of its data, code, hardware,
+network, licences or working time.
 
-{{FIELD:suggested_reviewers}}
+**Suggested reviewers.** {{FIELD:suggested_reviewers}}
 
 Thank you for considering the manuscript.
 
 Yours sincerely,
 
 {{FIELD:signature_block}}
-""".replace("<<VENUE>>", VENUE["name"]).replace("<<TITLE>>", TITLE)        .replace("<<LADDER>>", _ladder_headline())
+""".replace("<<VENUE>>", VENUE["name"]).replace("<<TITLE>>", TITLE)        .replace("<<LADDER>>", _ladder_headline())        .replace("<<LETTER_DATE>>", _letter_date())        .replace("<<SEARCHED_N>>", _aycan_denominator())
 
 
 def figure_legends() -> str:

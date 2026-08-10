@@ -1,4 +1,4 @@
-# Release notes, v1.0.0
+# Release notes, v1.0.1
 
 First public release of the measurement harness for the manuscript
 "Conformant and uninformative: producer attribution in 35,107 AI-derived DICOM
@@ -12,7 +12,7 @@ state.
 
 ## What the snapshot contains
 
-**354 tracked files, 15.3 MB.** Measured with `git ls-files`, not estimated.
+**362 tracked files, 15.3 MB.** Measured with `git ls-files`, not estimated.
 That is the measurement code, the tests, the claims ledger, every generated
 results artefact, the six figures, the drafted Correction Proposal and the
 assembled submission package.

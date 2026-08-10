@@ -221,7 +221,7 @@ once, and that no bare surname citation remains.
 ## This study
 
 38. Patil D. colophon: a conformance and provenance census of AI-derived DICOM
-    objects in the NCI Imaging Data Commons, version 1.0.0. Zenodo.
+    objects in the NCI Imaging Data Commons, version 1.0.1. Zenodo.
     https://github.com/Volkopat/colophon. Version DOI `[FIELD: Zenodo version
     DOI, minted when the release is cut]`, concept DOI `[FIELD: Zenodo concept
     DOI]`.

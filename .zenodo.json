@@ -1,6 +1,6 @@
 {
   "title": "colophon: a conformance and provenance census of AI-derived DICOM objects in the NCI Imaging Data Commons",
-  "version": "v1.0.0",
+  "version": "v1.0.1",
   "upload_type": "software",
   "license": "MIT",
   "access_right": "open",

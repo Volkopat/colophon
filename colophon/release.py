@@ -27,7 +27,11 @@ OUT = RESULTS / "release"
 ZENODO = REPO / ".zenodo.json"
 CMD = "python -m colophon.release"
 
-VERSION = "1.0.0"
+# The single source is colophon.__version__. This module writes
+# .zenodo.json, so a literal here silently reverts a version bump the
+# next time the suite runs: that is exactly what happened between
+# v1.0.0 and v1.0.1.
+from . import __version__ as VERSION
 TAG = "v" + VERSION
 TITLE = ("colophon: a conformance and provenance census of AI-derived DICOM "
          "objects in the NCI Imaging Data Commons")

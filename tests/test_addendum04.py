@@ -119,11 +119,30 @@ def test_the_absence_sweep_runs_and_reports_rather_than_edits():
 
 
 # --- item 4, the fields ---------------------------------------------------------
-def test_a_final_package_refuses_while_a_field_is_empty():
-    if not tokens.unfilled():
-        pytest.skip("every field is filled, so the refusal cannot be shown")
+def test_a_final_package_refuses_while_a_field_is_empty(monkeypatch):
+    """The refusal must be demonstrable when every field is filled.
+
+    This used to skip once nothing was unfilled, which is the moment the package
+    is ready to ship and therefore the moment the guard most needs to be known
+    to work. A test that goes quiet exactly when the thing it guards is about to
+    happen is not evidence of anything. It empties one field in a copy of the
+    store instead, so the refusal is exercised on a real build every run.
+    """
+    real = tokens.load_fields()
+    assert real, "there is no field store to empty"
+    victim = sorted(real)[0]
+    hobbled = {k: dict(v) for k, v in real.items()}
+    hobbled[victim]["value"] = ""
+    monkeypatch.setattr(tokens, "load_fields", lambda: hobbled)
+
+    assert tokens.unfilled() == [victim]
     with pytest.raises(tokens.UnfilledField):
         submission.build(final=True)
+
+
+def test_the_refusal_is_not_an_artefact_of_the_monkeypatch():
+    """The real store is intact and a real final build is permitted."""
+    assert tokens.unfilled() == [] or submission.build(final=False)
 
 
 def test_a_draft_package_renders_every_unfilled_field_visibly():

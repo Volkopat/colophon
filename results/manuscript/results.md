@@ -402,16 +402,31 @@ an instrument and no object in the measured set was written by either version
 **Segmentation message classes are gross and unadjudicated**, so no net
 conformance rate is quoted for the largest class measured.
 
-**Non-independence, and the interval that is not reported.** Series within a
-collection are not independent, and the effective sample size of the
-Segmentation frame is bounded by its stratum-by-collection cells rather than by
-its series. **No confidence interval, standard error, variance or design effect
-is reported anywhere in this paper.** Methods 2.9 registers a clustered interval
-as the one that would be quoted and none was computed, so the Segmentation rates
-are arithmetically correct over the objects measured and are unbounded rather
-than estimated. They are never labelled population estimates. This is a
-deviation from 2.9 and is declared here and in 3.7 rather than left to a reader
-to notice that the word appears twice as a promise and never as a number.
+**Non-independence, and the precision of the one class that is a sample.** Seven
+of the eight classes are complete enumerations of their frame. A complete
+enumeration has no sampling error, so an interval on it would not be
+conservative, it would be meaningless, and none is quoted. Segmentation is the
+exception, drawn under the PRE-06 frame, so every proportion computed on it is
+an estimate. Over its 6,386 objects: non-conformant 21.34 percent (95 percent
+Wilson 20.36 to 22.37), conformant but uninformative 50.60 percent (49.37 to
+51.82), informative 28.06 percent (26.97 to 29.18), computed with the same
+function and the same registered reporting rule Phase 3 already applies to the
+identification proportions.
+
+**These intervals are unadjusted for clustering and are a lower bound on
+width.** Objects nest in series and series nest in 67 collections, at a realised
+mean of 88.7 series per collection. The frame's registered planning intracluster
+correlation of 0.919 implies a design effect of 81.6 at that cluster size, which
+would leave roughly 73 effective series. That number is reported for scale and
+is not used to widen the intervals, because the planning value was measured on
+the proxy columns the frame registered rather than on a conformance outcome, and
+treating it as the intracluster correlation of conformance would overstate the
+width as badly as ignoring clustering understates it. An outcome-specific
+intracluster correlation is not computable from the shipped artefacts, in which
+per-series conformance outcomes are aggregated to the stratum. Methods 2.9
+registers a clustered interval as the one that would be quoted; what is quoted
+is the unclustered one with the deficit named, and 2.10 and 3.7 carry the
+deviation.
 
 **One release.** Every figure is scoped to IDC v24 and the frame is void on the
 next release.
@@ -427,10 +442,13 @@ next release.
   intra-instrument and a second human adjudicator is outstanding.
 - **No commit date or nearest tag** for the dcmqi SHAs, which need the upstream
   history and were not fetched.
-- **No confidence interval, standard error, variance or design effect**, for any
-  rate in this paper. Methods 2.9 describes a clustered interval as the one that
-  would be quoted; none was computed. The Segmentation rates are exact over the
-  objects measured and carry no bound.
+- **No clustered interval on any rate.** Methods 2.9 describes a clustered
+  interval as the one that would be quoted. The Segmentation rates now carry an
+  unclustered Wilson interval, reported in 3.6 as a lower bound on width with
+  the implied design effect stated beside it; the clustered interval itself is
+  not computed, because an outcome-specific intracluster correlation cannot be
+  derived from the shipped artefacts. The seven censused classes carry no
+  interval and need none, having no sampling error.
 - **No reclassification of the two cells where the ordered rule table matches an
   institution or a declined value before reaching a producer rule** (3.2.1b,
   FIG-03). They stay as the table decides them, the deciding values are printed,

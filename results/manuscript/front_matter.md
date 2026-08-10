@@ -77,11 +77,6 @@ The prior work is cited for its method, specifically the validator-floor
 measurement, the version-pinning appendix and the claims-ledger discipline this
 study reuses, and not for any result of the company's.
 
-`[CONFIRM: aycan Medical Systems LLC is named from the public README of the
-author's palimpsest harness [37], which states that the pipeline evaluated in
-[36] is a commercial product of that company. The employment relationship and
-its dates are the author's to state, and are the two fields above.]`
-
 ### Funding
 
 This study received no funding. No grant, contract, fellowship or institutional

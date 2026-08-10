@@ -1,0 +1,40 @@
+[
+  {
+    "id": "SUB-16",
+    "section": "SUB",
+    "section_title": "Submission package",
+    "claim": "No placeholder, internal note or unresolved marker reaches an external document except the two fields the author has not filled.",
+    "status": "MEASURED",
+    "status_note": "Seven markers survived a build and I reported all seven as the pending Zenodo DOIs. Only four were. The other three were defects: two `[CONFIRM: ...]` blocks of internal reasoning that would have printed in the title page and the manuscript, and one `{{FIELD:affiliation}}` in the cover letter signature that never resolved because the resolver substituted once and a field value that names another field needs a second pass.",
+    "value": "Markers fell from 7 to 4. The remaining 4 are zenodo_version_doi and zenodo_concept_doi in two files each.",
+    "sop_class": "not applicable",
+    "n": "4",
+    "denominator": "7",
+    "floor": "not applicable, this row counts surviving markers",
+    "dropped": "nothing. The resolver iterates to a fixed point with a depth cap of 8 and raises rather than hanging if two fields name each other",
+    "validator": "none",
+    "validator_version": "not applicable",
+    "command": "python -m colophon.submission",
+    "source_file": "results/submission/00_cover_letter.md",
+    "verified_on": "2026-08-03"
+  },
+  {
+    "id": "SUB-17",
+    "section": "SUB",
+    "section_title": "Submission package",
+    "claim": "The cover letter reads as a letter: a date, an addressee, and no repository apparatus.",
+    "status": "MEASURED",
+    "status_note": "Four defects, all from fields rendered without the context that made them sentences. The date field held the string `stamped at final build`, a description of what should happen, and printed it. The editor block printed the title twice, once inside the field value and once beneath it. The disclosure clause ran four lines and carried a ledger row id, which means nothing to an editor. The suggested-reviewers field printed as an orphan paragraph answering a question the letter never asked.",
+    "value": "Date stamped at build, 3 August 2026. Addressed to the office rather than the person. Disclosure reduced to the count with the method left on the title page. Suggested reviewers labelled.",
+    "sop_class": "not applicable",
+    "n": "4",
+    "denominator": "4",
+    "floor": "not applicable, this row counts defects closed",
+    "dropped": "the editor is no longer named. The field remains and overrides the stamped date if it is set to something containing a year",
+    "validator": "none",
+    "validator_version": "not applicable",
+    "command": "python -m colophon.submission",
+    "source_file": "results/submission/00_cover_letter.md",
+    "verified_on": "2026-08-03"
+  }
+]

@@ -13,6 +13,8 @@ from pathlib import Path
 
 import pytest
 
+from conftest import need_submission
+
 from colophon import citations
 from colophon.paths import RESULTS
 
@@ -137,6 +139,7 @@ def test_every_version_string_derives_from_one_source():
     version that is never minted. The reference entry now takes
     `colophon.__version__` and this asserts the rest agree with it.
     """
+    need_submission()
     import json
     import re
     from colophon import __version__
